@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Designing Addiction.canvas",
+                "file": "App Design.canvas",
                 "viewState": {
-                  "x": 500.73488175819955,
-                  "y": 1081.7906763783717,
-                  "zoom": -1.655114381021889
+                  "x": 78,
+                  "y": -272.5,
+                  "zoom": -1.4038069529510202
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Designing Addiction"
+              "title": "App Design"
             }
           }
         ]
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designing Addiction.canvas",
+                "file": "App Design.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Designing Addiction"
+              "title": "Backlinks for App Design"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Designing Addiction.canvas",
+                "file": "App Design.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Designing Addiction"
+              "title": "Outline of App Design"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Designing Addiction.canvas",
+                "file": "App Design.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Designing Addiction"
+              "title": "Outgoing links from App Design"
             }
           },
           {
@@ -208,9 +208,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "37dcdc47cde7b10f",
   "lastOpenFiles": [
     "Designing Addiction.canvas",
+    "Marketing.canvas",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
     "zManagment/Media/Pasted image 20260618052153.png",
