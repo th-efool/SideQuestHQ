@@ -4,15 +4,31 @@
 		{"id":"2433d3d2d32176a6","type":"group","x":-3040,"y":-320,"width":1800,"height":1520,"label":"Leaderboard"},
 		{"id":"8c6029eb16cb70db","type":"group","x":-760,"y":-960,"width":1520,"height":1440,"label":"Designing Addiction"},
 		{
-			"id":"d9029490ed2a53d8",
+			"id":"9a0534e31e22d431",
 			"type":"text",
-			"text":"3. **Humanize Recognition**: Use mechanisms that feel social and emotional rather than mechanical. Using the example of Peloton, Tim explains that creating moments of recognition—like instructor shoutouts—provides the emotional boost necessary to keep users grinding (3:31 - 4:28). ",
+			"text":"# DELIEVER",
 			"styleAttributes":{},
-			"x":-2930,
-			"y":780,
-			"width":760,
-			"height":80
+			"x":1017,
+			"y":2400,
+			"width":260,
+			"height":60
 		},
+		{"id":"d42cb3bfb7bb4d3b","type":"file","file":"zManagment/Media/Pasted image 20260618024131.png","x":800,"y":-444,"width":875,"height":806},
+		{
+			"id":"3478ac8bd1bbed4f",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":653,
+			"y":940,
+			"width":294,
+			"height":60
+		},
+		{"id":"2fa45d745a5089dd","type":"link","url":"https://www.youtube.com/watch?v=yBpv5rZoBjA","x":-440,"y":41,"width":640,"height":360},
+		{"id":"7f99c239b3524bcc","type":"link","url":"https://www.youtube.com/watch?v=Du2lkZ_cux8","x":40,"y":-364,"width":640,"height":360},
+		{"id":"7f5bb1dad5f4783b","type":"link","url":"https://www.youtube.com/watch?v=LXX_qOA5D8E","x":-680,"y":-401,"width":640,"height":360},
+		{"id":"4e02288224f5470b","type":"link","url":"https://www.youtube.com/playlist?list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt","x":-320,"y":-860,"width":640,"height":360},
+		{"id":"1607de40fe00166c","type":"file","file":"zManagment/Media/Pasted image 20260618052158.png","x":280,"y":55,"width":520,"height":462},
 		{
 			"id":"8f78a963e31314b6",
 			"type":"text",
@@ -34,16 +50,6 @@
 			"height":287
 		},
 		{
-			"id":"69eca94855a9c24b",
-			"type":"text",
-			"text":"2. **Localize the Cohort**: Global leaderboards can feel \"unwinnable,\" leading to disengagement. Shrink the competition size to focus on peers, neighbors, or friends, which makes winning feel achievable and keeps users coming back (2:18 - 3:07).",
-			"styleAttributes":{},
-			"x":-2930,
-			"y":487,
-			"width":760,
-			"height":80
-		},
-		{
 			"id":"abb0732e6527ada7",
 			"type":"text",
 			"text":"### IDEA\n**Comapre em with**\n1. friend with similar activity points \n2.  person in cohort nearest (he did this much this week)",
@@ -52,6 +58,48 @@
 			"y":440,
 			"width":420,
 			"height":175
+		},
+		{
+			"id":"534cef58c8a9b467",
+			"type":"text",
+			"text":"# Learn In Public - REWARDS to random 3",
+			"styleAttributes":{},
+			"x":800,
+			"y":-640,
+			"width":580,
+			"height":80
+		},
+		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-680,"y":1200,"width":1827,"height":812},
+		{
+			"id":"84556e3627911024",
+			"type":"text",
+			"text":"# DTF Sticker use cutout paste",
+			"styleAttributes":{},
+			"x":1360,
+			"y":970,
+			"width":420,
+			"height":60
+		},
+		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1360,"y":1200,"width":1070,"height":1000},
+		{
+			"id":"d9029490ed2a53d8",
+			"type":"text",
+			"text":"3. **Humanize Recognition**: Use mechanisms that feel social and emotional rather than mechanical. Using the example of Peloton, Tim explains that creating moments of recognition—like instructor shoutouts—provides the emotional boost necessary to keep users grinding (3:31 - 4:28). ",
+			"styleAttributes":{},
+			"x":-2930,
+			"y":780,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"69eca94855a9c24b",
+			"type":"text",
+			"text":"2. **Localize the Cohort**: Global leaderboards can feel \"unwinnable,\" leading to disengagement. Shrink the competition size to focus on peers, neighbors, or friends, which makes winning feel achievable and keeps users coming back (2:18 - 3:07).",
+			"styleAttributes":{},
+			"x":-2930,
+			"y":487,
+			"width":760,
+			"height":80
 		},
 		{
 			"id":"a904b5ac21680a6b",
@@ -74,16 +122,6 @@
 			"height":80
 		},
 		{
-			"id":"534cef58c8a9b467",
-			"type":"text",
-			"text":"# Learn In Public - REWARDS to random 3",
-			"styleAttributes":{},
-			"x":800,
-			"y":-640,
-			"width":580,
-			"height":80
-		},
-		{
 			"id":"de457d66af1fa3fd",
 			"type":"text",
 			"text":"# WHOLESALEL BUY",
@@ -103,45 +141,7 @@
 			"width":294,
 			"height":60
 		},
-		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-600,"y":2064,"width":440,"height":213},
-		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-680,"y":1200,"width":1827,"height":812},
-		{
-			"id":"84556e3627911024",
-			"type":"text",
-			"text":"# DTF Sticker use cutout paste",
-			"styleAttributes":{},
-			"x":1360,
-			"y":970,
-			"width":420,
-			"height":60
-		},
-		{
-			"id":"9a0534e31e22d431",
-			"type":"text",
-			"text":"# DELIEVER",
-			"styleAttributes":{},
-			"x":1017,
-			"y":2400,
-			"width":260,
-			"height":60
-		},
-		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1360,"y":1200,"width":1070,"height":1000},
-		{"id":"d42cb3bfb7bb4d3b","type":"file","file":"zManagment/Media/Pasted image 20260618024131.png","x":800,"y":-444,"width":875,"height":806},
-		{
-			"id":"3478ac8bd1bbed4f",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":653,
-			"y":940,
-			"width":294,
-			"height":60
-		},
-		{"id":"2fa45d745a5089dd","type":"link","url":"https://www.youtube.com/watch?v=yBpv5rZoBjA","x":-440,"y":41,"width":640,"height":360},
-		{"id":"7f99c239b3524bcc","type":"link","url":"https://www.youtube.com/watch?v=Du2lkZ_cux8","x":40,"y":-364,"width":640,"height":360},
-		{"id":"7f5bb1dad5f4783b","type":"link","url":"https://www.youtube.com/watch?v=LXX_qOA5D8E","x":-680,"y":-401,"width":640,"height":360},
-		{"id":"4e02288224f5470b","type":"link","url":"https://www.youtube.com/playlist?list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt","x":-320,"y":-860,"width":640,"height":360},
-		{"id":"1607de40fe00166c","type":"file","file":"zManagment/Media/Pasted image 20260618052158.png","x":280,"y":55,"width":520,"height":462}
+		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-600,"y":2064,"width":440,"height":213}
 	],
 	"edges":[
 		{

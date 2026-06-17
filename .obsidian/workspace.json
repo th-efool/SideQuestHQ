@@ -15,9 +15,9 @@
               "state": {
                 "file": "Designing Addiction.canvas",
                 "viewState": {
-                  "x": -204.11847212984355,
-                  "y": 246.48279550145338,
-                  "zoom": -0.6551143810218891
+                  "x": 500.73488175819955,
+                  "y": 1081.7906763783717,
+                  "zoom": -1.655114381021889
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -76,16 +76,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "5235d91c1030c843",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
-            }
           }
         ]
       }
@@ -102,12 +92,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cf80ff1c7d48c203",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "1019f1ac61fc26e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/30Aug.md",
+                "file": "Designing Addiction.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,21 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 30Aug"
-            }
-          },
-          {
-            "id": "c5e712adb12128dd",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Chess/Chess1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Chess1"
+              "title": "Backlinks for Designing Addiction"
             }
           },
           {
@@ -155,23 +141,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chess/Chess1.md",
+                "file": "Designing Addiction.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chess1"
+              "title": "Outline of Designing Addiction"
             }
           },
           {
-            "id": "cf80ff1c7d48c203",
+            "id": "c5e712adb12128dd",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Designing Addiction.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Designing Addiction"
             }
           },
           {
@@ -188,7 +178,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,13 +204,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "37dcdc47cde7b10f",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
-    "zManagment/Media/Marketing.md",
     "Designing Addiction.canvas",
+    "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
     "zManagment/Media/Pasted image 20260618052153.png",
     "App Launch.canvas",
@@ -266,7 +258,6 @@
     "Chess/1. Eight Courser/d. Igor Smirnov - Opening to Middle",
     "README.md",
     "zBooks/Computational Genome Analysis/Untitled.md",
-    "Alchemy/Untitled.md",
-    "Blogs/Content/Culture, (Local-Routine) - Antithetical to Psyche mood.md"
+    "Alchemy/Untitled.md"
   ]
 }
