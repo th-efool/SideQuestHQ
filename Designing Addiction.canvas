@@ -1,0 +1,115 @@
+{
+	"nodes":[
+		{"id":"f48c916d099ff557","type":"group","x":-720,"y":880,"width":3560,"height":1400,"label":"Untitled group"},
+		{"id":"8c6029eb16cb70db","type":"group","x":-760,"y":-520,"width":1520,"height":1000,"label":"Designing Addiction"},
+		{"id":"7f5bb1dad5f4783b","type":"link","url":"https://www.youtube.com/watch?v=LXX_qOA5D8E","x":-680,"y":-401,"width":640,"height":360},
+		{"id":"2fa45d745a5089dd","type":"link","url":"https://www.youtube.com/watch?v=yBpv5rZoBjA","x":-440,"y":41,"width":640,"height":360},
+		{"id":"7f99c239b3524bcc","type":"link","url":"https://www.youtube.com/watch?v=Du2lkZ_cux8","x":40,"y":-364,"width":640,"height":360},
+		{"id":"d42cb3bfb7bb4d3b","type":"file","file":"Media/Pasted image 20260618024131.png","x":800,"y":-444,"width":875,"height":806},
+		{
+			"id":"534cef58c8a9b467",
+			"type":"text",
+			"text":"# Learn In Public - REWARDS to random 3",
+			"styleAttributes":{},
+			"x":800,
+			"y":-640,
+			"width":580,
+			"height":80
+		},
+		{"id":"f09c193cef7f57e1","type":"file","file":"Media/Pasted image 20260618031001.png","x":-680,"y":1200,"width":1827,"height":812},
+		{
+			"id":"de457d66af1fa3fd",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":563,
+			"y":1444,
+			"width":294,
+			"height":60
+		},
+		{
+			"id":"83fa987dd7e29c28",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":563,
+			"y":1444,
+			"width":294,
+			"height":60
+		},
+		{"id":"90f2cf01122a1975","type":"file","file":"Media/Pasted image 20260618030755.png","x":-600,"y":2064,"width":440,"height":213},
+		{
+			"id":"9a0534e31e22d431",
+			"type":"text",
+			"text":"# DELIEVER",
+			"styleAttributes":{},
+			"x":1017,
+			"y":2400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"3478ac8bd1bbed4f",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":653,
+			"y":940,
+			"width":294,
+			"height":60
+		},
+		{"id":"ed6d58355f6d1938","type":"file","file":"Media/Pasted image 20260618032210.png","x":1360,"y":1200,"width":1070,"height":1000},
+		{
+			"id":"84556e3627911024",
+			"type":"text",
+			"text":"# DTF Sticker use cutout paste",
+			"styleAttributes":{},
+			"x":1360,
+			"y":970,
+			"width":420,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"e1e2f65bf3795ca7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f09c193cef7f57e1",
+			"fromSide":"bottom",
+			"toNode":"9a0534e31e22d431",
+			"toSide":"top"
+		},
+		{
+			"id":"392ff07ce19861c4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ed6d58355f6d1938",
+			"fromSide":"bottom",
+			"toNode":"9a0534e31e22d431",
+			"toSide":"top"
+		},
+		{
+			"id":"c8b3ea5e70f6e834",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3478ac8bd1bbed4f",
+			"fromSide":"bottom",
+			"toNode":"f09c193cef7f57e1",
+			"toSide":"top"
+		},
+		{
+			"id":"108f7565143efe93",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"84556e3627911024",
+			"fromSide":"bottom",
+			"toNode":"ed6d58355f6d1938",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff4b619a7b6fa3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37dcdc47cde7b10f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Designing Addiction.canvas",
+                "viewState": {
+                  "x": 1040,
+                  "y": 910,
+                  "zoom": -2.4857183101575733
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Designing Addiction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1c98e6120818e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5ec0f3e05fdb977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c461e2609c7fcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e93356e082102751",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b9b4ad9c685b302",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5235d91c1030c843",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "right": {
+    "id": "00602f738617e704",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fbb62778cc2c1d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1019f1ac61fc26e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/30Aug.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 30Aug"
+            }
+          },
+          {
+            "id": "c5e712adb12128dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chess/Chess1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chess1"
+            }
+          },
+          {
+            "id": "3f3cbccec2c4ab05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "134ea7cdcea0ebe7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chess/Chess1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chess1"
+            }
+          },
+          {
+            "id": "cf80ff1c7d48c203",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "620913227fc71906",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "37dcdc47cde7b10f",
+  "lastOpenFiles": [
+    "Merch Designs/Sticker Designs.md",
+    "App Production.canvas",
+    "Journal/30Aug.md",
+    "zManagment/Chess/2. NM RR/2. NM RR.md",
+    "zManagment/Chess/Untitled.md",
+    "Dashboard.md",
+    "Writting/The Fools Gambit/WCSF/WCSF.md",
+    "Journal/People Managment/Prakash.md",
+    "Journal/Quotes - Lines.md",
+    "Blogs/WebD/4 GOAT makes 5/Goat One.canvas",
+    "Writting/The Fools Gambit/Religion.md",
+    "Writting/Interesting Dialogue WAY.md",
+    "Writting/The Fools Gambit/Later Maybe.md",
+    "Writting/The Fools Gambit/Quotes Loved.md",
+    "Writting/The Fools Gambit/Journal/7FEB MORNING or 6feb night.md",
+    "zManagment/Media/Pasted image 20250309232929.png",
+    "zManagment/Media/Pasted image 20250309231635.png",
+    "zManagment/Media/Pasted image 20250309231526.png",
+    "zManagment/Media/Pasted image 20250309231525.png",
+    "zManagment/Media/Pasted image 20250309231156.png",
+    "zManagment/Media/Pasted image 20250309231145.png",
+    "zManagment/Media/Pasted image 20250309231128.png",
+    "zManagment/Media/Pasted image 20250309225952.png",
+    "zManagment/Media/Pasted image 20250309225757.png",
+    "zManagment/Media/Pasted image 20250309224719.png",
+    "Blogs/WebD/4 GOAT makes 5/GOAT 1.md",
+    "Blogs/WebD/Elements Picking Up/Window Effect/Parallax No JS vid!.md",
+    "Blogs/WebD/Elements Picking Up/Window Effect",
+    "Blogs/WebD/Elements Picking Up",
+    "Blogs/WebD/4 GOAT makes 5",
+    "zManagment/WebD - Best Channel.md",
+    "Blogs/WebD",
+    "Journal/Sanity.md",
+    "Journal/People Managment/Kanha.md",
+    "Journal/People Managment/Darshan.md",
+    "Journal/People Managment",
+    "Journal/表现.md",
+    "Blogs/Content",
+    "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md",
+    "zManagment/Media",
+    "zManagment/Chess",
+    "zManagment",
+    "Chess/1. Eight Courser/d. Igor Smirnov - Opening to Middle",
+    "README.md",
+    "zBooks/Computational Genome Analysis/Untitled.md",
+    "Alchemy/Untitled.md",
+    "Blogs/Content/Culture, (Local-Routine) - Antithetical to Psyche mood.md"
+  ]
+}

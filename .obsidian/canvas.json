@@ -1,0 +1,6 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": true,
+  "zoomBreakpoint": 1.27,
+  "defaultWheelBehavior": "pan"
+}

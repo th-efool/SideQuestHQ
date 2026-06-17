@@ -1,0 +1,54 @@
+{
+	"nodes":[
+		{"id":"74583ebffb4ab5a8","type":"group","x":-600,"y":280,"width":1200,"height":880,"label":"Jayhoovy"},
+		{"id":"33b6a405a5de80ac","type":"link","url":"https://www.youtube.com/watch?v=_CYDb99TPZM","x":-320,"y":-180,"width":640,"height":360},
+		{
+			"id":"5aa71a4881ad53cd",
+			"type":"text",
+			"text":"# GOAT MOVE - go to study together groups & have people JOIN IT!!!",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-390,
+			"width":360,
+			"height":140
+		},
+		{
+			"id":"f889fdf53836d795",
+			"type":"text",
+			"text":"# GOAT MOVE -Lets Connect THREADS GOES THE MOST VIRAL",
+			"styleAttributes":{},
+			"x":-60,
+			"y":-390,
+			"width":360,
+			"height":140
+		},
+		{
+			"id":"9d84a1c2d07c20bc",
+			"type":"text",
+			"text":"# GOAT MOVE -Lets Connect TWEETS GOES most viral\n",
+			"styleAttributes":{},
+			"x":320,
+			"y":-390,
+			"width":360,
+			"height":140
+		},
+		{
+			"id":"22a15886896bdd31",
+			"type":"text",
+			"text":"# GOAT MOVE -Discord Lure People\n\n",
+			"styleAttributes":{},
+			"x":360,
+			"y":-160,
+			"width":360,
+			"height":140
+		},
+		{"id":"2adafa7842eaaa9f","type":"link","url":"https://www.youtube.com/playlist?list=PLaVCX7GqMeINNNvCpcBntclQT-fpi2e1w","x":-20,"y":360,"width":380,"height":280},
+		{"id":"a302f4a76a61916d","type":"link","url":"https://www.youtube.com/playlist?list=PLaVCX7GqMeIPE92qFTLNHX4QqyVD0KcLN","x":-60,"y":700,"width":520,"height":300},
+		{"id":"d600f99469b2ebf0","type":"link","url":"https://www.youtube.com/@jayhoovy","x":-480,"y":380,"width":400,"height":620}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
