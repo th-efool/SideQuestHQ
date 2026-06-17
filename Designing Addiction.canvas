@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"f48c916d099ff557","type":"group","x":-720,"y":880,"width":3560,"height":1400,"label":"Untitled group"},
+		{"id":"2433d3d2d32176a6","type":"group","x":-3040,"y":-320,"width":1800,"height":1520,"label":"Leaderboard"},
 		{"id":"8c6029eb16cb70db","type":"group","x":-760,"y":-520,"width":1520,"height":1000,"label":"Designing Addiction"},
 		{"id":"7f5bb1dad5f4783b","type":"link","url":"https://www.youtube.com/watch?v=LXX_qOA5D8E","x":-680,"y":-401,"width":640,"height":360},
 		{"id":"2fa45d745a5089dd","type":"link","url":"https://www.youtube.com/watch?v=yBpv5rZoBjA","x":-440,"y":41,"width":640,"height":360},
@@ -68,6 +69,76 @@
 			"y":970,
 			"width":420,
 			"height":60
+		},
+		{
+			"id":"d9029490ed2a53d8",
+			"type":"text",
+			"text":"3. **Humanize Recognition**: Use mechanisms that feel social and emotional rather than mechanical. Using the example of Peloton, Tim explains that creating moments of recognition—like instructor shoutouts—provides the emotional boost necessary to keep users grinding (3:31 - 4:28). ",
+			"styleAttributes":{},
+			"x":-2930,
+			"y":780,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"8f78a963e31314b6",
+			"type":"text",
+			"text":"### IDEA\nHammy will encourage em & show message **but for human aspects**\n1. Prompt users in their network in cohort to CONGRATULATE THEM\n2. they just have to click \"SEND\" (would be auto typed, we can have many variations that it'd rule based & rando auto chooose )\n3. Option to edit & write custom\n",
+			"styleAttributes":{},
+			"x":-1940,
+			"y":660,
+			"width":420,
+			"height":320
+		},
+		{
+			"id":"0fa3aa87c800e17f",
+			"type":"text",
+			"text":"### IDEA\nTop 3 performers in cohort will get a badge that will show everywhere in their profile  \n**Conditions would be**\n1. minimum 10 Active users (Active in last week)\n2. 25 members minimum \n3. Top 3 should have streak unbroken\n4. *More than 3 can qualify rule based* (minimum point threshold & streak must)\n",
+			"styleAttributes":{},
+			"x":-1940,
+			"y":33,
+			"width":420,
+			"height":287
+		},
+		{
+			"id":"69eca94855a9c24b",
+			"type":"text",
+			"text":"2. **Localize the Cohort**: Global leaderboards can feel \"unwinnable,\" leading to disengagement. Shrink the competition size to focus on peers, neighbors, or friends, which makes winning feel achievable and keeps users coming back (2:18 - 3:07).",
+			"styleAttributes":{},
+			"x":-2930,
+			"y":487,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"abb0732e6527ada7",
+			"type":"text",
+			"text":"### IDEA\n**Comapre em with**\n1. friend with similar activity points \n2.  person in cohort nearest (he did this much this week)",
+			"styleAttributes":{},
+			"x":-1920,
+			"y":440,
+			"width":420,
+			"height":175
+		},
+		{
+			"id":"a904b5ac21680a6b",
+			"type":"text",
+			"text":"1. **Surface Comparison at Completion**: Instead of showing a generic list, provide a status update or comparison at the moment of task completion (e.g., finishing a workout or lesson) to show users where they stand (1:26 - 1:42).\n\n\n",
+			"styleAttributes":{},
+			"x":-2860,
+			"y":133,
+			"width":620,
+			"height":100
+		},
+		{
+			"id":"030ddb0557e0e294",
+			"type":"text",
+			"text":"# LEADERBOARDS\n\n",
+			"styleAttributes":{},
+			"x":-2730,
+			"y":-47,
+			"width":360,
+			"height":80
 		}
 	],
 	"edges":[
@@ -106,6 +177,60 @@
 			"fromSide":"bottom",
 			"toNode":"ed6d58355f6d1938",
 			"toSide":"top"
+		},
+		{
+			"id":"fb129ac895448c29",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"030ddb0557e0e294",
+			"fromSide":"bottom",
+			"toNode":"a904b5ac21680a6b",
+			"toSide":"top"
+		},
+		{
+			"id":"ab40551f482d6ed9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a904b5ac21680a6b",
+			"fromSide":"bottom",
+			"toNode":"69eca94855a9c24b",
+			"toSide":"top"
+		},
+		{
+			"id":"bad6dc37e363ab3d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"69eca94855a9c24b",
+			"fromSide":"bottom",
+			"toNode":"d9029490ed2a53d8",
+			"toSide":"top"
+		},
+		{
+			"id":"fbbc6de0ee08d28a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a904b5ac21680a6b",
+			"fromSide":"right",
+			"toNode":"0fa3aa87c800e17f",
+			"toSide":"left"
+		},
+		{
+			"id":"36b9355762b271ad",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d9029490ed2a53d8",
+			"fromSide":"right",
+			"toNode":"8f78a963e31314b6",
+			"toSide":"left"
+		},
+		{
+			"id":"5747fc1b70408a6b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"69eca94855a9c24b",
+			"fromSide":"right",
+			"toNode":"abb0732e6527ada7",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

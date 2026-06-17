@@ -15,9 +15,9 @@
               "state": {
                 "file": "Designing Addiction.canvas",
                 "viewState": {
-                  "x": 1040,
-                  "y": 910,
-                  "zoom": -2.4857183101575733
+                  "x": -2415.9539071595113,
+                  "y": 328.98157967119784,
+                  "zoom": -1.4857183101575733
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -197,8 +197,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -212,8 +210,10 @@
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "37dcdc47cde7b10f",
