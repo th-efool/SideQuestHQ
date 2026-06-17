@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"7069b937bcabb62c","type":"group","ratio":1.7777777777777777,"x":-700,"y":-700,"width":1556,"height":875,"label":"Start Slide"},
+		{"id":"716c5c0484ef250b","type":"link","url":"https://www.youtube.com/watch?v=Aa89MC8jX2c&list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt&index=2&pp=iAQB","x":-620,"y":-340,"width":640,"height":360},
+		{"id":"17e381fd93577c68","type":"link","url":"https://www.youtube.com/watch?v=86PGRyQjdzQ","x":-60,"y":-260,"width":640,"height":360},
+		{"id":"71597eef8bddc21e","type":"link","url":"https://www.youtube.com/watch?v=MAvKHToGiVY&list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt&index=1&pp=iAQB","x":-220,"y":-720,"width":640,"height":360}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"7069b937bcabb62c"
+	}
+}
