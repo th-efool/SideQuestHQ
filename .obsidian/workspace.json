@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/Pando/Pando.md",
+                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pando"
+              "title": "Novapaw"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Assets Img Anim/Pando/Pando.md",
+                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pando"
+              "title": "Backlinks for Novapaw"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Assets Img Anim/Pando/Pando.md",
+                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pando"
+              "title": "Outline of Novapaw"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Assets Img Anim/Pando/Pando.md",
+                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pando"
+              "title": "Outgoing links from Novapaw"
             }
           },
           {
@@ -207,11 +207,15 @@
   },
   "active": "ec5dcd6c0d0141d6",
   "lastOpenFiles": [
+    "zManagment/Media/1.2.4_homepage.default_cutout.novapaw.png",
+    "zManagment/Media/NovaPaw_-_Character.png",
+    "zManagment/Media/0.3.4_character.expression.novapaw.png",
+    "_Assets Img Anim/Pando/Pando.md",
+    "zManagment/Media/1.4.3_homepage.deep_learning.pando.png",
     "zManagment/Media/1.3.3_homepage.peeker.corner.pando.png",
     "zManagment/Media/1.2.3_homepage.default_cutout.pando.png",
     "zManagment/Media/0.3.3_character.expression.pando.png",
     "_Assets Img Anim/Novapaw/Novapaw.md",
-    "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Hammy/Hammy.md",
     "Building The Website.canvas",
     "_Assets Img Anim/Hammy",
@@ -251,15 +255,11 @@
     "zManagment/Media/Pasted image 20260618054214.png",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
-    "zManagment/Media/Pasted image 20260618052153.png",
-    "zManagment/Media/hqdefault.avif",
     "Merch Designs/Sticker Designs.md",
     "Journal/30Aug.md",
     "zManagment/Chess/2. NM RR/2. NM RR.md",
     "zManagment/Chess/Untitled.md",
     "Dashboard.md",
-    "Blogs/WebD/4 GOAT makes 5/Goat One.canvas",
-    "zManagment/Media/Pasted image 20250309232929.png",
-    "zManagment/Media/Pasted image 20250309231635.png"
+    "Blogs/WebD/4 GOAT makes 5/Goat One.canvas"
   ]
 }
