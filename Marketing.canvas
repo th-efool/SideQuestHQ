@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"3cdf26630fdf71e8","type":"group","x":400,"y":-400,"width":1160,"height":640,"label":"Yatagari STory"},
+		{"id":"3cdf26630fdf71e8","type":"group","x":400,"y":-400,"width":2720,"height":640,"label":"Yatagari STory"},
 		{"id":"6b2c5b71e0efb770","type":"link","url":"https://www.youtube.com/watch?v=uOhVaUvRVPE","x":-320,"y":-180,"width":640,"height":360},
 		{"id":"57eeab69e989569c","type":"file","file":"zManagment/Media/Pasted image 20260618054249.png","x":480,"y":-320,"width":400,"height":186},
 		{"id":"d509eb8a7b9c1f6d","type":"file","file":"zManagment/Media/Pasted image 20260618054214.png","x":480,"y":-127,"width":400,"height":307},
@@ -35,15 +35,6 @@
 			"fromNode":"75c4af7154e21843",
 			"fromSide":"right",
 			"toNode":"2872089f44d9e5fa",
-			"toSide":"left"
-		},
-		{
-			"id":"ca88dba411ca1c1e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"83b8371e07a952b8",
-			"fromSide":"right",
-			"toNode":"c9319b36e7a826e7",
 			"toSide":"left"
 		},
 		{

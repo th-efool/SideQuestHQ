@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "AI UGC.canvas",
                 "viewState": {
-                  "x": 1317.1453661477694,
-                  "y": -646.3848236961771,
-                  "zoom": -1
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Marketing"
+              "title": "AI UGC"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "AI UGC.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marketing"
+              "title": "Backlinks for AI UGC"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "AI UGC.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marketing"
+              "title": "Outline of AI UGC"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "AI UGC.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marketing"
+              "title": "Outgoing links from AI UGC"
             }
           },
           {
@@ -226,13 +226,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "79b6546f8d3596cc",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "Marketing.canvas",
+    "AI UGC.canvas",
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
     "App Design.canvas",
     "Designing Addiction.canvas",
-    "Marketing.canvas",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
     "zManagment/Media/Pasted image 20260618052153.png",
@@ -259,7 +260,6 @@
     "zManagment/Media/Pasted image 20250309231526.png",
     "zManagment/Media/Pasted image 20250309231525.png",
     "zManagment/Media/Pasted image 20250309231156.png",
-    "zManagment/Media/Pasted image 20250309231145.png",
     "Blogs/WebD/4 GOAT makes 5/GOAT 1.md",
     "Blogs/WebD/Elements Picking Up/Window Effect/Parallax No JS vid!.md",
     "Blogs/WebD/Elements Picking Up/Window Effect",
