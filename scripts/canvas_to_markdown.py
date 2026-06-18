@@ -22,10 +22,14 @@ def rel_link(path, base):
         return path
 
 
-def node_text(n, base):
+def md_link(label, url):
+    return f'<a href="{esc(url)}">{esc(label)}</a>'
+
+
+def node_html(n, base):
     t = n.get("type", "text")
     if t == "text":
-        return n.get("text", "")
+        return esc(n.get("text", ""))
     if t == "file":
         f = n.get("file", "")
         p = (base / f).resolve()
@@ -33,13 +37,15 @@ def node_text(n, base):
         body = ""
         if p.exists() and p.suffix.lower() in {".md", ".txt"}:
             body = p.read_text(errors="ignore")[:1200]
-        return f"[{title}]({esc(rel_link(f, base))})\n\n{body}" if body else f"[{title}]({esc(rel_link(f, base))})"
+        url = rel_link(str(Path(f).with_suffix("")) if p.suffix.lower() == ".canvas" else f, base)
+        link = md_link(title, url)
+        return f"{link}<br/><br/>{esc(body)}" if body else link
     if t == "link":
         url = n.get("url", "")
-        return f"[{url}]({url})"
+        return md_link(url, url)
     if t == "group":
-        return n.get("label", "Group")
-    return t
+        return esc(n.get("label", "Group"))
+    return esc(t)
 
 
 def color(n, alpha=.10):
@@ -79,7 +85,7 @@ def render_canvas(path):
         x, y = n.get("x",0)-minx+pad, n.get("y",0)-miny+pad
         nw, nh = n.get("width",260), n.get("height",120)
         fill, stroke = color(n)
-        txt = esc(node_text(n, path.parent))
+        txt = node_html(n, path.parent)
         cls = "group" if n.get("type") == "group" else "node"
         out.append(f'<foreignObject x="{x}" y="{y}" width="{nw}" height="{nh}"><div xmlns="http://www.w3.org/1999/xhtml" class="canvas-{cls}" style="box-sizing:border-box;width:100%;height:100%;overflow:hidden;border:2px solid {stroke};border-radius:10px;background:{fill};padding:10px;color:#0f172a;font-size:14px;line-height:1.35;white-space:pre-wrap;word-break:break-word;"><strong>{esc(n.get("type","text"))}</strong><br/>{txt}</div></foreignObject>')
     out += ["</svg>", "</div>\n"]
@@ -90,7 +96,7 @@ def rewrite_links():
     pat = re.compile(r"\[\[([^\]|]+\.canvas)(\|[^\]]+)?\]\]")
     for md in PUB.rglob("*.md"):
         s = md.read_text(errors="ignore")
-        ns = pat.sub(lambda m: f"[[{m.group(1)}.md{m.group(2) or '|' + m.group(1)}]]", s)
+        ns = pat.sub(lambda m: f"[[{Path(m.group(1)).with_suffix('').as_posix()}{m.group(2) or '|' + m.group(1)}]]", s)
         if ns != s:
             md.write_text(ns)
 
@@ -99,7 +105,7 @@ def main():
     for c in PUB.rglob("*.canvas"):
         title = c.name
         body = f"# {title}\n\n{render_canvas(c)}"
-        c.with_name(c.name + ".md").write_text(body)
+        c.with_suffix(".md").write_text(body)
     rewrite_links()
 
 if __name__ == "__main__":
