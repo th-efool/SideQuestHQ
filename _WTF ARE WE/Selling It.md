@@ -18,6 +18,9 @@ That have
 & join them
 
 ![[Pasted image 20260618100400.png]]
+![[Pasted image 20260618100409.png]]
+![[Pasted image 20260618100417.png]]
+![[Pasted image 20260618100426.png]]
 # What the App Actually Does
 
 You can put in unstructured content:
