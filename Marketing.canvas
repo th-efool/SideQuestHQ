@@ -5,7 +5,6 @@
 		{"id":"57eeab69e989569c","type":"file","file":"zManagment/Media/Pasted image 20260618054249.png","x":480,"y":-320,"width":400,"height":186},
 		{"id":"d509eb8a7b9c1f6d","type":"file","file":"zManagment/Media/Pasted image 20260618054214.png","x":480,"y":-127,"width":400,"height":307},
 		{"id":"83b8371e07a952b8","type":"link","url":"https://www.youtube.com/watch?v=qYYeu0E-1SI","x":900,"y":-227,"width":640,"height":360},
-		{"id":"ea815706d1474982","type":"link","url":"https://www.youtube.com/watch?v=PFfo4JySptw","x":-240,"y":-840,"width":640,"height":360},
 		{
 			"id":"75c4af7154e21843",
 			"type":"text",
@@ -26,7 +25,8 @@
 			"width":640,
 			"height":420
 		},
-		{"id":"384c2950fd364169","type":"link","url":"https://www.youtube.com/watch?v=yw5iIgO4PbY","x":440,"y":280,"width":640,"height":400}
+		{"id":"384c2950fd364169","type":"link","url":"https://www.youtube.com/watch?v=yw5iIgO4PbY","x":520,"y":-860,"width":640,"height":400},
+		{"id":"ea815706d1474982","type":"link","url":"https://www.youtube.com/watch?v=PFfo4JySptw","x":480,"y":280,"width":640,"height":360}
 	],
 	"edges":[
 		{
