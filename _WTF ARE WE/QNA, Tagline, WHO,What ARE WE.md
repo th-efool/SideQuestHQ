@@ -1,3 +1,47 @@
+**Tagline**: Helping learners finish what they start. Made for busy people with multiple interests.
+# One-Line Description
+
+We help learners consistently make progress through scattered & long form content without losing momentum when life gets in the way.
+
+# SHORT DESCRIPTION
+An app that helps curious learners organize and pursue multiple interests in-depth simultaneously without becoming overwhelmed so they can so they can keep progressing across multiple interests despite busy schedules and abandoning the things they genuinely want to learn.
+
+# Problem Statement
+
+People who want to deeply learn new skills often struggle to stay consistent. High-quality learning content is abundant, but long playlists, courses, and resources rarely fit into busy schedules. As priorities shift, learners lose momentum, abandon topics, and accumulate unfinished learning goals they genuinely care about.
+
+# Target Users
+
+A motivated learner with many interests and engagements (education, work, hobbies, or personal projects) but limited daily time because other responsibilities take priority.
+
+# Proposed Solution
+
+Users provide playlists, videos, articles, or other learning resources along with their goals and available time.
+
+AI analyzes the content and transforms it into a structured learning path with personalized pacing and daily sessions.
+
+Users can keep the path private or make it public, allowing others to join the same learning journey, share progress, exchange notes, and stay accountable together.
+
+Instead of jumping between YouTube, articles, bookmarks, and notes, learners receive a personalized microlearning feed containing the next videos, concepts, and activities needed to keep progressing toward completion.
+
+
+## Biggest Assumption / Risk
+
+Our biggest risk is positioning. We need to validate that users clearly understand SideQuestHQ platform,
+
+Eather than confusing it one of
+
+- AI to-do list,
+- AI summarizer
+- note-taking app
+- app like Seekho.
+
+# Feedback Needed
+
+### What We Need Feedback On
+
+AI Personalization & Adaptive Learning: Does the platform effectively adapt to learner progress? Scalability & Growth : Can the platform scale while maintaining value? User Engagement : Will learners stay active and consistent? Community Experience : Does collaboration and accountability improve learning?
+
 ### Section 3 — Problem Understanding
 
 **What problem are you solving?**
