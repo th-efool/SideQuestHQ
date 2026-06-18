@@ -2,7 +2,9 @@
 	"nodes":[
 		{"id":"6b2c5b71e0efb770","type":"link","url":"https://www.youtube.com/watch?v=uOhVaUvRVPE","x":-320,"y":-180,"width":640,"height":360},
 		{"id":"f74c0c1d2e4ecf37","type":"link","url":"https://www.youtube.com/watch?v=As7abwNhG7Y","x":300,"y":220,"width":640,"height":360},
-		{"id":"83b8371e07a952b8","type":"link","url":"https://www.youtube.com/watch?v=qYYeu0E-1SI","x":-380,"y":260,"width":640,"height":360}
+		{"id":"83b8371e07a952b8","type":"link","url":"https://www.youtube.com/watch?v=qYYeu0E-1SI","x":-380,"y":260,"width":640,"height":360},
+		{"id":"57eeab69e989569c","type":"file","file":"zManagment/Media/Pasted image 20260618054249.png","x":480,"y":-320,"width":400,"height":186},
+		{"id":"d509eb8a7b9c1f6d","type":"file","file":"zManagment/Media/Pasted image 20260618054214.png","x":480,"y":-127,"width":400,"height":307}
 	],
 	"edges":[],
 	"metadata":{
