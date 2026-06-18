@@ -8,27 +8,27 @@
 		{
 			"id":"75c4af7154e21843",
 			"type":"text",
-			"text":"# OUTREACH - - **Outreach at Scale:** Evan highlights the importance of manual outreach, aiming ==for 500 DMs a day== using multiple verified accounts (11:20 - 12:55).",
+			"text":"# OUTREACH - - **Outreach at Scale:** Evan highlights the importance of manual outreach, aiming ==for 100 DMs/account a day== w/ a verified account, using multiple verified accounts (11:20 - 12:55).",
 			"styleAttributes":{},
-			"x":-240,
-			"y":-730,
+			"x":540,
+			"y":-1220,
 			"width":680,
-			"height":300
+			"height":310
 		},
 		{
 			"id":"2872089f44d9e5fa",
 			"type":"text",
 			"text":"# Influencer Marketing (paid)\nYes, the video confirms that Evan pays influencers for their promotional work. He outlines four distinct deal structures used for these collaborations: \n\n* **Standard Deal:** A flat fee for a set number of videos (e.g., $500 for one video). (13:42 - 13:50)\n* **CPM Deal:** Paying a rate based on performance (e.g., $1 to $2 per thousand views) with an established cap to maintain profitability. (13:56 - 14:10)\n* **Minimum View Clause:** A deal where the creator is paid a fee (e.g., $1,000) with a requirement to reach a specific view benchmark; if the goal isn't met, they must continue posting until the collective views hit the target. (14:16 - 14:32)\n* **Bonus Deal:** A base fee with an additional payout if the video reaches a certain view count (e.g., $250 base, plus $250 if it hits 250,000 views). (14:35 - 14:46)",
 			"styleAttributes":{},
-			"x":560,
-			"y":-820,
+			"x":1080,
+			"y":-740,
 			"width":640,
 			"height":420
 		}
 	],
 	"edges":[
 		{
-			"id":"7e7d6c7dc8fa2966",
+			"id":"bcfe7af97c1fe2f6",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"75c4af7154e21843",
