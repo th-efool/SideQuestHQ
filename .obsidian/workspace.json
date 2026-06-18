@@ -28,10 +28,17 @@
             "id": "79b6546f8d3596cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Marketing.canvas",
+                "viewState": {
+                  "x": 310,
+                  "y": 200,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Marketing"
             }
           }
         ],
@@ -118,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Marketing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Marketing"
             }
           },
           {
@@ -151,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Marketing.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Marketing"
             }
           },
           {
@@ -165,11 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Marketing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Marketing"
             }
           },
           {
