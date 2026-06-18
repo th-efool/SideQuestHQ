@@ -4,16 +4,6 @@
 		{"id":"2433d3d2d32176a6","type":"group","x":-3040,"y":-320,"width":1800,"height":1520,"label":"Leaderboard"},
 		{"id":"8c6029eb16cb70db","type":"group","x":-760,"y":-960,"width":1520,"height":1440,"label":"Designing Addiction"},
 		{
-			"id":"9a0534e31e22d431",
-			"type":"text",
-			"text":"# DELIEVER",
-			"styleAttributes":{},
-			"x":1017,
-			"y":2400,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"3478ac8bd1bbed4f",
 			"type":"text",
 			"text":"# WHOLESALEL BUY",
@@ -34,28 +24,6 @@
 			"height":60
 		},
 		{
-			"id":"de457d66af1fa3fd",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":603,
-			"y":1484,
-			"width":294,
-			"height":60
-		},
-		{
-			"id":"83fa987dd7e29c28",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":603,
-			"y":1484,
-			"width":294,
-			"height":60
-		},
-		{"id":"7f99c239b3524bcc","type":"link","url":"https://www.youtube.com/watch?v=Du2lkZ_cux8","x":40,"y":-364,"width":640,"height":360},
-		{"id":"4e02288224f5470b","type":"link","url":"https://www.youtube.com/playlist?list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt","x":-320,"y":-860,"width":640,"height":360},
-		{
 			"id":"8f78a963e31314b6",
 			"type":"text",
 			"text":"### IDEA\nHammy will encourage em & show message **but for human aspects**\n1. Prompt users in their network in cohort to CONGRATULATE THEM\n2. they just have to click \"SEND\" (would be auto typed, we can have many variations that it'd rule based & rando auto chooose )\n3. Option to edit & write custom\n",
@@ -74,16 +42,6 @@
 			"y":33,
 			"width":420,
 			"height":287
-		},
-		{
-			"id":"abb0732e6527ada7",
-			"type":"text",
-			"text":"### IDEA\n**Comapre em with**\n1. friend with similar activity points \n2.  person in cohort nearest (he did this much this week)",
-			"styleAttributes":{},
-			"x":-1920,
-			"y":440,
-			"width":420,
-			"height":175
 		},
 		{
 			"id":"d9029490ed2a53d8",
@@ -125,10 +83,54 @@
 			"width":360,
 			"height":80
 		},
+		{
+			"id":"9a0534e31e22d431",
+			"type":"text",
+			"text":"# DELIEVER",
+			"styleAttributes":{},
+			"x":1017,
+			"y":2400,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"de457d66af1fa3fd",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":603,
+			"y":1484,
+			"width":294,
+			"height":60
+		},
+		{
+			"id":"83fa987dd7e29c28",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":603,
+			"y":1484,
+			"width":294,
+			"height":60
+		},
+		{"id":"7f99c239b3524bcc","type":"link","url":"https://www.youtube.com/watch?v=Du2lkZ_cux8","x":40,"y":-364,"width":640,"height":360},
+		{"id":"4e02288224f5470b","type":"link","url":"https://www.youtube.com/playlist?list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt","x":-320,"y":-860,"width":640,"height":360},
+		{
+			"id":"abb0732e6527ada7",
+			"type":"text",
+			"text":"### IDEA\n**Comapre em with**\n1. friend with similar activity points \n2.  person in cohort nearest (he did this much this week)",
+			"styleAttributes":{},
+			"x":-1920,
+			"y":440,
+			"width":420,
+			"height":175
+		},
+		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-640,"y":1240,"width":1827,"height":812},
+		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1400,"y":1240,"width":1070,"height":1000},
+		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-560,"y":2104,"width":440,"height":213},
 		{"id":"d42cb3bfb7bb4d3b","type":"file","file":"zManagment/Media/Pasted image 20260618024131.png","x":800,"y":-444,"width":875,"height":806},
 		{"id":"2fa45d745a5089dd","type":"link","url":"https://www.youtube.com/watch?v=yBpv5rZoBjA","x":-440,"y":41,"width":640,"height":360},
 		{"id":"7f5bb1dad5f4783b","type":"link","url":"https://www.youtube.com/watch?v=LXX_qOA5D8E","x":-680,"y":-401,"width":640,"height":360},
-		{"id":"1607de40fe00166c","type":"file","file":"zManagment/Media/Pasted image 20260618052158.png","x":280,"y":55,"width":520,"height":462},
 		{
 			"id":"534cef58c8a9b467",
 			"type":"text",
@@ -139,9 +141,7 @@
 			"width":580,
 			"height":80
 		},
-		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-640,"y":1240,"width":1827,"height":812},
-		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1400,"y":1240,"width":1070,"height":1000},
-		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-560,"y":2104,"width":440,"height":213}
+		{"id":"8bf32038c63d925c","type":"link","url":"https://youtu.be/MAvKHToGiVY?si=tBbQsazhLKDeFIAs","x":-400,"y":580,"width":640,"height":360}
 	],
 	"edges":[
 		{
