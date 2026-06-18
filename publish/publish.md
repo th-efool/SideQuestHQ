@@ -56,6 +56,7 @@
       - [[Pasted image 20260618100409.png]]
       - [[Pasted image 20260618100417.png]]
       - [[Pasted image 20260618100426.png]]
+  - [[home]]
   - [[Marketing Plan]]
   - [[publish]]
 
