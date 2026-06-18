@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_WTF ARE WE/2nd.md",
+                "file": "_WTF ARE WE/1st.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2nd"
+              "title": "1st"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_WTF ARE WE/2nd.md",
+                "file": "_WTF ARE WE/1st.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2nd"
+              "title": "Backlinks for 1st"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_WTF ARE WE/2nd.md",
+                "file": "_WTF ARE WE/1st.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2nd"
+              "title": "Outline of 1st"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_WTF ARE WE/2nd.md",
+                "file": "_WTF ARE WE/1st.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2nd"
+              "title": "Outgoing links from 1st"
             }
           },
           {
@@ -205,12 +205,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "f43bdb63f26f37b4",
   "lastOpenFiles": [
+    "_WTF ARE WE/2nd.md",
+    "_Assets Img Anim/Kip/Kip.md",
+    "_WTF ARE WE/1st.md",
+    "_Assets Img Anim/Hammy/Hammy.md",
     "zManagment/Media/ChatGPT Image Jun 18, 2026, 09_00_23 AM.png",
     "_Assets Img Anim/Kip",
-    "_WTF ARE WE/1st.md",
-    "_WTF ARE WE/2nd.md",
     "_WTF ARE WE/zOLD - product pitch doc.md",
     "App Design.canvas",
     "App Launch.canvas",
@@ -220,7 +222,6 @@
     "Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Bots Workflow (Twitter Threads) ac7ae91b411c479bb015b4a1944834ef.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
-    "_Assets Img Anim/Hammy/Hammy.md",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "zManagment/Media/Pasted image 20260618081021.png",
     "zManagment/Media/Pasted image 20260618081009.png",
@@ -234,7 +235,6 @@
     "zManagment/Media/1.3.2_homepage.peeker.left.hammy.png",
     "zManagment/Media/1.2.2_homepage.default_cutout.hammy.png",
     "_Assets Img Anim/Pando/Pando.md",
-    "zManagment/Media/Pasted image 20260618080539.png",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "Building The Website.canvas",
     "_Assets Img Anim/Hammy",
