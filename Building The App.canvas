@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"4b7472d1f952cabf","type":"file","file":"zManagment/Media/Pasted image 20260618074907.png","x":-340,"y":40,"width":400,"height":172},
+		{
+			"id":"b86db36b31241817",
+			"type":"link",
+			"url":"https://stitch.withgoogle.com/projects/17801575479153844325",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-340,
+			"y":240,
+			"width":400,
+			"height":400
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

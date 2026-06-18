@@ -11,14 +11,17 @@
             "id": "ec5dcd6c0d0141d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Marketing Plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Building The Website.canvas",
+                "viewState": {
+                  "x": 838.4406648507165,
+                  "y": -144.55192839982055,
+                  "zoom": -2.1492487314230346
+                }
               },
-              "icon": "lucide-file",
-              "title": "Marketing Plan"
+              "icon": "lucide-layout-dashboard",
+              "title": "Building The Website"
             }
           }
         ]
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing Plan.md",
+                "file": "Building The Website.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marketing Plan"
+              "title": "Backlinks for Building The Website"
             }
           },
           {
@@ -138,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing Plan.md",
+                "file": "Building The Website.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marketing Plan"
+              "title": "Outline of Building The Website"
             }
           },
           {
@@ -153,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing Plan.md",
+                "file": "Building The Website.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marketing Plan"
+              "title": "Outgoing links from Building The Website"
             }
           },
           {
@@ -207,7 +210,11 @@
   },
   "active": "ec5dcd6c0d0141d6",
   "lastOpenFiles": [
+    "App Launch.canvas",
+    "Building The App.canvas",
+    "zManagment/Media/Pasted image 20260618074907.png",
     "Untitled.md",
+    "Building The Website.canvas",
     "Marketing Plan.md",
     "Marketing.canvas",
     "Marketing/Instagram Influencers.md",
@@ -228,7 +235,6 @@
     "Content Creation/Social Media Marketing Plan",
     "App Design.canvas",
     "Designing Addiction.canvas",
-    "App Launch.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "UseForSelf(SideQuestHQ)",
     "Lemme Fix You/Welcome.md",
@@ -256,7 +262,6 @@
     "zManagment/Media/Pasted image 20250309231635.png",
     "zManagment/Media/Pasted image 20250309231526.png",
     "zManagment/Media/Pasted image 20250309231525.png",
-    "zManagment/Media/Pasted image 20250309231156.png",
     "Blogs/WebD/Elements Picking Up/Window Effect"
   ]
 }
