@@ -11,17 +11,14 @@
             "id": "ec5dcd6c0d0141d6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Building The Website.canvas",
-                "viewState": {
-                  "x": 838.4406648507165,
-                  "y": -144.55192839982055,
-                  "zoom": -2.1492487314230346
-                }
+                "file": "_Assets Img Anim/Pando/Pando.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Building The Website"
+              "icon": "lucide-file",
+              "title": "Pando"
             }
           }
         ]
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Building The Website.canvas",
+                "file": "_Assets Img Anim/Pando/Pando.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Building The Website"
+              "title": "Backlinks for Pando"
             }
           },
           {
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Building The Website.canvas",
+                "file": "_Assets Img Anim/Pando/Pando.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building The Website"
+              "title": "Outline of Pando"
             }
           },
           {
@@ -156,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Building The Website.canvas",
+                "file": "_Assets Img Anim/Pando/Pando.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Building The Website"
+              "title": "Outgoing links from Pando"
             }
           },
           {
@@ -210,11 +207,21 @@
   },
   "active": "ec5dcd6c0d0141d6",
   "lastOpenFiles": [
+    "zManagment/Media/1.3.3_homepage.peeker.corner.pando.png",
+    "zManagment/Media/1.2.3_homepage.default_cutout.pando.png",
+    "zManagment/Media/0.3.3_character.expression.pando.png",
+    "_Assets Img Anim/Novapaw/Novapaw.md",
+    "_Assets Img Anim/Pando/Pando.md",
+    "_Assets Img Anim/Hammy/Hammy.md",
+    "Building The Website.canvas",
+    "_Assets Img Anim/Hammy",
+    "_Assets Img Anim/Pando",
+    "_Assets Img Anim/Novapaw",
+    "_Assets Img Anim",
     "App Launch.canvas",
     "Building The App.canvas",
     "zManagment/Media/Pasted image 20260618074907.png",
     "Untitled.md",
-    "Building The Website.canvas",
     "Marketing Plan.md",
     "Marketing.canvas",
     "Marketing/Instagram Influencers.md",
@@ -240,28 +247,19 @@
     "Lemme Fix You/Welcome.md",
     "Lemme Fix You",
     "Content Creation/AI UGC.canvas",
-    "Content Creation",
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
     "zManagment/Media/Pasted image 20260618052153.png",
     "zManagment/Media/hqdefault.avif",
-    "zManagment/Media",
-    "zManagment",
     "Merch Designs/Sticker Designs.md",
     "Journal/30Aug.md",
     "zManagment/Chess/2. NM RR/2. NM RR.md",
     "zManagment/Chess/Untitled.md",
     "Dashboard.md",
-    "Writting/The Fools Gambit/WCSF/WCSF.md",
-    "Journal/People Managment/Prakash.md",
-    "Journal/Quotes - Lines.md",
     "Blogs/WebD/4 GOAT makes 5/Goat One.canvas",
     "zManagment/Media/Pasted image 20250309232929.png",
-    "zManagment/Media/Pasted image 20250309231635.png",
-    "zManagment/Media/Pasted image 20250309231526.png",
-    "zManagment/Media/Pasted image 20250309231525.png",
-    "Blogs/WebD/Elements Picking Up/Window Effect"
+    "zManagment/Media/Pasted image 20250309231635.png"
   ]
 }
