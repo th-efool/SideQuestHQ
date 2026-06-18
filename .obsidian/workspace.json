@@ -25,17 +25,14 @@
             "id": "571895e0253cfebb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Marketing.canvas",
-                "viewState": {
-                  "x": 1400,
-                  "y": 321.7938650306749,
-                  "zoom": -1.2150401242209554
-                }
+                "file": "UseForSelf(SideQuestHQ)/Jayhoovy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Marketing"
+              "icon": "lucide-file",
+              "title": "Jayhoovy"
             }
           }
         ],
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "UseForSelf(SideQuestHQ)/Jayhoovy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marketing"
+              "title": "Backlinks for Jayhoovy"
             }
           },
           {
@@ -156,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "UseForSelf(SideQuestHQ)/Jayhoovy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marketing"
+              "title": "Outline of Jayhoovy"
             }
           },
           {
@@ -171,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "UseForSelf(SideQuestHQ)/Jayhoovy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marketing"
+              "title": "Outgoing links from Jayhoovy"
             }
           },
           {
@@ -226,6 +223,8 @@
   "active": "571895e0253cfebb",
   "lastOpenFiles": [
     "Marketing.canvas",
+    "UseForSelf(SideQuestHQ)/Jayhoovy.md",
+    "UseForSelf(SideQuestHQ)",
     "Untitled.md",
     "Lemme Fix You/Welcome.md",
     "Lemme Fix You",
@@ -273,8 +272,6 @@
     "Journal/People Managment/Darshan.md",
     "Journal/People Managment",
     "Journal/表现.md",
-    "Blogs/Content",
-    "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md",
-    "README.md"
+    "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md"
   ]
 }
