@@ -30,10 +30,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "AI UGC.canvas",
+                "file": "Content Creation/AI UGC.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": -93,
                   "zoom": 0
                 }
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI UGC.canvas",
+                "file": "Content Creation/AI UGC.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI UGC.canvas",
+                "file": "Content Creation/AI UGC.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI UGC.canvas",
+                "file": "Content Creation/AI UGC.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -226,10 +226,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "79b6546f8d3596cc",
   "lastOpenFiles": [
+    "Content Creation",
     "Marketing.canvas",
-    "AI UGC.canvas",
+    "Content Creation/AI UGC.canvas",
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
     "App Design.canvas",
