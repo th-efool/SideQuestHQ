@@ -20,8 +20,40 @@
               "icon": "lucide-file",
               "title": "QNA, Tagline, WHO,What ARE WE"
             }
+          },
+          {
+            "id": "af428fe8e6176181",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MainCanvas/App Design.canvas",
+                "viewState": {
+                  "x": 78,
+                  "y": -172.5,
+                  "zoom": -0.33637322223295923
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "App Design"
+            }
+          },
+          {
+            "id": "89a96d14c450a7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QNA, Tagline, WHO,What ARE WE"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -138,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QNA, Tagline, WHO,What ARE WE"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -153,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QNA, Tagline, WHO,What ARE WE"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -205,8 +237,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "89a96d14c450a7b8",
   "lastOpenFiles": [
+    "MainCanvas/MainCanvas.md",
+    "MainCanvas/App Design.canvas",
+    "MainCanvas/Use SideQuestHQ yourself.canvas",
+    "Untitled.md",
+    "MainCanvas",
+    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
@@ -216,14 +254,12 @@
     "zManagment/Media/Pasted image 20260618100400.png",
     "_Assets Img Anim/Group Pics/Group Pics.md",
     "zManagment/Media/cup.png",
-    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_WTF ARE WE/zOLD - product pitch doc.md",
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
     "zManagment/Media/ChatGPT Image Jun 18, 2026, 09_00_23 AM.png",
     "_Assets Img Anim/Kip",
-    "App Design.canvas",
-    "App Launch.canvas",
+    "MainCanvas/App Launch.canvas",
     "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
     "Content Creation/Social Media Marketing Plan/Marketing/StudyTogether StudyStream.md",
@@ -237,14 +273,14 @@
     "_Assets Img Anim/Group Pics",
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
-    "Building The Website.canvas",
+    "MainCanvas/Building The Website.canvas",
     "_Assets Img Anim/Hammy",
     "_Assets Img Anim/Pando",
     "_Assets Img Anim/Novapaw",
     "_Assets Img Anim",
-    "Building The App.canvas",
+    "MainCanvas/Building The App.canvas",
     "Marketing Plan.md",
-    "Marketing.canvas",
+    "MainCanvas/Marketing.canvas",
     "Marketing/Instagram Influencers.md",
     "Marketing/Marketing Engine B.md",
     "Marketing/Marketing Engine A.md",
@@ -253,12 +289,9 @@
     "Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
     "Content Creation/Cheap Labour.md",
-    "Content Creation/Social Media Marketing Plan/Marketing",
-    "Designing Addiction.canvas",
+    "MainCanvas/Designing Addiction.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
-    "Lemme Fix You/Welcome.md",
     "Content Creation/AI UGC.canvas",
-    "zManagment/Media/Marketing.md",
     "Blogs/WebD/4 GOAT makes 5/Goat One.canvas"
   ]
 }
