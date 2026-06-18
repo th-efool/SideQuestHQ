@@ -25,31 +25,13 @@
             }
           },
           {
-            "id": "54758c7883569cd3",
+            "id": "79b6546f8d3596cc",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/results?search_query=Tim+the+secret+begind+apps+that+survive+decades",
-                "title": "Tim the secret begind apps that survive decades - YouTube",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "Tim the secret begind apps that survive decades - YouTube"
-            }
-          },
-          {
-            "id": "9755d90241810198",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=Du2lkZ_cux8",
-                "title": "The Secret Behind Weirdly Addictive Apps - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "The Secret Behind Weirdly Addictive Apps - YouTube"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -234,7 +216,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "54758c7883569cd3",
+  "active": "79b6546f8d3596cc",
   "lastOpenFiles": [
     "App Design.canvas",
     "Designing Addiction.canvas",
