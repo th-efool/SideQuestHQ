@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import html, json, re
+import re
+from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]

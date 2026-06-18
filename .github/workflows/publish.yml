@@ -26,6 +26,9 @@ jobs:
       - name: Generate canvas pages
         run: |
           python3 temp_md/scripts/canvas_to_markdown.py
+      - name: Install canvas viewer
+        run: |
+          python3 temp_md/scripts/patch_blog_for_canvas.py temp_blog
       - name: Run obsidian-export
         run: |
           rm -rf temp_blog/common_md && mkdir temp_blog/common_md
