@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/Hammy/Hammy.md",
+                "file": "_Assets Img Anim/zMerch/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammy"
+              "title": "Untitled"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Assets Img Anim/Hammy/Hammy.md",
+                "file": "_Assets Img Anim/zMerch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hammy"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Assets Img Anim/Hammy/Hammy.md",
+                "file": "_Assets Img Anim/zMerch/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hammy"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Assets Img Anim/Hammy/Hammy.md",
+                "file": "_Assets Img Anim/zMerch/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hammy"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -207,19 +207,24 @@
   },
   "active": "ec5dcd6c0d0141d6",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260618081021.png",
+    "zManagment/Media/Pasted image 20260618081009.png",
+    "zManagment/Media/Pasted image 20260618080947.png",
+    "_Assets Img Anim/Group Pics/Group Pics.md",
+    "_Assets Img Anim/zMerch/Untitled.md",
+    "_Assets Img Anim/zMerch",
+    "zManagment/Media/Pasted image 20260618080855.png",
+    "zManagment/Media/Pasted image 20260618080811.png",
+    "zManagment/Media/Pasted image 20260618080756.png",
+    "_Assets Img Anim/Hammy/Hammy.md",
+    "_Assets Img Anim/Group Pics",
+    "zManagment/Media/1.4.4_homepage.small_wins.hammy.png",
+    "zManagment/Media/1.3.2_homepage.peeker.left.hammy.png",
+    "zManagment/Media/1.2.2_homepage.default_cutout.hammy.png",
     "_Assets Img Anim/Pando/Pando.md",
     "zManagment/Media/Pasted image 20260618080539.png",
     "_Assets Img Anim/Novapaw/Novapaw.md",
-    "_Assets Img Anim/Hammy/Hammy.md",
     "zManagment/Media/0.3.2_character.expression.hammy.png",
-    "zManagment/Media/Hammy_-_Character.jpg",
-    "zManagment/Media/1.4.2_homepage.rabbit_hole.novapaw.png",
-    "zManagment/Media/1.3.4_homepage.peeker.top.novapaw.png",
-    "zManagment/Media/1.2.4_homepage.default_cutout.novapaw.png",
-    "zManagment/Media/NovaPaw_-_Character.png",
-    "zManagment/Media/0.3.4_character.expression.novapaw.png",
-    "zManagment/Media/1.4.3_homepage.deep_learning.pando.png",
-    "zManagment/Media/1.3.3_homepage.peeker.corner.pando.png",
     "Building The Website.canvas",
     "_Assets Img Anim/Hammy",
     "_Assets Img Anim/Pando",
@@ -249,16 +254,12 @@
     "App Design.canvas",
     "Designing Addiction.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
-    "UseForSelf(SideQuestHQ)",
     "Lemme Fix You/Welcome.md",
-    "Lemme Fix You",
     "Content Creation/AI UGC.canvas",
     "zManagment/Media/Marketing.md",
     "Merch Designs/Sticker Designs.md",
     "Journal/30Aug.md",
     "zManagment/Chess/2. NM RR/2. NM RR.md",
-    "zManagment/Chess/Untitled.md",
-    "Dashboard.md",
     "Blogs/WebD/4 GOAT makes 5/Goat One.canvas"
   ]
 }
