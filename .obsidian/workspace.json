@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_WTF ARE WE/Reframed Positioning.md",
+                "file": "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reframed Positioning"
+              "title": "Casual Merch Ideas"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_WTF ARE WE/Reframed Positioning.md",
+                "file": "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Reframed Positioning"
+              "title": "Backlinks for Casual Merch Ideas"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_WTF ARE WE/Reframed Positioning.md",
+                "file": "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reframed Positioning"
+              "title": "Outline of Casual Merch Ideas"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_WTF ARE WE/Reframed Positioning.md",
+                "file": "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reframed Positioning"
+              "title": "Outgoing links from Casual Merch Ideas"
             }
           },
           {
@@ -207,8 +207,10 @@
   },
   "active": "f43bdb63f26f37b4",
   "lastOpenFiles": [
-    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+    "_Assets Img Anim/Group Pics/Group Pics.md",
+    "zManagment/Media/cup.png",
     "_WTF ARE WE/Reframed Positioning.md",
+    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_WTF ARE WE/zOLD - product pitch doc.md",
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
@@ -221,7 +223,6 @@
     "Content Creation/Social Media Marketing Plan/Marketing/StudyTogether StudyStream.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Bots Workflow (Twitter Threads) ac7ae91b411c479bb015b4a1944834ef.md",
-    "_Assets Img Anim/Group Pics/Group Pics.md",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "zManagment/Media/Pasted image 20260618081021.png",
     "zManagment/Media/Pasted image 20260618081009.png",
@@ -233,7 +234,6 @@
     "_Assets Img Anim/Group Pics",
     "zManagment/Media/1.4.4_homepage.small_wins.hammy.png",
     "zManagment/Media/1.3.2_homepage.peeker.left.hammy.png",
-    "zManagment/Media/1.2.2_homepage.default_cutout.hammy.png",
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "Building The Website.canvas",
@@ -259,7 +259,6 @@
     "Lemme Fix You/Welcome.md",
     "Content Creation/AI UGC.canvas",
     "zManagment/Media/Marketing.md",
-    "Merch Designs/Sticker Designs.md",
     "Blogs/WebD/4 GOAT makes 5/Goat One.canvas"
   ]
 }
