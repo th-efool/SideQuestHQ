@@ -27,15 +27,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "App Launch.canvas",
+                "file": "App Design.canvas",
                 "viewState": {
-                  "x": 410,
-                  "y": -262.5,
-                  "zoom": -1.7342112321441905
+                  "x": 78,
+                  "y": -172.5,
+                  "zoom": -1.2214936158929142
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "App Launch"
+              "title": "App Design"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Launch.canvas",
+                "file": "App Design.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App Launch"
+              "title": "Backlinks for App Design"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Launch.canvas",
+                "file": "App Design.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App Launch"
+              "title": "Outline of App Design"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App Launch.canvas",
+                "file": "App Design.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from App Launch"
+              "title": "Outgoing links from App Design"
             }
           },
           {
@@ -225,6 +225,8 @@
   },
   "active": "571895e0253cfebb",
   "lastOpenFiles": [
+    "Designing Addiction.canvas",
+    "App Launch.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "Marketing.canvas",
     "UseForSelf(SideQuestHQ)",
@@ -236,11 +238,9 @@
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
     "App Design.canvas",
-    "Designing Addiction.canvas",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
     "zManagment/Media/Pasted image 20260618052153.png",
-    "App Launch.canvas",
     "zManagment/Media/hqdefault.avif",
     "zManagment/Media",
     "zManagment",
