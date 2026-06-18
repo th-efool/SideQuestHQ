@@ -23,8 +23,37 @@
               "icon": "lucide-layout-dashboard",
               "title": "App Design"
             }
+          },
+          {
+            "id": "54758c7883569cd3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/results?search_query=Tim+the+secret+begind+apps+that+survive+decades",
+                "title": "Tim the secret begind apps that survive decades - YouTube",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Tim the secret begind apps that survive decades - YouTube"
+            }
+          },
+          {
+            "id": "9755d90241810198",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=Du2lkZ_cux8",
+                "title": "The Secret Behind Weirdly Addictive Apps - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "The Secret Behind Weirdly Addictive Apps - YouTube"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Design.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App Design"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Design.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App Design"
+              "title": "Outline"
             }
           },
           {
@@ -156,12 +183,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App Design.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from App Design"
+              "title": "Outgoing links"
             }
           },
           {
@@ -208,10 +234,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "37dcdc47cde7b10f",
+  "active": "54758c7883569cd3",
   "lastOpenFiles": [
-    "Designing Addiction.canvas",
     "App Design.canvas",
+    "Designing Addiction.canvas",
     "Marketing.canvas",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
