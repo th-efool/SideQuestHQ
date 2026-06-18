@@ -4,41 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fff4b619a7b6fa3a",
+        "id": "94b3ec06f5828883",
         "type": "tabs",
         "children": [
           {
-            "id": "37dcdc47cde7b10f",
+            "id": "3b8b6472a9bc5c00",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "App Design.canvas",
-                "viewState": {
-                  "x": 78,
-                  "y": -134.52445700283926,
-                  "zoom": -0.3429458761564454
-                }
+                "file": "Lemme Fix You/Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "App Design"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           },
           {
-            "id": "79b6546f8d3596cc",
+            "id": "571895e0253cfebb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Marketing.canvas",
-                "viewState": {
-                  "x": 1400,
-                  "y": -300,
-                  "zoom": -1.2150401242209554
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Marketing"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -125,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marketing"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -159,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marketing"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -174,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marketing"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -226,11 +220,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "79b6546f8d3596cc",
+  "active": "571895e0253cfebb",
   "lastOpenFiles": [
+    "Lemme Fix You/Welcome.md",
+    "Untitled.md",
+    "Lemme Fix You",
+    "Marketing.canvas",
     "Content Creation/AI UGC.canvas",
     "Content Creation",
-    "Marketing.canvas",
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
     "App Design.canvas",
@@ -275,9 +272,7 @@
     "Journal/表现.md",
     "Blogs/Content",
     "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md",
-    "zManagment/Chess",
     "README.md",
-    "zBooks/Computational Genome Analysis/Untitled.md",
-    "Alchemy/Untitled.md"
+    "zBooks/Computational Genome Analysis/Untitled.md"
   ]
 }
