@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "94b3ec06f5828883",
+        "id": "99daaccf3a008f55",
         "type": "tabs",
         "children": [
           {
-            "id": "3b8b6472a9bc5c00",
+            "id": "ec5dcd6c0d0141d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lemme Fix You/Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "571895e0253cfebb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "App Design.canvas",
-                "viewState": {
-                  "x": 78,
-                  "y": -172.5,
-                  "zoom": -1.2214936158929142
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "App Design"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Design.canvas",
+                "file": "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App Design"
+              "title": "Backlinks for TikTok Insta Campaign (multi-account)"
             }
           },
           {
@@ -156,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Design.canvas",
+                "file": "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App Design"
+              "title": "Outline of TikTok Insta Campaign (multi-account)"
             }
           },
           {
@@ -171,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App Design.canvas",
+                "file": "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from App Design"
+              "title": "Outgoing links from TikTok Insta Campaign (multi-account)"
             }
           },
           {
@@ -223,8 +201,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "571895e0253cfebb",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
+    "Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
+    "Content Creation/Social Media Marketing Plan/Marketing/StudyTogether StudyStream.md",
+    "Content Creation/Social Media Marketing Plan/Marketing/Instagram Influencers.md",
+    "Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
+    "Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
+    "Content Creation/Social Media Marketing Plan/Marketing.md",
+    "Content Creation/Cheap Labour.md",
+    "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
+    "Content Creation/Social Media Marketing Plan/Marketing/Bots Workflow (Twitter Threads) ac7ae91b411c479bb015b4a1944834ef.md",
+    "Content Creation/Social Media Marketing Plan/Marketing",
+    "Content Creation/Social Media Marketing Plan",
+    "App Design.canvas",
     "Designing Addiction.canvas",
     "App Launch.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
@@ -237,7 +228,6 @@
     "Content Creation",
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
-    "App Design.canvas",
     "zManagment/Media/Marketing.md",
     "zManagment/Media/Pasted image 20260618052158.png",
     "zManagment/Media/Pasted image 20260618052153.png",
@@ -257,24 +247,13 @@
     "Writting/Interesting Dialogue WAY.md",
     "Writting/The Fools Gambit/Later Maybe.md",
     "Writting/The Fools Gambit/Quotes Loved.md",
-    "Writting/The Fools Gambit/Journal/7FEB MORNING or 6feb night.md",
     "zManagment/Media/Pasted image 20250309232929.png",
     "zManagment/Media/Pasted image 20250309231635.png",
     "zManagment/Media/Pasted image 20250309231526.png",
     "zManagment/Media/Pasted image 20250309231525.png",
     "zManagment/Media/Pasted image 20250309231156.png",
-    "Blogs/WebD/4 GOAT makes 5/GOAT 1.md",
-    "Blogs/WebD/Elements Picking Up/Window Effect/Parallax No JS vid!.md",
     "Blogs/WebD/Elements Picking Up/Window Effect",
     "Blogs/WebD/Elements Picking Up",
-    "Blogs/WebD/4 GOAT makes 5",
-    "zManagment/WebD - Best Channel.md",
-    "Blogs/WebD",
-    "Journal/Sanity.md",
-    "Journal/People Managment/Kanha.md",
-    "Journal/People Managment/Darshan.md",
-    "Journal/People Managment",
-    "Journal/表现.md",
-    "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md"
+    "Blogs/WebD/4 GOAT makes 5"
   ]
 }
