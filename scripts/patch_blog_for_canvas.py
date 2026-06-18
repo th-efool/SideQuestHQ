@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-import shutil, sys
+import re
+import shutil
+import sys
 from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
@@ -18,12 +20,41 @@ for src in pub.rglob("*.canvas"):
 
 p = blog / "lib" / "markdownToHtml.ts"
 s = p.read_text()
-old = ".use(rehypeRewrite, { selector: 'a', rewrite: async (node) => rewriteLinkNodes(node, linkNodeMapping, currSlug) })"
-new = ".use(rehypeRewrite, { selector: 'a, pre', rewrite: async (node) => { if (rewriteCanvasNodes(node)) return; rewriteLinkNodes(node, linkNodeMapping, currSlug) } })"
-if old in s:
-    s = s.replace(old, new)
-marker = "function rewriteLinkNodes"
-fn = """function rewriteCanvasNodes(node) { if (node.type !== 'element' || node.tagName !== 'pre') return false; const code = node.children?.[0]; const cls = code?.properties?.className || []; if (code?.tagName !== 'code' || !cls.includes('language-canvas-viewer')) return false; const src = String(code.children?.[0]?.value || '').trim(); if (!src) return false; node.tagName = 'iframe'; node.properties = { src: `/canvas_viewer.html?src=${encodeURIComponent(src)}`, style: 'width:100%;height:80vh;border:0;border-radius:12px;', loading: 'lazy' }; node.children = []; return true; } """
+
+fn = r"""
+function rewriteCanvasNodes(node) {
+  if (node.type !== 'element' || node.tagName !== 'pre') return false;
+  const code = node.children?.[0];
+  const className = code?.properties?.className || [];
+  const classes = Array.isArray(className) ? className : String(className).split(/\s+/);
+  if (code?.tagName !== 'code' || !classes.includes('language-canvas-viewer')) return false;
+  const src = String(code.children?.[0]?.value || '').trim();
+  if (!src) return false;
+  node.tagName = 'iframe';
+  node.properties = {
+    src: `/canvas_viewer.html?src=${encodeURIComponent(src)}`,
+    style: 'width:100%;height:80vh;border:0;border-radius:12px;',
+    loading: 'lazy',
+  };
+  node.children = [];
+  return true;
+}
+"""
+
 if "function rewriteCanvasNodes" not in s:
-    s = s.replace(marker, fn + marker)
+    marker = "function rewriteLinkNodes"
+    if marker not in s:
+        raise RuntimeError(f"Could not find {marker} in {p}")
+    s = s.replace(marker, fn + "\n" + marker, 1)
+
+s, count = re.subn(
+    r"\.use\(rehypeRewrite,\s*\{\s*selector:\s*['\"]a['\"]\s*,\s*rewrite:\s*async\s*\(node\)\s*=>\s*rewriteLinkNodes\(node,\s*linkNodeMapping,\s*currSlug\)\s*\}\s*\)",
+    ".use(rehypeRewrite, { selector: 'a, pre', rewrite: async (node) => { if (rewriteCanvasNodes(node)) return; rewriteLinkNodes(node, linkNodeMapping, currSlug) } })",
+    s,
+    count=1,
+)
+
+if count == 0 and "rewriteCanvasNodes(node)" not in s:
+    raise RuntimeError(f"Could not patch rehypeRewrite selector in {p}")
+
 p.write_text(s)
