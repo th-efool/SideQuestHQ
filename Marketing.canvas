@@ -4,13 +4,15 @@
 		{"id":"6b2c5b71e0efb770","type":"link","url":"https://www.youtube.com/watch?v=uOhVaUvRVPE","x":-320,"y":-180,"width":640,"height":360},
 		{"id":"57eeab69e989569c","type":"file","file":"zManagment/Media/Pasted image 20260618054249.png","x":480,"y":-320,"width":400,"height":186},
 		{"id":"d509eb8a7b9c1f6d","type":"file","file":"zManagment/Media/Pasted image 20260618054214.png","x":480,"y":-127,"width":400,"height":307},
+		{"id":"83b8371e07a952b8","type":"link","url":"https://www.youtube.com/watch?v=qYYeu0E-1SI","x":900,"y":-227,"width":640,"height":360},
+		{"id":"ea815706d1474982","type":"link","url":"https://www.youtube.com/watch?v=PFfo4JySptw","x":-240,"y":-840,"width":640,"height":360},
 		{
 			"id":"75c4af7154e21843",
 			"type":"text",
 			"text":"# OUTREACH - - **Outreach at Scale:** Evan highlights the importance of manual outreach, aiming ==for 100 DMs/account a day== w/ a verified account, using multiple verified accounts (11:20 - 12:55).",
 			"styleAttributes":{},
-			"x":540,
-			"y":-1220,
+			"x":1600,
+			"y":-257,
 			"width":680,
 			"height":310
 		},
@@ -19,13 +21,11 @@
 			"type":"text",
 			"text":"# Influencer Marketing (paid)\nYes, the video confirms that Evan pays influencers for their promotional work. He outlines four distinct deal structures used for these collaborations: \n\n* **Standard Deal:** A flat fee for a set number of videos (e.g., $500 for one video). (13:42 - 13:50)\n* **CPM Deal:** Paying a rate based on performance (e.g., $1 to $2 per thousand views) with an established cap to maintain profitability. (13:56 - 14:10)\n* **Minimum View Clause:** A deal where the creator is paid a fee (e.g., $1,000) with a requirement to reach a specific view benchmark; if the goal isn't met, they must continue posting until the collective views hit the target. (14:16 - 14:32)\n* **Bonus Deal:** A base fee with an additional payout if the video reaches a certain view count (e.g., $250 base, plus $250 if it hits 250,000 views). (14:35 - 14:46)",
 			"styleAttributes":{},
-			"x":1280,
-			"y":-1220,
+			"x":2340,
+			"y":-257,
 			"width":640,
 			"height":420
-		},
-		{"id":"83b8371e07a952b8","type":"link","url":"https://www.youtube.com/watch?v=qYYeu0E-1SI","x":900,"y":-227,"width":640,"height":360},
-		{"id":"ea815706d1474982","type":"link","url":"https://www.youtube.com/watch?v=PFfo4JySptw","x":-240,"y":-840,"width":640,"height":360}
+		}
 	],
 	"edges":[
 		{
@@ -35,6 +35,24 @@
 			"fromNode":"75c4af7154e21843",
 			"fromSide":"right",
 			"toNode":"2872089f44d9e5fa",
+			"toSide":"left"
+		},
+		{
+			"id":"ca88dba411ca1c1e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"83b8371e07a952b8",
+			"fromSide":"right",
+			"toNode":"c9319b36e7a826e7",
+			"toSide":"left"
+		},
+		{
+			"id":"fe0ca06629d4524e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"83b8371e07a952b8",
+			"fromSide":"right",
+			"toNode":"75c4af7154e21843",
 			"toSide":"left"
 		}
 	],
