@@ -1362,10 +1362,15 @@
         this.setupFallbackInputs();
 
         // Startup Logic
-        setTimeout(async () => {
-          await this.tryAutoConnectCanvas();
-          await this.tryAutoConnectVault();
-        }, 500);
+        const src = new URLSearchParams(location.search).get('src');
+        if (src) {
+          this.loadFromSrc(src);
+        } else {
+          setTimeout(async () => {
+            await this.tryAutoConnectCanvas();
+            await this.tryAutoConnectVault();
+          }, 500);
+        }
       }
 
       bindEvents() {
@@ -1626,6 +1631,19 @@
         } else {
           this.showToast("Select file again to refresh");
           document.getElementById('file-input').click();
+        }
+      }
+
+      async loadFromSrc(src) {
+        try {
+          document.getElementById('status-text').textContent = src;
+          const resp = await fetch(src);
+          if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+          const data = this.parser.parse(await resp.text());
+          this.renderCanvas(data);
+          this.updateFileButton('Canvas: ' + src.split('/').pop(), true);
+        } catch (e) {
+          this.showToast('Load Error: ' + e.message);
         }
       }
 
