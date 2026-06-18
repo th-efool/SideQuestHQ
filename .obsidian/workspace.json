@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "505449e8337bbfad",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0e463c0e08f98616",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -205,9 +205,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0e463c0e08f98616",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
     "publish/home.md",
+    "scripts/canvas_to_markdown.py",
+    "scripts",
     "publish/Marketing Plan.md",
     "publish-your-obsidian-notes-with-linked-blog-starter.md",
     "publish/publish.md",
@@ -249,10 +251,8 @@
     "publish/MainCanvas/Building The App.canvas",
     "publish/MainCanvas/App Launch.canvas",
     "publish/MainCanvas/App Design.canvas",
-    "publish/MainCanvas",
     "publish/Lemme Fix You/Welcome.md",
     "publish/Lemme Fix You/Lemme Fix You.md",
-    "publish/Lemme Fix You",
     "publish/Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "publish/Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
     "publish/Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
@@ -260,7 +260,6 @@
     "publish/Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
     "publish/Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
     "publish/Content Creation/Social Media Marketing Plan/Marketing/Bots Workflow (Twitter Threads) ac7ae91b411c479bb015b4a1944834ef.md",
-    "publish/Content Creation/Content Creation.md",
     "publish/Content Creation/AI UGC.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas"
   ]
