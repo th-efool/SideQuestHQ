@@ -207,6 +207,8 @@
   },
   "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "scripts/patch_blog_for_canvas.py",
+    "canvas_viewer.html",
     "publish/home.md",
     "scripts/canvas_to_markdown.py",
     "scripts",
@@ -242,7 +244,6 @@
     "publish/Marketing/Marketing Engine B.md",
     "publish/Marketing/Marketing Engine A.md",
     "publish/Marketing/Instagram Influencers.md",
-    "publish/Marketing",
     "publish/MainCanvas/Use SideQuestHQ yourself.canvas",
     "publish/MainCanvas/Marketing.canvas",
     "publish/MainCanvas/MainCanvas.md",

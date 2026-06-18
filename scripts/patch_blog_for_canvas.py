@@ -21,27 +21,15 @@ for src in pub.rglob("*.canvas"):
 p = blog / "lib" / "markdownToHtml.ts"
 s = p.read_text()
 
-plugin = r"""
-function rehypeCanvasViewer(): any {
-  return (tree) => {
-    visitCanvasNodes(tree);
-  };
-}
-
-function visitCanvasNodes(node) {
-  if (!node || typeof node !== 'object') return;
-  rewriteCanvasNode(node);
-  if (Array.isArray(node.children)) {
-    node.children.forEach(visitCanvasNodes);
-  }
-}
-
-function rewriteCanvasNode(node) {
-  if (node.type !== 'element' || node.tagName !== 'pre') return;
+fn = r"""
+function rewriteCanvasNodes(node) {
+  if (node.type !== 'element' || node.tagName !== 'pre') return false;
   const code = node.children?.[0];
-  if (code?.type !== 'element' || code.tagName !== 'code') return;
+  const className = code?.properties?.className || [];
+  const classes = Array.isArray(className) ? className : String(className).split(/\s+/);
+  if (code?.tagName !== 'code' || !classes.includes('language-canvas-viewer')) return false;
   const src = String(code.children?.[0]?.value || '').trim();
-  if (!/^\/canvas\/.+\.canvas$/i.test(src)) return;
+  if (!src) return false;
   node.tagName = 'iframe';
   node.properties = {
     src: `/canvas_viewer.html?src=${encodeURIComponent(src)}`,
@@ -49,42 +37,24 @@ function rewriteCanvasNode(node) {
     loading: 'lazy',
   };
   node.children = [];
+  return true;
 }
 """
 
-# Replace any older injected canvas helper with the current plugin.
-s = re.sub(
-    r"\nfunction (?:rewriteCanvasNodes|rehypeCanvasViewer)\([\s\S]*?\n(?=function rewriteLinkNodes)",
-    "\n" + plugin + "\n",
-    s,
-    count=1,
-)
-if "function rehypeCanvasViewer" not in s:
+if "function rewriteCanvasNodes" not in s:
     marker = "function rewriteLinkNodes"
     if marker not in s:
         raise RuntimeError(f"Could not find {marker} in {p}")
-    s = s.replace(marker, plugin + "\n" + marker, 1)
+    s = s.replace(marker, fn + "\n" + marker, 1)
 
-# Ensure canvas conversion runs after sanitize, independent of rehype-rewrite selectors.
-if ".use(rehypeCanvasViewer)" not in s:
-    s, count = re.subn(
-        r"(\.use\(rehypeSanitize\))",
-        r"\1\n    .use(rehypeCanvasViewer)",
-        s,
-        count=1,
-    )
-    if count == 0:
-        raise RuntimeError(f"Could not insert rehypeCanvasViewer after rehypeSanitize in {p}")
-
-# Keep link preview rewriting focused on links only.
 s, count = re.subn(
-    r"\.use\(rehypeRewrite,\s*\{\s*selector:\s*['\"]a(?:,\s*pre)?['\"]\s*,\s*rewrite:\s*async\s*\(node\)\s*=>\s*(?:\{\s*if\s*\(rewriteCanvasNodes\(node\)\)\s*return;\s*rewriteLinkNodes\(node,\s*linkNodeMapping,\s*currSlug\)\s*\}|rewriteLinkNodes\(node,\s*linkNodeMapping,\s*currSlug\))\s*,?\s*\}\s*\)",
-    ".use(rehypeRewrite, {\n      selector: 'a',\n      rewrite: async (node) => rewriteLinkNodes(node, linkNodeMapping, currSlug)\n    })",
+    r"\.use\(rehypeRewrite,\s*\{\s*selector:\s*['\"]a['\"]\s*,\s*rewrite:\s*async\s*\(node\)\s*=>\s*rewriteLinkNodes\(node,\s*linkNodeMapping,\s*currSlug\)\s*\}\s*\)",
+    ".use(rehypeRewrite, { selector: 'a, pre', rewrite: async (node) => { if (rewriteCanvasNodes(node)) return; rewriteLinkNodes(node, linkNodeMapping, currSlug) } })",
     s,
     count=1,
-    flags=re.S,
 )
-if count == 0:
-    raise RuntimeError(f"Could not normalize rehypeRewrite call in {p}")
+
+if count == 0 and "rewriteCanvasNodes(node)" not in s:
+    raise RuntimeError(f"Could not patch rehypeRewrite selector in {p}")
 
 p.write_text(s)
