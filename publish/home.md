@@ -1,6 +1,6 @@
 ---
 title: SideQuestHQ - NOTES
-excerpt:
+excerpt: Notes Online
 ---
 
 
