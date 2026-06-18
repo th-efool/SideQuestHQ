@@ -34,7 +34,7 @@
                 "viewState": {
                   "x": 310,
                   "y": 200,
-                  "zoom": 0
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zManagment/Media/Pasted image 20260618054249.png",
+                "file": "Marketing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260618054249"
+              "title": "Backlinks for Marketing"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zManagment/Media/Pasted image 20260618054249.png",
+                "file": "Marketing.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260618054249"
+              "title": "Outline of Marketing"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zManagment/Media/Pasted image 20260618054249.png",
+                "file": "Marketing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20260618054249"
+              "title": "Outgoing links from Marketing"
             }
           },
           {
