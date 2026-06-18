@@ -1,4 +1,5 @@
-# SideQuestHQ — Reframed Positioning
+"Curiosity shouldn't feel like backlog anxiety."
+
 
 ## The Core Problem
 
@@ -390,3 +391,90 @@ We help overwhelmed curious people finally finish the things they keep saving by
 SideQuestHQ is not about consuming more information.
 
 It’s about making meaningful curiosity emotionally sustainable again.
+
+# "Modern learning feels broken."
+
+"You save things because you're curious."
+
+"But eventually..."
+
+"Watch Later becomes overwhelming."
+
+"Bookmarks become guilt."
+
+"Playlists become commitments."
+
+"Curiosity becomes backlog."
+
+"The internet made knowledge infinite."
+
+"But nobody taught us how to continue."
+
+A desk covered in unfinished intentions.
+
+Open tabs.
+
+Saved videos.
+
+Bookmarks.
+
+Reading lists.
+
+Courses.
+
+Threads.
+
+Articles.
+
+Notes.
+
+Collections.
+
+Plans.
+
+Ideas.
+
+All waiting.
+
+All unfinished.
+
+Messages implied by the scene:
+
+"I'll get to it later."
+
+"I should really finish that."
+
+"I was excited about this."
+
+"I forgot where I left off."
+
+"I don't even know where to start anymore."
+
+"I have too many interests."
+
+"I have too many tabs."
+
+"I have too many things saved."
+
+"I don't have enough time."
+
+"I keep finding new things before finishing old things."
+
+"I want to learn all of this."
+
+"I probably never will."
+
+"Maybe next week."
+
+"Maybe when life calms down."
+
+"Maybe someday."
+
+
+Over time people accumulate hundreds of things they genuinely want to learn. Their digital lives become museums of good intentions. Watch Later queues. Saved folders. Bookmarks. Notes. Reading lists. Collections. Tabs. Every item represents real curiosity. Every item represents something they once cared about.
+
+A version where people have uninterrupted evenings, predictable schedules, stable motivation, and the ability to focus on one goal at a time for months.
+
+Real people have families, jobs, deadlines, responsibilities, distractions, changing priorities, changing energy levels, and multiple interests competing for attention.
+
+A person might want to learn programming, improve their writing, study psychology, learn a language, read more books, and explore artificial intelligence simultaneously. That isn't a flaw. That's what curiosity naturally looks like.
