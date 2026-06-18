@@ -11,10 +11,14 @@
             "id": "ec5dcd6c0d0141d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Marketing Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Marketing Plan"
             }
           }
         ]
@@ -100,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
+                "file": "Marketing Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TikTok Insta Campaign (multi-account)"
+              "title": "Backlinks for Marketing Plan"
             }
           },
           {
@@ -134,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
+                "file": "Marketing Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TikTok Insta Campaign (multi-account)"
+              "title": "Outline of Marketing Plan"
             }
           },
           {
@@ -149,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
+                "file": "Marketing Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TikTok Insta Campaign (multi-account)"
+              "title": "Outgoing links from Marketing Plan"
             }
           },
           {
@@ -201,17 +205,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "ec5dcd6c0d0141d6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Marketing Plan.md",
+    "Marketing.canvas",
+    "Marketing/Instagram Influencers.md",
+    "Marketing/Marketing Engine B.md",
+    "Marketing/Marketing Engine A.md",
+    "_WTF ARE WE/zOLD - product pitch doc.md",
+    "Marketing",
+    "_WTF ARE WE",
+    "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
     "Content Creation/Social Media Marketing Plan/Marketing/StudyTogether StudyStream.md",
-    "Content Creation/Social Media Marketing Plan/Marketing/Instagram Influencers.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
-    "Content Creation/Social Media Marketing Plan/Marketing.md",
     "Content Creation/Cheap Labour.md",
-    "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Bots Workflow (Twitter Threads) ac7ae91b411c479bb015b4a1944834ef.md",
     "Content Creation/Social Media Marketing Plan/Marketing",
     "Content Creation/Social Media Marketing Plan",
@@ -219,9 +230,7 @@
     "Designing Addiction.canvas",
     "App Launch.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
-    "Marketing.canvas",
     "UseForSelf(SideQuestHQ)",
-    "Untitled.md",
     "Lemme Fix You/Welcome.md",
     "Lemme Fix You",
     "Content Creation/AI UGC.canvas",
@@ -243,17 +252,11 @@
     "Journal/People Managment/Prakash.md",
     "Journal/Quotes - Lines.md",
     "Blogs/WebD/4 GOAT makes 5/Goat One.canvas",
-    "Writting/The Fools Gambit/Religion.md",
-    "Writting/Interesting Dialogue WAY.md",
-    "Writting/The Fools Gambit/Later Maybe.md",
-    "Writting/The Fools Gambit/Quotes Loved.md",
     "zManagment/Media/Pasted image 20250309232929.png",
     "zManagment/Media/Pasted image 20250309231635.png",
     "zManagment/Media/Pasted image 20250309231526.png",
     "zManagment/Media/Pasted image 20250309231525.png",
     "zManagment/Media/Pasted image 20250309231156.png",
-    "Blogs/WebD/Elements Picking Up/Window Effect",
-    "Blogs/WebD/Elements Picking Up",
-    "Blogs/WebD/4 GOAT makes 5"
+    "Blogs/WebD/Elements Picking Up/Window Effect"
   ]
 }
