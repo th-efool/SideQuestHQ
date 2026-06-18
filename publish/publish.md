@@ -1,0 +1,63 @@
+# publish Overview
+%% Begin Waypoint %%
+- **[[publish]]**
+  - **[[_Assets Img Anim]]**
+  - **[[_WTF ARE WE]]**
+  - **[[Content Creation]]**
+  - **[[Lemme Fix You]]**
+  - **[[MainCanvas]]**
+  - **Marketing**
+    - [[Instagram Influencers]]
+    - [[Marketing Engine A]]
+    - [[Marketing Engine B]]
+  - **Merch Designs**
+    - [[Sticker Designs]]
+  - **UseForSelf(SideQuestHQ)**
+    - [[Jayhoovy]]
+  - **xmedia**
+    - **Media**
+      - [[0.3.2_character.expression.hammy.png]]
+      - [[0.3.3_character.expression.pando.png]]
+      - [[0.3.4_character.expression.novapaw.png]]
+      - [[1.2.2_homepage.default_cutout.hammy.png]]
+      - [[1.2.3_homepage.default_cutout.pando.png]]
+      - [[1.2.4_homepage.default_cutout.novapaw.png]]
+      - [[1.3.2_homepage.peeker.left.hammy.png]]
+      - [[1.3.3_homepage.peeker.corner.pando.png]]
+      - [[1.3.4_homepage.peeker.top.novapaw.png]]
+      - [[1.4.2_homepage.rabbit_hole.novapaw.png]]
+      - [[1.4.3_homepage.deep_learning.pando.png]]
+      - [[1.4.4_homepage.small_wins.hammy.png]]
+      - [[ChatGPT Image Jun 18, 2026, 09_00_23 AM.png]]
+      - [[cup.png]]
+      - [[Hammy_-_Character.jpg]]
+      - [[hqdefault.avif]]
+      - [[NovaPaw_-_Character.png]]
+      - [[Pasted image 20260618000718.png]]
+      - [[Pasted image 20260618024131.png]]
+      - [[Pasted image 20260618030755.png]]
+      - [[Pasted image 20260618031001.png]]
+      - [[Pasted image 20260618032210.png]]
+      - [[Pasted image 20260618035527.png]]
+      - [[Pasted image 20260618035534.png]]
+      - [[Pasted image 20260618052153.png]]
+      - [[Pasted image 20260618052158.png]]
+      - [[Pasted image 20260618054214.png]]
+      - [[Pasted image 20260618054249.png]]
+      - [[Pasted image 20260618074907.png]]
+      - [[Pasted image 20260618080539.png]]
+      - [[Pasted image 20260618080756.png]]
+      - [[Pasted image 20260618080811.png]]
+      - [[Pasted image 20260618080855.png]]
+      - [[Pasted image 20260618080947.png]]
+      - [[Pasted image 20260618081009.png]]
+      - [[Pasted image 20260618081021.png]]
+      - [[Pasted image 20260618100400.png]]
+      - [[Pasted image 20260618100409.png]]
+      - [[Pasted image 20260618100417.png]]
+      - [[Pasted image 20260618100426.png]]
+  - [[Marketing Plan]]
+  - [[publish]]
+
+%% End Waypoint %%
+ %% Waypoint %%
