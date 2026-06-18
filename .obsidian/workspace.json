@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Content Creation/AI UGC.canvas",
+                "file": "Marketing.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": -93,
-                  "zoom": 0
+                  "x": 1400,
+                  "y": -300,
+                  "zoom": -1.2150401242209554
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "AI UGC"
+              "title": "Marketing"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Creation/AI UGC.canvas",
+                "file": "Marketing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AI UGC"
+              "title": "Backlinks for Marketing"
             }
           },
           {
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Creation/AI UGC.canvas",
+                "file": "Marketing.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AI UGC"
+              "title": "Outline of Marketing"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Creation/AI UGC.canvas",
+                "file": "Marketing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AI UGC"
+              "title": "Outgoing links from Marketing"
             }
           },
           {
@@ -228,9 +228,9 @@
   },
   "active": "79b6546f8d3596cc",
   "lastOpenFiles": [
+    "Content Creation/AI UGC.canvas",
     "Content Creation",
     "Marketing.canvas",
-    "Content Creation/AI UGC.canvas",
     "zManagment/Media/Pasted image 20260618054249.png",
     "zManagment/Media/Pasted image 20260618054214.png",
     "App Design.canvas",
@@ -276,7 +276,6 @@
     "Blogs/Content",
     "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md",
     "zManagment/Chess",
-    "Chess/1. Eight Courser/d. Igor Smirnov - Opening to Middle",
     "README.md",
     "zBooks/Computational Genome Analysis/Untitled.md",
     "Alchemy/Untitled.md"
