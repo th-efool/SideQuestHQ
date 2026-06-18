@@ -25,9 +25,11 @@ fn = r"""
 function rewriteCanvasNodes(node) {
   if (node.type !== 'element' || node.tagName !== 'pre') return false;
   const code = node.children?.[0];
-  if (code?.tagName !== 'code') return false;
+  const className = code?.properties?.className || [];
+  const classes = Array.isArray(className) ? className : String(className).split(/\s+/);
+  if (code?.tagName !== 'code' || !classes.includes('language-canvas-viewer')) return false;
   const src = String(code.children?.[0]?.value || '').trim();
-  if (!/^\/canvas\/.+\.canvas$/i.test(src)) return false;
+  if (!src) return false;
   node.tagName = 'iframe';
   node.properties = {
     src: `/canvas_viewer.html?src=${encodeURIComponent(src)}`,
@@ -46,14 +48,13 @@ if "function rewriteCanvasNodes" not in s:
     s = s.replace(marker, fn + "\n" + marker, 1)
 
 s, count = re.subn(
-    r"\.use\(rehypeRewrite,\s*\{\s*selector:\s*[\'\"]a[\'\"]\s*,\s*rewrite:\s*async\s*\(node\)\s*=>\s*rewriteLinkNodes\(node,\s*linkNodeMapping,\s*currSlug\)\s*,?\s*\}\s*\)",
+    r"\.use\(rehypeRewrite,\s*\{\s*selector:\s*['\"]a['\"]\s*,\s*rewrite:\s*async\s*\(node\)\s*=>\s*rewriteLinkNodes\(node,\s*linkNodeMapping,\s*currSlug\)\s*\}\s*\)",
     ".use(rehypeRewrite, { selector: 'a, pre', rewrite: async (node) => { if (rewriteCanvasNodes(node)) return; rewriteLinkNodes(node, linkNodeMapping, currSlug) } })",
     s,
     count=1,
-    flags=re.S,
 )
 
-if count == 0 and "selector: 'a, pre'" not in s and 'selector: "a, pre"' not in s:
+if count == 0 and "rewriteCanvasNodes(node)" not in s:
     raise RuntimeError(f"Could not patch rehypeRewrite selector in {p}")
 
 p.write_text(s)
