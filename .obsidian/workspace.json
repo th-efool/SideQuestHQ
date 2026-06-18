@@ -11,17 +11,14 @@
             "id": "f43bdb63f26f37b4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "App Design.canvas",
-                "viewState": {
-                  "x": 78,
-                  "y": -172.5,
-                  "zoom": -0.33637322223295923
-                }
+                "file": "_WTF ARE WE/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "App Design"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Design.canvas",
+                "file": "_WTF ARE WE/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App Design"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Design.canvas",
+                "file": "_WTF ARE WE/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of App Design"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -156,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App Design.canvas",
+                "file": "_WTF ARE WE/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from App Design"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -210,6 +207,9 @@
   },
   "active": "f43bdb63f26f37b4",
   "lastOpenFiles": [
+    "_WTF ARE WE/zOLD - product pitch doc.md",
+    "_WTF ARE WE/Untitled.md",
+    "App Design.canvas",
     "App Launch.canvas",
     "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
@@ -245,7 +245,6 @@
     "Marketing/Instagram Influencers.md",
     "Marketing/Marketing Engine B.md",
     "Marketing/Marketing Engine A.md",
-    "_WTF ARE WE/zOLD - product pitch doc.md",
     "Marketing",
     "_WTF ARE WE",
     "Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
@@ -253,7 +252,6 @@
     "Content Creation/Cheap Labour.md",
     "Content Creation/Social Media Marketing Plan/Marketing",
     "Content Creation/Social Media Marketing Plan",
-    "App Design.canvas",
     "Designing Addiction.canvas",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "Lemme Fix You/Welcome.md",
