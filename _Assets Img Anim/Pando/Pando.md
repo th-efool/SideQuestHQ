@@ -1,4 +1,4 @@
- 
+ ![[Pasted image 20260618080539.png]]
 ```ccard
 type: folder_brief_live
 ```

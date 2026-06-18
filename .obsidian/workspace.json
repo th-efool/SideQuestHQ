@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
+                "file": "_Assets Img Anim/Hammy/Hammy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Novapaw"
+              "title": "Hammy"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
+                "file": "_Assets Img Anim/Hammy/Hammy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Novapaw"
+              "title": "Backlinks for Hammy"
             }
           },
           {
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
+                "file": "_Assets Img Anim/Hammy/Hammy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Novapaw"
+              "title": "Outline of Hammy"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Assets Img Anim/Novapaw/Novapaw.md",
+                "file": "_Assets Img Anim/Hammy/Hammy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Novapaw"
+              "title": "Outgoing links from Hammy"
             }
           },
           {
@@ -207,16 +207,19 @@
   },
   "active": "ec5dcd6c0d0141d6",
   "lastOpenFiles": [
+    "_Assets Img Anim/Pando/Pando.md",
+    "zManagment/Media/Pasted image 20260618080539.png",
+    "_Assets Img Anim/Novapaw/Novapaw.md",
+    "_Assets Img Anim/Hammy/Hammy.md",
+    "zManagment/Media/0.3.2_character.expression.hammy.png",
+    "zManagment/Media/Hammy_-_Character.jpg",
+    "zManagment/Media/1.4.2_homepage.rabbit_hole.novapaw.png",
+    "zManagment/Media/1.3.4_homepage.peeker.top.novapaw.png",
     "zManagment/Media/1.2.4_homepage.default_cutout.novapaw.png",
     "zManagment/Media/NovaPaw_-_Character.png",
     "zManagment/Media/0.3.4_character.expression.novapaw.png",
-    "_Assets Img Anim/Pando/Pando.md",
     "zManagment/Media/1.4.3_homepage.deep_learning.pando.png",
     "zManagment/Media/1.3.3_homepage.peeker.corner.pando.png",
-    "zManagment/Media/1.2.3_homepage.default_cutout.pando.png",
-    "zManagment/Media/0.3.3_character.expression.pando.png",
-    "_Assets Img Anim/Novapaw/Novapaw.md",
-    "_Assets Img Anim/Hammy/Hammy.md",
     "Building The Website.canvas",
     "_Assets Img Anim/Hammy",
     "_Assets Img Anim/Pando",
@@ -224,7 +227,6 @@
     "_Assets Img Anim",
     "App Launch.canvas",
     "Building The App.canvas",
-    "zManagment/Media/Pasted image 20260618074907.png",
     "Untitled.md",
     "Marketing Plan.md",
     "Marketing.canvas",
@@ -251,10 +253,7 @@
     "Lemme Fix You/Welcome.md",
     "Lemme Fix You",
     "Content Creation/AI UGC.canvas",
-    "zManagment/Media/Pasted image 20260618054249.png",
-    "zManagment/Media/Pasted image 20260618054214.png",
     "zManagment/Media/Marketing.md",
-    "zManagment/Media/Pasted image 20260618052158.png",
     "Merch Designs/Sticker Designs.md",
     "Journal/30Aug.md",
     "zManagment/Chess/2. NM RR/2. NM RR.md",
