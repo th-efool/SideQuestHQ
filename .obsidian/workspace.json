@@ -25,14 +25,17 @@
             "id": "571895e0253cfebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Marketing.canvas",
+                "viewState": {
+                  "x": 1400,
+                  "y": -110,
+                  "zoom": -1.2150401242209554
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "Marketing"
             }
           }
         ],
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Marketing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Marketing"
             }
           },
           {
@@ -153,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Marketing.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Marketing"
             }
           },
           {
@@ -168,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Marketing.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Marketing"
             }
           },
           {
@@ -222,10 +225,10 @@
   },
   "active": "571895e0253cfebb",
   "lastOpenFiles": [
-    "Lemme Fix You/Welcome.md",
-    "Untitled.md",
-    "Lemme Fix You",
     "Marketing.canvas",
+    "Untitled.md",
+    "Lemme Fix You/Welcome.md",
+    "Lemme Fix You",
     "Content Creation/AI UGC.canvas",
     "Content Creation",
     "zManagment/Media/Pasted image 20260618054249.png",
@@ -272,7 +275,6 @@
     "Journal/表现.md",
     "Blogs/Content",
     "Chess/1. Eight Courser/a. Chess University - Crash Course/NM RR 1-10.md",
-    "README.md",
-    "zBooks/Computational Genome Analysis/Untitled.md"
+    "README.md"
   ]
 }
