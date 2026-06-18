@@ -11,10 +11,14 @@
             "id": "0fa25752f3814efb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "QNA, Tagline, WHO,What ARE WE"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "00602f738617e704",
@@ -101,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for QNA, Tagline, WHO,What ARE WE"
             }
           },
           {
@@ -134,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of QNA, Tagline, WHO,What ARE WE"
             }
           },
           {
@@ -148,11 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from QNA, Tagline, WHO,What ARE WE"
             }
           },
           {
@@ -199,17 +205,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0fa25752f3814efb",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
-    "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
+    "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
+    "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "zManagment/Media/Pasted image 20260618100426.png",
     "zManagment/Media/Pasted image 20260618100417.png",
     "zManagment/Media/Pasted image 20260618100409.png",
     "zManagment/Media/Pasted image 20260618100400.png",
     "_Assets Img Anim/Group Pics/Group Pics.md",
     "zManagment/Media/cup.png",
-    "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_WTF ARE WE/zOLD - product pitch doc.md",
     "_Assets Img Anim/Kip/Kip.md",
