@@ -25,17 +25,14 @@
             "id": "b798c32082ee3ce3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/Designing Addiction.canvas",
-                "viewState": {
-                  "x": -331.1323605353203,
-                  "y": 9572.188455276717,
-                  "zoom": -1
-                }
+                "file": "MainCanvas/MainCanvas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Designing Addiction"
+              "icon": "lucide-file",
+              "title": "MainCanvas"
             }
           }
         ],
@@ -225,6 +222,12 @@
   },
   "active": "b798c32082ee3ce3",
   "lastOpenFiles": [
+    "MainCanvas/Onboarding Canvas.canvas",
+    "MainCanvas/Designing Addiction.canvas",
+    "MainCanvas/Marketing.canvas",
+    "MainCanvas/Untitled.md",
+    "MainCanvas/MainCanvas.md",
+    "zManagment/Media/Pasted image 20260620014424.png",
     "zManagment/Media/Pasted image 20260620013332.png",
     "zManagment/Media/Pasted image 20260620013322.png",
     "zManagment/Media/Pasted image 20260620013314.png",
@@ -234,20 +237,15 @@
     "zManagment/Media/Pasted image 20260620012610.png",
     "zManagment/Media/Pasted image 20260620012600.png",
     "zManagment/Media/Pasted image 20260620012538.png",
-    "zManagment/Media/Pasted image 20260620012445.png",
-    "MainCanvas/Marketing.canvas",
-    "MainCanvas/Designing Addiction.canvas",
     "MainCanvas/Building The Website.canvas",
     "MainCanvas/App Launch.canvas",
     "MainCanvas/App Design.canvas",
     "Untitled.md",
-    "zManagment/Media/Pasted image 20260620010529.png",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "MainCanvas/Building The App.canvas",
-    "MainCanvas/MainCanvas.md",
     "UseForSelf(SideQuestHQ)/Finance.md",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "publish/home.md",
@@ -277,9 +275,7 @@
     "_WTF ARE WE",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "_Assets Img Anim/Pando/Pando.md",
-    "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/zMerch",
-    "publish/MainCanvas/Use SideQuestHQ yourself.canvas",
-    "publish/MainCanvas/Marketing.canvas"
+    "publish/MainCanvas/Use SideQuestHQ yourself.canvas"
   ]
 }

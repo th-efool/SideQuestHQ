@@ -13,6 +13,8 @@ type: folder_brief_live
   - [[Designing Addiction.canvas]]
   - [[MainCanvas]]
   - [[Marketing.canvas]]
+  - [[Onboarding Canvas.canvas]]
+  - [[Untitled]]
   - [[Use SideQuestHQ yourself.canvas]]
 
 %% End Waypoint %%
