@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/Designing Addiction.canvas",
-                "viewState": {
-                  "x": 504.9158232990161,
-                  "y": 4486.9877714496915,
-                  "zoom": -0.9583411205443628
-                }
+                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Designing Addiction"
+              "icon": "lucide-file",
+              "title": "QNA, Tagline, WHO,What ARE WE"
             }
           }
         ]
@@ -77,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,6 +207,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Designing Addiction.canvas",
     "zManagment/Media/Pasted image 20260620010529.png",
     "zManagment/Media/Pasted image 20260620010512.png",
     "zManagment/Media/Pasted image 20260620010331.png",
@@ -221,7 +218,6 @@
     "zManagment/Media/Pasted image 20260620005956.png",
     "zManagment/Media/Pasted image 20260620005927.png",
     "zManagment/Media/Pasted image 20260620005915.png",
-    "zManagment/Media/Pasted image 20260620005851.png",
     "MainCanvas/Building The App.canvas",
     "MainCanvas/App Launch.canvas",
     "MainCanvas/MainCanvas.md",
@@ -238,7 +234,6 @@
     "Marketing",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Marketing.canvas",
-    "MainCanvas/Designing Addiction.canvas",
     "MainCanvas/Building The Website.canvas",
     "MainCanvas/App Design.canvas",
     "MainCanvas",
