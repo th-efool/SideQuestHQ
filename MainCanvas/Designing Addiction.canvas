@@ -232,26 +232,6 @@
 		{"id":"98fea1a167c3741b","type":"file","file":"zManagment/Media/Pasted image 20260620013038.png","x":-121,"y":9885,"width":308,"height":665},
 		{"id":"64d901d2cd81b781","type":"file","file":"zManagment/Media/Pasted image 20260620013247.png","x":-283,"y":11115,"width":413,"height":853},
 		{"id":"7b24cb553be7b887","type":"file","file":"zManagment/Media/Pasted image 20260620012538.png","x":564,"y":11015,"width":360,"height":782},
-		{
-			"id":"641793d4c2286a1c",
-			"type":"text",
-			"text":"# AGAIN \"Enjoy Fasting\" - instead of saying \"TRACKING YOUR FASTs\" or \"Be consistent with fasting\" IT ASKS YOU TO \"ENJOY THEM\"",
-			"styleAttributes":{},
-			"x":1262,
-			"y":10973,
-			"width":470,
-			"height":329
-		},
-		{
-			"id":"1403a4ea98284a32",
-			"type":"text",
-			"text":"## But you still got understanding of it'll help you track but they didnt framed it as that",
-			"styleAttributes":{},
-			"x":1262,
-			"y":11382,
-			"width":440,
-			"height":160
-		},
 		{"id":"184f3048576e1877","type":"file","file":"zManagment/Media/Pasted image 20260620012445.png","x":540,"y":8440,"width":313,"height":680},
 		{
 			"id":"69347cdc300b97d8",
@@ -272,6 +252,36 @@
 			"y":8920,
 			"width":440,
 			"height":160
+		},
+		{
+			"id":"641793d4c2286a1c",
+			"type":"text",
+			"text":"# AGAIN \"Enjoy Fasting\" - instead of saying \"TRACKING YOUR FASTs\" or \"Be consistent with fasting\" ==IT ASKS YOU TO \"ENJOY THEM\"==",
+			"styleAttributes":{},
+			"x":1027,
+			"y":11015,
+			"width":470,
+			"height":329
+		},
+		{
+			"id":"1403a4ea98284a32",
+			"type":"text",
+			"text":"## But you still got understanding of it'll help you track but they didnt framed it as that",
+			"styleAttributes":{},
+			"x":1120,
+			"y":11406,
+			"width":440,
+			"height":160
+		},
+		{
+			"id":"6c343f29221a196b",
+			"type":"text",
+			"text":"# EXPLAINING FUNCTINALITY BUT NOT MAKING THEM SOUND LIKE FUNCTINALITY BUT LIKE FUN EMOTIONAL EXPERIENCES!",
+			"styleAttributes":{},
+			"x":1180,
+			"y":11720,
+			"width":440,
+			"height":300
 		}
 	],
 	"edges":[
@@ -645,6 +655,15 @@
 			"fromSide":"bottom",
 			"toNode":"4e0fea17c2587186",
 			"toSide":"top"
+		},
+		{
+			"id":"44f78d5bdc974236",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b24cb553be7b887",
+			"fromSide":"right",
+			"toNode":"6c343f29221a196b",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
