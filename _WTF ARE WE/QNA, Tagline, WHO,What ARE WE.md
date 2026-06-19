@@ -1,4 +1,9 @@
 **Tagline**: Helping learners finish what they start. Made for busy people with multiple interests.
+**Colors**: 
+	**Primary Indigo** #4F46E5 Curiosity, imagination, focus, depth. 
+	 **Dark Indigo** #3730A3 Trust, stability, structure, calm. 
+	 **Momentum Orange** #F59E0B Energy, progress, achievement, momentum. 
+	 **Soft Cream** #FAF7F2 Warmth, clarity, balance, breathing room.
 # One-Line Description
 
 We help learners consistently make progress through scattered & long form content without losing momentum when life gets in the way.

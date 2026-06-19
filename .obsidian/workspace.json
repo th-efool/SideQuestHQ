@@ -13,15 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QNA, Tagline, WHO,What ARE WE"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b798c32082ee3ce3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MainCanvas/Designing Addiction.canvas",
+                "viewState": {
+                  "x": -3.1841430835362416,
+                  "y": 4878.472037578616,
+                  "zoom": 0.3106646376847752
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Designing Addiction"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +223,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b798c32082ee3ce3",
   "lastOpenFiles": [
+    "MainCanvas/Marketing.canvas",
     "MainCanvas/Designing Addiction.canvas",
+    "MainCanvas/Building The Website.canvas",
+    "MainCanvas/App Launch.canvas",
+    "MainCanvas/App Design.canvas",
+    "Untitled.md",
     "zManagment/Media/Pasted image 20260620010529.png",
+    "MainCanvas/Use SideQuestHQ yourself.canvas",
+    "_WTF ARE WE/Reframed Positioning.md",
+    "_WTF ARE WE/Selling It.md",
+    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "zManagment/Media/Pasted image 20260620010512.png",
     "zManagment/Media/Pasted image 20260620010331.png",
     "zManagment/Media/Pasted image 20260620010311.png",
@@ -219,9 +246,7 @@
     "zManagment/Media/Pasted image 20260620005927.png",
     "zManagment/Media/Pasted image 20260620005915.png",
     "MainCanvas/Building The App.canvas",
-    "MainCanvas/App Launch.canvas",
     "MainCanvas/MainCanvas.md",
-    "Untitled.md",
     "UseForSelf(SideQuestHQ)/Finance.md",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "publish/home.md",
@@ -232,10 +257,6 @@
     "Marketing/Marketing Engine A.md",
     "Marketing/Instagram Influencers.md",
     "Marketing",
-    "MainCanvas/Use SideQuestHQ yourself.canvas",
-    "MainCanvas/Marketing.canvas",
-    "MainCanvas/Building The Website.canvas",
-    "MainCanvas/App Design.canvas",
     "MainCanvas",
     "Lemme Fix You/Welcome.md",
     "Lemme Fix You",
@@ -252,9 +273,6 @@
     "Content Creation/Cheap Labour.md",
     "Content Creation",
     "_WTF ARE WE/zOLD - product pitch doc.md",
-    "_WTF ARE WE/Selling It.md",
-    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
-    "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "_Assets Img Anim/Pando/Pando.md",

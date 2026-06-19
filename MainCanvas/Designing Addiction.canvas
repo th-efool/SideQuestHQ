@@ -91,6 +91,27 @@
 			"width":420,
 			"height":287
 		},
+		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-360,"y":1920,"width":1827,"height":812},
+		{
+			"id":"3478ac8bd1bbed4f",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":973,
+			"y":1660,
+			"width":294,
+			"height":60
+		},
+		{
+			"id":"84556e3627911024",
+			"type":"text",
+			"text":"# DTF Sticker use cutout paste",
+			"styleAttributes":{},
+			"x":1680,
+			"y":1690,
+			"width":420,
+			"height":60
+		},
 		{
 			"id":"9a0534e31e22d431",
 			"type":"text",
@@ -121,29 +142,11 @@
 			"width":294,
 			"height":60
 		},
-		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-360,"y":1920,"width":1827,"height":812},
-		{
-			"id":"3478ac8bd1bbed4f",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":973,
-			"y":1660,
-			"width":294,
-			"height":60
-		},
-		{
-			"id":"84556e3627911024",
-			"type":"text",
-			"text":"# DTF Sticker use cutout paste",
-			"styleAttributes":{},
-			"x":1680,
-			"y":1690,
-			"width":420,
-			"height":60
-		},
 		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1680,"y":1920,"width":1070,"height":1000},
 		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-280,"y":2784,"width":440,"height":213},
+		{"id":"0fbe792b8973647e","type":"file","file":"zManagment/Media/Pasted image 20260620005740.png","x":1295,"y":4277,"width":205,"height":443},
+		{"id":"3839ea639d6fdc21","type":"file","file":"zManagment/Media/Pasted image 20260620010041.png","x":1640,"y":4302,"width":360,"height":354},
+		{"id":"73724835a8230238","type":"file","file":"zManagment/Media/Pasted image 20260620010529.png","x":960,"y":4193,"width":184,"height":399},
 		{
 			"id":"2e49fd5d86afd5cf",
 			"type":"text",
@@ -166,13 +169,10 @@
 		},
 		{"id":"ac3de7c41ee83007","type":"file","file":"zManagment/Media/Pasted image 20260620010150.png","x":2120,"y":4769,"width":400,"height":216},
 		{"id":"e43fa5ad19d3c431","type":"file","file":"zManagment/Media/Pasted image 20260620010311.png","x":2080,"y":5078,"width":640,"height":493},
-		{"id":"3d8f12f1d64cc4ae","type":"file","file":"zManagment/Media/Pasted image 20260620010331.png","x":1013,"y":6480,"width":1179,"height":473},
+		{"id":"3d8f12f1d64cc4ae","type":"file","file":"zManagment/Media/Pasted image 20260620010331.png","x":1013,"y":6480,"width":1178,"height":473},
 		{"id":"8980458652f498bc","type":"file","file":"zManagment/Media/Pasted image 20260620005956.png","x":1040,"y":5637,"width":761,"height":271},
 		{"id":"8e0f954db1a1412c","type":"file","file":"zManagment/Media/Pasted image 20260620010127.png","x":1019,"y":6008,"width":722,"height":400},
 		{"id":"9e3dcfdca66a047c","type":"file","file":"zManagment/Media/Pasted image 20260620005628.png","x":1097,"y":7120,"width":400,"height":276},
-		{"id":"0fbe792b8973647e","type":"file","file":"zManagment/Media/Pasted image 20260620005740.png","x":1295,"y":4277,"width":205,"height":443},
-		{"id":"3839ea639d6fdc21","type":"file","file":"zManagment/Media/Pasted image 20260620010041.png","x":1640,"y":4302,"width":360,"height":354},
-		{"id":"73724835a8230238","type":"file","file":"zManagment/Media/Pasted image 20260620010529.png","x":960,"y":4193,"width":184,"height":400},
 		{
 			"id":"a993a300b6df219c",
 			"type":"text",
