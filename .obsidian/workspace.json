@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/Mascots.md",
+                "file": "_Assets Img Anim/_Assets Img Anim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mascots"
+              "title": "_Assets Img Anim"
             }
           }
         ],
@@ -220,15 +220,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b798c32082ee3ce3",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
+    "_AI CONTEXT",
+    "_Assets Img Anim/Group Pics/Group Pics.md",
+    "_AI CONTEXT/Mascots.md",
     "_Assets Img Anim/_Assets Img Anim.md",
-    "_Assets Img Anim/Mascots.md",
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
-    "_Assets Img Anim/Group Pics/Group Pics.md",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "publish/attachments/clone-or-download-github.png",
     "publish/attachments",
@@ -272,11 +274,9 @@
     "Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
     "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
-    "Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing",
     "Content Creation/Social Media Marketing Plan",
     "Content Creation/AI UGC.canvas",
-    "Content Creation",
     "publish/MainCanvas/Use SideQuestHQ yourself.canvas"
   ]
 }
