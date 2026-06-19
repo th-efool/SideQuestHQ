@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
+                "file": "_Assets Img Anim/Mascots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Casual Merch Ideas"
+              "title": "Mascots"
             }
           }
         ],
@@ -220,16 +220,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "b798c32082ee3ce3",
   "lastOpenFiles": [
-    "publish/attachments/clone-or-download-github.png",
-    "publish/attachments",
-    "publish",
+    "_Assets Img Anim/_Assets Img Anim.md",
+    "_Assets Img Anim/Mascots.md",
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
+    "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
+    "publish/attachments/clone-or-download-github.png",
+    "publish/attachments",
+    "publish",
     "MainCanvas/Onboarding Canvas.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/Designing Addiction.canvas",
@@ -244,7 +247,6 @@
     "zManagment/Media/Pasted image 20260620013005.png",
     "zManagment/Media/Pasted image 20260620012610.png",
     "zManagment/Media/Pasted image 20260620012600.png",
-    "zManagment/Media/Pasted image 20260620012538.png",
     "MainCanvas/Building The Website.canvas",
     "MainCanvas/App Launch.canvas",
     "MainCanvas/App Design.canvas",
@@ -271,8 +273,6 @@
     "Content Creation/Social Media Marketing Plan/Marketing/TikTok Insta Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/Substack Reddit.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
-    "Content Creation/Social Media Marketing Plan/Marketing/StudyTogether StudyStream.md",
-    "Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
     "Content Creation/Social Media Marketing Plan/Marketing",
     "Content Creation/Social Media Marketing Plan",
     "Content Creation/AI UGC.canvas",
