@@ -1,4 +1,4 @@
- ![[Pasted image 20260618080539.png]]
+![[Pando_Character_Sheet_With_Metadata.png]]
 ```ccard
 type: folder_brief_live
 ```
