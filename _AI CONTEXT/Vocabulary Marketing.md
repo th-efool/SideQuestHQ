@@ -1,0 +1,81 @@
+
+Vocabulary Marketing, Buzzwords, Trendy Words
+# Executive Summary  
+We compiled a lexicon of real-world phrases from clinical, academic, and cultural sources that speak to neurodivergent experiences and digital-era attention phenomena. The list is organized by theme (ADHD, Autism, Attention/Consumption, Backlog/Guilt, Learning/Deep Work, Algorithmic/AI) with definitions, tone, use-case, and sample copy. Key ADHD terms include **Time Blindness**, **Hyperfocus**, **Executive Dysfunction**, **Interest-Based Nervous System**, **Rejection Sensitive Dysphoria (RSD)**, **ADHD Paralysis**, and **ADHD Burnout**, each illustrating common ADHD traits【1†L155-L158】【24†L149-L157】. Autism-related terms like **Masking**, **Special Interest**, **Stimming**, **Autistic Burnout**, **Monotropism**, **Double Empathy Problem**, and **Autistic Inertia** capture the unique strengths and challenges in ASD【18†L138-L145】【26†L55-L63】. For digital-age attention/consumption, we include jargon such as **Doomscrolling**, **Information Overload**, **Filter Bubble**, and **Echo Chamber** that reflect algorithm-driven media habits【36†L99-L107】【38†L76-L84】. Under “Backlog/WatchLater,” phrases like **Tab Overload** and **Digital Clutter** convey the anxiety of unfinished online tasks【60†L102-L110】. The **Learning/Deep Work** category covers concepts like **Deep Work**, **Flow State**, **Spaced Repetition**, and **Cognitive Load**, drawn from productivity and cognitive science【48†L28-L37】【42†L161-L169】. Finally, **Algorithmic/AI** buzzwords—**Attention Economy**, **Algorithmic Bias**, **Surveillance Capitalism**, and others—highlight how personalization and data-driven systems shape our attention【54†L86-L90】【56†L15-L23】.
+
+Each phrase entry includes a one-line definition or context (with source), tone tags (e.g. clinical, colloquial, empathetic), suggested use-case (headline, tagline, UI label, etc.), and 2–3 brief copy variants (5–12 words) as examples. The term emergence timeline (Figure 1) sketches when key phrases first appeared in discourse, and a bar chart (Figure 2) illustrates their relative popularity. Sources cited include peer-reviewed papers, major media (Harvard Health, Harvard Gazette), advocacy/clinical sites (ADD.org, Cleveland Clinic, NHS), and prominent analyses (e.g. Eli Pariser on filter bubbles, Shoshana Zuboff on surveillance capitalism).
+
+【72†embed_image】 *Figure 1: Timeline of key term emergence. Major concepts like “Attention Economy” (1971) and “Flow State” (1975) date to early research, while social media–era terms like “Filter Bubble” (2011) and “Doomscrolling” (2020) are recent.*  
+
+## ADHD-related Terms  
+| **Phrase**                   | **Definition / Context**                                                      | **Tone**                | **Use Case**                  | **Copy Variants**                                                        |
+|------------------------------|-------------------------------------------------------------------------------|-------------------------|-------------------------------|-------------------------------------------------------------------------|
+| **Time Blindness**           | ADHD trait: inability to sense elapsed time or estimate duration【1†L155-L158】. | Clinical, empathetic    | Tagline, product feature      | “Never lose track of time again.”<br>“Time slips away—let us guide you.” |
+| **Hyperfocus**               | Intense, prolonged concentration on a task (often losing track of time)【72†L135-L142】. | Positive, energetic     | Headline, empowerment theme   | “Focus fuel: unleash your hyperfocus.”<br>“Dive deep—find your flow.”      |
+| **Executive Dysfunction**    | Difficulty planning, organizing, or initiating tasks (common ADHD symptom)【8†L49-L52】. | Clinical, candid        | Headline, product name        | “Overcome to-do paralysis.”<br>“Plan your day—one step at a time.”        |
+| **Interest-Based Nervous System** | ADHD concept: motivation driven by passion/novelty instead of “importance”【11†L81-L89】. | Empathetic, explanatory | Tagline, feature name         | “Built for what excites you.”<br>“Your brain’s interest-based engine.”      |
+| **Rejection Sensitive Dysphoria (RSD)** | Intense emotional pain from perceived rejection or criticism (often ADHD-linked)【14†L108-L116】. | Clinical, empathetic    | Headline, community language  | “Don’t let rejection define you.”<br>“Criticism cuts deep—find support.”  |
+| **ADHD Paralysis**           | Feeling “frozen” when overwhelmed by tasks or emotions; unable to act【16†L134-L141】. | Empathetic             | Tagline, support message      | “Too many tasks? Don’t freeze—focus.”<br>“Break free from paralysis.”    |
+| **ADHD Burnout**             | Exhaustion from chronic ADHD coping; mental/physical fatigue and demotivation【24†L149-L157】. | Empathetic             | Feature name, blog post title | “Refuel, don’t crash—beat ADHD burnout.”<br>“Worn out? It’s time to recharge.” |
+
+## Autism-related Terms  
+| **Phrase**                    | **Definition / Context**                                                 | **Tone**               | **Use Case**                 | **Copy Variants**                                                    |
+|-------------------------------|---------------------------------------------------------------------------|------------------------|------------------------------|---------------------------------------------------------------------|
+| **Masking**                   | Concealing one’s autistic traits to appear “neurotypical”【18†L138-L145】.  | Clinical, sympathetic  | Feature name, tagline        | “Time to remove the mask.”<br>“Be real, not just socially adapted.” |
+| **Special Interest**          | Intense, enduring focus on a particular topic (common in autism)【20†L131-L139】. | Empathetic             | Headline, campaign theme     | “Turn passion into expertise.”<br>“Where curiosity knows no bounds.” |
+| **Stimming**                  | Self-soothing repetitive movements (e.g. hand-flapping) used to regulate emotions【22†L118-L122】. | Supportive, gentle     | Tagline, illustration note    | “Flap, tap, breathe—find calm.”<br>“Regulate your rhythm.”             |
+| **Autistic Burnout**          | Deep exhaustion and loss of skills after prolonged life stress in autism【26†L55-L63】. | Empathetic             | Blog title, header          | “Autistic burnout is real—rest is essential.”<br>“Out of steam? Recover and restart.” |
+| **Monotropism**               | Tendency to focus intensely on a few interests at once; difficulty multitasking【28†L54-L63】. | Academic, affirming    | Tagline, tagline             | “Deep focus: one thing at a time.”<br>“Tunnel vision? That’s your brain’s power.” |
+| **Double Empathy Problem**    | Theory that autistic and non-autistic people equally struggle to understand each other【32†L95-L104】. | Academic, clarifying   | Headline, educational post    | “Walk in two minds’ shoes.”<br>“Empathy goes both ways.”               |
+| **Autistic Inertia**          | Difficulty initiating or stopping actions when in a low-energy state (autistic inertia)【22†L170-L173】. | Clinical, understanding | Tagline, support copy         | “When starting is the hardest part, we help.”<br>“Ease into action with gentle prompts.” |
+
+## Attention & Consumption Buzzwords  
+| **Phrase**             | **Definition / Context**                                                 | **Tone**           | **Use Case**                 | **Copy Variants**                                                    |
+|------------------------|-------------------------------------------------------------------------|--------------------|------------------------------|---------------------------------------------------------------------|
+| **Doomscrolling**      | Habit of endlessly scrolling through negative news on social feeds【36†L99-L107】.     | Cautionary, colloquial | Headline, social caption     | “Stop scrolling, start living.”<br>“Break free from the doomstream.”    |
+| **Information Overload** | Difficulty processing or making decisions due to too much information【63†L164-L172】. | Analytical         | Tagline, blog title          | “Too much info? We cut through the noise.”<br>“Overwhelmed? Simplify your feed.” |
+| **Filter Bubble**      | Algorithmic isolation: personalized content creates an “isolation chamber” of like-minded info【38†L76-L84】. | Academic, critical | Tagline, product feature     | “Burst out of your bubble.”<br>“See beyond your personalized walls.”   |
+| **Echo Chamber**       | Environment where one only encounters reinforced, familiar viewpoints【38†L103-L107】.       | Cautionary, direct| Headline, social copy        | “Don’t just hear yourself talk.”<br>“Break the echo—try new perspectives.” |
+| **FOMO** (Fear of Missing Out) | Anxiety that others are having rewarding experiences from which one is absent. | Colloquial, edgy   | Campaign hashtag, video     | “Never fear missing out.”<br>“Experience more, envy less.”          |
+
+## Digital Backlog & “Watch Later” Behaviors  
+| **Phrase**             | **Definition / Context**                                                                           | **Tone**          | **Use Case**              | **Copy Variants**                                           |
+|------------------------|---------------------------------------------------------------------------------------------------|-------------------|---------------------------|----------------------------------------------------------|
+| **Tab Overload**       | Browser window with so many open tabs that it fragments attention and productivity【60†L102-L110】. | Colloquial       | Headline, UI feature name | “Too many tabs, too little focus.”<br>“Declutter your digital workspace.” |
+| **Digital Clutter**    | Accumulation of unread articles, saved links, and notifications that creates stress.              | Empathetic       | Tagline, app name         | “Cluttered screen, cluttered mind.”<br>“Clear the clutter—find clarity.” |
+| **Watch Later**        | Queue of saved videos or articles “for later” that often goes unwatched.                         | Colloquial       | Tagline, UX copy          | “Your backlog, sorted.”<br>“From ‘Watch Later’ to ‘Watched Now.’”   |
+| **Someday Pile**       | Vague to-do list of tasks or media deferred indefinitely (“maybe someday”).                     | Informal         | Social post, email subject| “Stop dreaming. Start doing.”<br>“Someday is today.”            |
+
+## Learning & Deep Work Terms  
+| **Phrase**             | **Definition / Context**                                                         | **Tone**           | **Use Case**              | **Copy Variants**                                                  |
+|------------------------|---------------------------------------------------------------------------------|--------------------|---------------------------|-------------------------------------------------------------------|
+| **Deep Work**          | Working with full, distraction-free concentration on demanding tasks【48†L28-L37】.  | Professional       | Headline, training title  | “Focus deeply. Achieve greatly.”<br>“Turn off notifications, tune into deep work.” |
+| **Flow State**         | Peak experience of total immersion and energized focus in an activity【28†L94-L100】. | Inspirational      | Tagline, workshop name    | “Find your flow.”<br>“When work feels like play.”                       |
+| **Spaced Repetition**  | Learning technique: reviewing material at increasing intervals for better memory retention【42†L161-L169】. | Academic, helpful  | Product feature, tagline  | “Review smarter, not harder.”<br>“Memory that lasts a lifetime.”     |
+| **Cognitive Load**     | Mental effort required to process information; high load can impede learning【68†L1-L3】. | Technical          | Blog post title, tagline  | “Too much load? Time to offload.”<br>“Keep it simple—reduce cognitive load.” |
+| **Chunking**           | Breaking information into smaller units (“chunks”) to improve comprehension and memory. | Educational        | Training material         | “Small chunks, big gains.”<br>“Chunk your way to learning.”          |
+| **Pomodoro Technique** | Time-management method using focused work intervals (e.g. 25min) and short breaks.     | Colloquial        | App name, tagline        | “Work in pulses, not marathons.”<br>“Get more done, one tomato at a time.” |
+
+## Algorithmic & AI–Related Concepts  
+| **Phrase**               | **Definition / Context**                                                                             | **Tone**         | **Use Case**             | **Copy Variants**                                                   |
+|--------------------------|-----------------------------------------------------------------------------------------------------|------------------|--------------------------|---------------------------------------------------------------------|
+| **Attention Economy**    | Framework: human attention is a scarce resource in an overabundant information world【54†L86-L90】. | Analytical       | Thought leadership       | “Your attention is gold.”<br>“In the economy of attention, quality wins.” |
+| **Filter Bubble**        | (See above under Attention/Consumption.)                                                          |                  |                          |                                                                     |
+| **Algorithmic Bias**     | Systematic errors in AI/algorithms that produce unfair or discriminatory outcomes【56†L15-L23】.     | Technical, warning | Blog post, policy doc     | “Algorithms have no soul—only data bias.”<br>“Check the code, not just the user.” |
+| **Surveillance Capitalism** | Business model: private data (behavioral, personal) is collected and sold to predict/influence behavior【70†L136-L144】. | Critical        | Headline, report title   | “Your data is their product.”<br>“Privacy isn’t free; someone pays for it.” |
+| **Echo Chamber**         | (See above under Attention/Consumption.)                                                          |                  |                          |                                                                     |
+
+【56†L15-L23】 *Hyperfocused learning tools*, **spaced repetition**, and clear **time-blocking** can help manage **cognitive load** and encourage **deep work**【42†L161-L169】【68†L1-L3】. Likewise, understanding the **attention economy** and **algorithmic traps** helps users reclaim control of their focus.  
+
+【72†embed_image】 *Figure 2: Relative popularity of selected terms in our categories (10 = highest). For instance, “Information Overload” and “Neurodiversity” are widely recognized, whereas niche terms like “Masking” are less globally cited (data illustrative).*  
+
+## Appendix: Key Sources  
+Our terminology was drawn from a mix of sources:  
+
+- **Clinical/Advocacy Sites**: Articles from ADHD/autism organizations (e.g. ADD.org【1†L155-L158】【72†L135-L142】, Autism Space, National Autistic Society【32†L95-L104】) and medical institutions (Cleveland Clinic【30†L49-L52】) for definitions of ADHD/autism traits.  
+- **Academic & Books**: Concepts from productivity and psychology (Cal Newport’s *Deep Work*【48†L28-L37】, Csikszentmihalyi on *flow*, educational research on *spaced repetition*【42†L161-L169】【68†L1-L3】, Herbert A. Simon on the *attention economy*【54†L86-L90】).  
+- **Major Media**: Coverage of tech culture and mental health, e.g. Harvard Health on *doomscrolling*【36†L99-L107】, Harvard Gazette on *surveillance capitalism*【70†L136-L144】, and The Guardian on attention economy trends.  
+- **Cultural/Internet**: Popular media and user-generated content (e.g. commentary on *filter bubbles*【38†L76-L84】, social media discussions of “tab overload,” Reddit and TikTok threads reflecting digital habits, etc.).  
+
+All phrases are attested in existing discourse; definitions are cited where available. Many entries (e.g. “FOMO,” “Pomodoro”) are widely used in productivity circles even if not formally defined here. Our curated table and copy variants are meant to resonate with neurodivergent users and capture the zeitgeist of digital-age attention struggles without inventing new jargon. 
+
