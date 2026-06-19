@@ -2,9 +2,9 @@
 ```ccard
 type: folder_brief_live
 ```
- ![[ChatGPT Image Jun 20, 2026, 04_01_16 AM.png]]
+ ![[Pando_With_Metadata.png]]
 ![[0.3.3_character.expression.pando.png]]
-
+![[Pasted image 20260620041117.png]]
 
 --- start-multi-column: ID_a3zy
 ```column-settings
