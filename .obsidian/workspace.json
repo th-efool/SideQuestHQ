@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/Hammy/Hammy.md",
+                "file": "_Assets Img Anim/Pando/Pando.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammy"
+              "title": "Pando"
             }
           }
         ],
@@ -222,10 +222,12 @@
   },
   "active": "b798c32082ee3ce3",
   "lastOpenFiles": [
-    "zManagment/Media/Pasted image 20260620034006.png",
-    "zManagment/Media/0.3.2_character.expression.pando.png",
+    "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Hammy/Hammy.md",
     "zManagment/Media/0.3.2_character.expression.hammy.png",
+    "_Assets Img Anim/Kip/Kip.md",
+    "zManagment/Media/Pasted image 20260620034006.png",
+    "zManagment/Media/0.3.2_character.expression.pando.png",
     "zManagment/Media/Hammy_-_Character.jpg",
     "zManagment/Media/Hammy_Character_Sheet_With_Metadata.png",
     "_Assets Img Anim/_Assets Img Anim.md",
@@ -235,8 +237,6 @@
     "_Assets Img Anim/Group Pics/Group Pics.md",
     "_AI CONTEXT/Mascots.md",
     "_Assets Img Anim/Pando/Pando.md",
-    "_Assets Img Anim/Novapaw/Novapaw.md",
-    "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "publish/attachments/clone-or-download-github.png",
     "publish/attachments",
@@ -249,7 +249,6 @@
     "zManagment/Media/Pasted image 20260620014424.png",
     "zManagment/Media/Pasted image 20260620013332.png",
     "zManagment/Media/Pasted image 20260620013322.png",
-    "zManagment/Media/Pasted image 20260620013314.png",
     "MainCanvas/Building The Website.canvas",
     "MainCanvas/App Launch.canvas",
     "MainCanvas/App Design.canvas",

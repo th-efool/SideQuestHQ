@@ -1,6 +1,6 @@
 ![[Hammy_Character_Sheet_With_Metadata.png]]
 
-![[Pasted image 20260620034006.png]]
+![[0.3.2_character.expression.hammy.png]]
 
 
 
