@@ -6,7 +6,7 @@ type: folder_brief_live
 ![[0.3.3_character.expression.pando.png]]
 ![[Pasted image 20260620041117.png]]
 
---- start-multi-column: ID_a3zy
+![[4d1c0144-0713-4d24-83bc-113cc223b973.png]]--- start-multi-column: ID_a3zy
 ```column-settings
 Number of Columns: 3
 Largest Column: standard
