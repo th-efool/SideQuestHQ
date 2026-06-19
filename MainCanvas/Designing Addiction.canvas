@@ -141,7 +141,17 @@
 			"height":60
 		},
 		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1680,"y":1920,"width":1070,"height":1000},
-		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-280,"y":2784,"width":440,"height":213}
+		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-280,"y":2784,"width":440,"height":213},
+		{
+			"id":"2e49fd5d86afd5cf",
+			"type":"text",
+			"text":"# Welcome Screen\n**Objective**\n1. Tagline & Opener\n2. Get Started / Already Have account",
+			"styleAttributes":{},
+			"x":-240,
+			"y":3940,
+			"width":420,
+			"height":200
+		}
 	],
 	"edges":[
 		{
