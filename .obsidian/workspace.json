@@ -25,14 +25,17 @@
             "id": "b798c32082ee3ce3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MainCanvas/MainCanvas.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/Onboarding Canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": -3.517381349354773
+                }
               },
-              "icon": "lucide-file",
-              "title": "MainCanvas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Onboarding Canvas"
             }
           }
         ],
@@ -222,11 +225,11 @@
   },
   "active": "b798c32082ee3ce3",
   "lastOpenFiles": [
+    "MainCanvas/MainCanvas.md",
     "MainCanvas/Onboarding Canvas.canvas",
     "MainCanvas/Designing Addiction.canvas",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/Untitled.md",
-    "MainCanvas/MainCanvas.md",
     "zManagment/Media/Pasted image 20260620014424.png",
     "zManagment/Media/Pasted image 20260620013332.png",
     "zManagment/Media/Pasted image 20260620013322.png",
