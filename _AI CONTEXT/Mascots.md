@@ -1,288 +1,181 @@
-# Mascots
+# SideQuestHQ Canonical Mascot Identity
 
-## Overview
+## Purpose
 
-The SideQuestHQ mascot system exists to give the product a recognizable personality and emotional identity.
+This document defines the official visual identity of the SideQuestHQ mascot universe.
 
-The mascots are not AI assistants.
+The mascots are recurring characters that exist throughout the SideQuestHQ ecosystem.
 
-They are not tutors.
+Every future illustration, banner, landing page, social post, animation, onboarding flow, merchandise asset, and marketing visual should depict these same characters.
 
-They are not coaches.
+The goal is character consistency.
 
-They are not productivity managers.
+The goal is recognition.
 
-They do not teach users how to learn.
+The goal is continuity.
 
-They do not replace the core product.
-
-Instead, they function as visual brand characters that make the experience feel more alive, memorable, and emotionally resonant.
-
-Most learning products eventually become dashboards.
-
-Progress bars.
-
-Checklists.
-
-Graphs.
-
-Statistics.
-
-Queues.
-
-Metrics.
-
-All useful.
-
-But also sterile.
-
-SideQuestHQ exists in a space that is fundamentally emotional.
-
-People are not struggling because content is unavailable.
-
-People are struggling because curiosity becomes overwhelming.
-
-Bookmarks pile up.
-
-Watch Later queues grow.
-
-Courses remain unfinished.
-
-Interesting ideas become digital clutter.
-
-The mascot system helps soften that experience.
-
-It introduces warmth into a product category that often becomes mechanical.
-
-The goal is not to make learning childish.
-
-The goal is to make learning feel human.
+A user should be able to instantly recognize every mascot regardless of pose, expression, clothing variation, environment, or illustration style.
 
 ---
 
-# Mascot Philosophy
+# SideQuestHQ Mascot Universe
 
-The mascots exist to create:
-
-- visual continuity
-    
-- emotional resonance
-    
-- brand recognition
-    
-- personality
-    
-- delight
-    
-- worldbuilding
-    
-- atmosphere
-    
-
-They help transform SideQuestHQ from:
-
-"A tool I use"
-
-into
-
-"A place I enjoy returning to."
-
-Users should never feel like:
-
-> The mascot is teaching me.
-
-Instead they should feel:
-
-> This product has character.
-
-The mascots are closer to brand icons than product features.
-
-They are recurring faces within the SideQuestHQ universe.
-
----
-
-# Mascot Hierarchy
+The SideQuestHQ universe consists of four permanent mascots.
 
 ## Kip
 
-Primary Mascot
+The face of SideQuestHQ.
 
-Brand Face
+Represents:
 
-Default Character
-
-## Hammy
-
-Supporting Character
-
-Represents celebration and momentum.
-
-## NovaPaw
-
-Supporting Character
-
-Represents curiosity and exploration.
-
-## Pando
-
-Supporting Character
-
-Represents focus and consistency.
-
----
-
-# Kip
-
-## Role in the Brand
-
-Kip is the face of SideQuestHQ.
-
-When users think about SideQuestHQ, they should think about Kip.
-
-If the entire mascot system disappeared except for one character, that character would be Kip.
-
-Kip appears across:
-
-- onboarding
-    
-- marketing
-    
-- social content
-    
-- empty states
-    
-- progress screens
-    
-- product branding
-    
-- community assets
-    
-- launch material
-    
-
-Kip is the visual embodiment of SideQuestHQ.
-
----
-
-## Personality
-
-Kip is:
-
-- curious
-    
-- thoughtful
-    
-- calm
-    
-- optimistic
-    
-- dependable
-    
-- observant
-    
-- encouraging
-    
-
-Kip is not loud.
-
-Kip is not hyperactive.
-
-Kip is not a motivational speaker.
-
-Kip represents quiet confidence.
-
-The feeling that progress is possible.
-
-The feeling that there is always a next step.
-
----
-
-## Visual Design
-
-Species:
-
-Small owl-like bird
-
-Visual Traits:
-
-- soft white feathers
-    
-- oversized expressive eyes
-    
-- indigo scarf
-    
-- rounded silhouette
-    
-- compact proportions
-    
-
-Design Intent:
-
-Owls traditionally symbolize knowledge.
-
-Kip intentionally avoids looking academic, elite, or intimidating.
-
-The design emphasizes:
-
-- curiosity
-    
-- warmth
-    
-- friendliness
-    
-- approachability
-    
-
-instead of expertise or authority.
-
----
-
-## Symbolic Meaning
-
-Kip represents:
-
-- continuity
-    
-- direction
-    
 - guidance
+    
+- continuity
     
 - learning journeys
     
 - structured curiosity
     
+- forward movement
+    
 
-If SideQuestHQ has a single emotional theme, it is:
+## Hammy
 
-> Continue where you left off.
+Represents:
 
-Kip visually embodies that idea.
+- momentum
+    
+- progress
+    
+- achievement
+    
+- celebration
+    
+- positive energy
+    
+
+## NovaPaw
+
+Represents:
+
+- discovery
+    
+- exploration
+    
+- curiosity
+    
+- research
+    
+- rabbit holes
+    
+
+## Pando
+
+Represents:
+
+- focus
+    
+- consistency
+    
+- deep work
+    
+- calm effort
+    
+- sustainable progress
+    
+
+Together they represent the complete learning journey.
+
+Curiosity → Exploration → Focus → Progress
+
+---
+
+# Kip
+
+## Character Identity
+
+Kip is a small white crow.
+
+Kip is the central mascot of SideQuestHQ.
+
+Kip appears more frequently than any other character.
+
+Kip is the visual embodiment of the SideQuestHQ brand.
+
+## Visual Characteristics
+
+- soft white feathers
+    
+- rounded silhouette
+    
+- large expressive eyes
+    
+- black crow beak
+    
+- black crow feet
+    
+- indigo scarf
+    
+- SideQuestHQ logo on scarf
+    
+- warm approachable appearance
+    
+
+## Visual Personality
+
+Kip feels:
+
+- thoughtful
+    
+- observant
+    
+- dependable
+    
+- encouraging
+    
+- curious
+    
+- calm
+    
+
+Kip creates the feeling:
+
+"Continue where you left off."
 
 ---
 
 # Hammy
 
-## Role in the Brand
+## Character Identity
 
-Hammy represents momentum.
+Hammy is a small adventure hamster.
 
-Not productivity.
+Hammy represents visible progress and forward momentum.
 
-Not grinding.
+Hammy appears during celebrations, achievements, streaks, milestones, and moments of success.
 
-Momentum.
+## Visual Characteristics
 
-The feeling that progress is happening.
+- orange and cream fur
+    
+- round cheeks
+    
+- compact body
+    
+- expressive paws
+    
+- indigo scarf
+    
+- SideQuestHQ logo
+    
+- indigo backpack
+    
+- adventure accessories
+    
 
-The feeling that effort is paying off.
+## Visual Personality
 
-The feeling that small wins matter.
-
----
-
-## Personality
-
-Hammy is:
+Hammy feels:
 
 - energetic
     
@@ -290,367 +183,277 @@ Hammy is:
     
 - playful
     
-- enthusiastic
+- cheerful
     
-- expressive
+- supportive
     
 - encouraging
     
 
-Hammy sees progress everywhere.
+Hammy creates the feeling:
 
-A completed lesson.
-
-A recovered streak.
-
-A finished cohort.
-
-A difficult concept finally clicking.
-
-All of those deserve recognition.
-
----
-
-## Visual Design
-
-Species:
-
-Hamster
-
-Visual Traits:
-
-- warm orange palette
-    
-- adventure backpack
-    
-- paw-print bandana
-    
-- rounded body
-    
-- expressive poses
-    
-
-Design Intent:
-
-Hamsters naturally feel active, energetic, and endearing.
-
-The design reinforces movement and momentum without feeling competitive.
-
----
-
-## Symbolic Meaning
-
-Hammy represents:
-
-- celebration
-    
-- progress
-    
-- momentum
-    
-- achievement
-    
-- positive energy
-    
-
-When SideQuestHQ wants to communicate:
-
-> Nice. Keep going.
-
-Hammy fits naturally.
+"Every small step counts."
 
 ---
 
 # NovaPaw
 
-## Role in the Brand
+## Character Identity
 
-NovaPaw represents discovery.
+NovaPaw is an explorer cat.
 
-The beginning of a rabbit hole.
+NovaPaw represents discovery, investigation, and intellectual adventure.
 
-The excitement of finding something interesting.
+NovaPaw appears when users discover new interests, browse topics, explore pathways, or begin new rabbit holes.
 
-The spark of curiosity before commitment.
+## Visual Characteristics
 
----
-
-## Personality
-
-NovaPaw is:
-
-- curious
+- gray and cream fur
     
+- oversized round glasses
+    
+- explorer backpack
+    
+- magnifying glass
+    
+- notebooks
+    
+- maps
+    
+- research tools
+    
+- indigo scarf
+    
+
+## Visual Personality
+
+NovaPaw feels:
+
 - imaginative
     
 - adventurous
-    
-- exploratory
     
 - observant
     
 - inquisitive
     
-
-NovaPaw is constantly finding new paths worth exploring.
-
----
-
-## Visual Design
-
-Species:
-
-Cat
-
-Visual Traits:
-
-- large glasses
+- curious
     
-- magnifying glass
-    
-- explorer backpack
-    
-- maps
-    
-- notebooks
-    
-- research tools
+- exploratory
     
 
-Design Intent:
+NovaPaw creates the feeling:
 
-Cats naturally feel curious.
-
-The explorer aesthetic reinforces discovery and investigation.
-
----
-
-## Symbolic Meaning
-
-NovaPaw represents:
-
-- exploration
-    
-- discovery
-    
-- curiosity
-    
-- questions
-    
-- new interests
-    
-- rabbit holes
-    
-
-When users are browsing ideas, discovering cohorts, or exploring new topics, NovaPaw feels at home.
+"What should we explore next?"
 
 ---
 
 # Pando
 
-## Role in the Brand
+## Character Identity
 
-Pando represents calm consistency.
+Pando is a cozy panda.
 
-Not motivation.
+Pando represents consistency and calm focus.
 
-Not intensity.
+Pando appears during study sessions, reflection, deep work, habit formation, and long-term progress.
 
-Consistency.
+## Visual Characteristics
 
-The reality that meaningful learning is built through repeated small sessions.
-
----
-
-## Personality
-
-Pando is:
-
-- calm
+- panda coloring
     
-- patient
+- indigo headphones
     
-- steady
-    
-- reliable
-    
-- grounded
-    
-- relaxed
-    
-
-Pando never rushes.
-
-Pando never panics.
-
-Pando never pressures.
-
----
-
-## Visual Design
-
-Species:
-
-Panda
-
-Visual Traits:
-
-- headphones
+- indigo scarf
     
 - cozy blanket
     
 - books
     
-- warm lighting
-    
 - tea or coffee
+    
+- warm lighting
     
 - relaxed posture
     
 
-Design Intent:
+## Visual Personality
 
-The design communicates comfort, focus, and sustainability.
+Pando feels:
 
-Learning should feel maintainable.
+- calm
+    
+- patient
+    
+- reliable
+    
+- grounded
+    
+- focused
+    
+- steady
+    
 
-Not exhausting.
+Pando creates the feeling:
+
+"Small steps today. Big progress always."
 
 ---
 
-## Symbolic Meaning
+# Shared Brand Characteristics
 
-Pando represents:
+All SideQuestHQ mascots share the same visual language.
 
+## Shape Language
+
+- rounded forms
+    
+- soft silhouettes
+    
+- approachable proportions
+    
+- expressive eyes
+    
+- warm facial expressions
+    
+
+## Emotional Tone
+
+- welcoming
+    
+- optimistic
+    
+- thoughtful
+    
+- supportive
+    
+- emotionally warm
+    
+
+## Brand Presence
+
+The mascots create:
+
+- familiarity
+    
+- continuity
+    
+- delight
+    
+- emotional connection
+    
+- worldbuilding
+    
+
+The mascots make SideQuestHQ feel like a place rather than a tool.
+
+---
+
+# Official SideQuestHQ Colors
+
+## Primary Indigo
+
+Hex:
+
+#4F46E5
+
+Represents:
+
+- curiosity
+    
+- imagination
+    
 - focus
     
-- consistency
-    
-- calm effort
-    
-- deep work
-    
-- sustainable learning
+- depth
     
 
-Pando embodies the idea that progress does not need to be intense to be meaningful.
+Primary Indigo is the primary brand color.
 
 ---
 
-# Why These Characters Exist Together
+## Dark Indigo
 
-The characters are not separate brands.
+Hex:
 
-They are not competing identities.
+#3730A3
 
-They are different expressions of the same SideQuestHQ philosophy.
+Represents:
 
-A learning journey naturally contains multiple emotional states.
+- trust
+    
+- stability
+    
+- structure
+    
+- calm
+    
 
-Curiosity.
-
-Discovery.
-
-Focus.
-
-Progress.
-
-Celebration.
-
-Each mascot visually amplifies one of those emotions.
-
-Together they create a richer and more memorable product experience.
+Dark Indigo provides grounding.
 
 ---
 
-# Brand Usage Guidelines
+## Momentum Orange
 
-## Kip
+Hex:
 
-Default character.
+#F59E0B
 
-Use most frequently.
+Represents:
 
-Represents SideQuestHQ itself.
-
-## Hammy
-
-Use around:
-
-- milestones
+- energy
     
-- achievements
+- progress
     
-- celebrations
+- achievement
     
-- positive progress
+- momentum
     
 
-## NovaPaw
-
-Use around:
-
-- discovery
-    
-- recommendations
-    
-- exploration
-    
-- new interests
-    
-
-## Pando
-
-Use around:
-
-- focus sessions
-    
-- deep work
-    
-- reflection
-    
-- consistency
-    
+Momentum Orange highlights movement and success.
 
 ---
 
-# What Mascots Should Never Become
+## Soft Cream
 
-The mascots should never become:
+Hex:
 
-- productivity gurus
+#FAF7F2
+
+Represents:
+
+- warmth
     
-- educational tutors
+- clarity
     
-- AI assistants
+- balance
     
-- gamification gimmicks
-    
-- motivational speakers
+- breathing room
     
 
-They are not the product.
-
-They are not the learning system.
-
-They are not the reason users succeed.
-
-The product does that.
-
-The mascots simply make the experience feel more human.
+Soft Cream provides comfort and openness.
 
 ---
 
-# Final Principle
+# Character Consistency Principle
 
-SideQuestHQ helps people finish the things they genuinely care about.
+Future artwork should depict the same recurring characters experiencing new moments.
 
-The mascot system exists to make that journey feel warmer, more memorable, and more enjoyable.
+The objective is not reinterpretation.
 
-Not by teaching.
+The objective is continuity.
 
-Not by coaching.
+Every illustration should feel like another chapter in the same SideQuestHQ universe.
 
-Not by gamifying.
+Users should immediately recognize:
 
-But by giving the world of SideQuestHQ a recognizable personality that users want to come back to.
+- Kip
+    
+- Hammy
+    
+- NovaPaw
+    
+- Pando
+    
+
+without needing labels, explanations, or introductions.
