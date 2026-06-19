@@ -174,14 +174,78 @@
 		{"id":"8e0f954db1a1412c","type":"file","file":"zManagment/Media/Pasted image 20260620010127.png","x":1019,"y":6008,"width":722,"height":400},
 		{"id":"9e3dcfdca66a047c","type":"file","file":"zManagment/Media/Pasted image 20260620005628.png","x":1097,"y":7120,"width":400,"height":276},
 		{
+			"id":"7a4db681924f7e8b",
+			"type":"text",
+			"text":"# Step2a - ",
+			"styleAttributes":{},
+			"x":-500,
+			"y":8580,
+			"width":260,
+			"height":200
+		},
+		{
 			"id":"a993a300b6df219c",
 			"type":"text",
-			"text":"# Onboarding Step2",
+			"text":"# SHOW n TELL - HOW WHAT they WILL BE ACHIEVING IT",
 			"styleAttributes":{},
-			"x":-280,
-			"y":7640,
+			"x":-1280,
+			"y":8780,
 			"width":560,
-			"height":280
+			"height":183
+		},
+		{
+			"id":"92225610874221cd",
+			"type":"text",
+			"text":"# Step2b- ",
+			"styleAttributes":{},
+			"x":-500,
+			"y":8920,
+			"width":260,
+			"height":200
+		},
+		{"id":"184f3048576e1877","type":"file","file":"zManagment/Media/Pasted image 20260620012445.png","x":120,"y":8000,"width":313,"height":680},
+		{"id":"7b24cb553be7b887","type":"file","file":"zManagment/Media/Pasted image 20260620012538.png","x":120,"y":8720,"width":360,"height":782},
+		{"id":"df97b0e308ed3bad","type":"file","file":"zManagment/Media/Pasted image 20260620012600.png","x":185,"y":9560,"width":355,"height":771},
+		{"id":"2e93a6fef0e1feba","type":"file","file":"zManagment/Media/Pasted image 20260620012610.png","x":193,"y":10360,"width":340,"height":738},
+		{
+			"id":"7f6afec15bfe20be",
+			"type":"text",
+			"text":"# Step2c- ",
+			"styleAttributes":{},
+			"x":-500,
+			"y":9960,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"e5f7bace2a7ebf25",
+			"type":"text",
+			"text":"# Step2d- ",
+			"styleAttributes":{},
+			"x":-500,
+			"y":10529,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"69347cdc300b97d8",
+			"type":"text",
+			"text":"# OBSERVE HOW THEY DIDNT FORCED or said \"THIS APP WILL MAKE YOU DRINK WATER\"  ",
+			"styleAttributes":{},
+			"x":480,
+			"y":8140,
+			"width":500,
+			"height":240
+		},
+		{
+			"id":"4e0fea17c2587186",
+			"type":"text",
+			"text":"## But you still got understanding of it'll help you TO DRINK MORE WATER!!",
+			"styleAttributes":{},
+			"x":510,
+			"y":8440,
+			"width":440,
+			"height":160
 		}
 	],
 	"edges":[
@@ -366,12 +430,93 @@
 			"toSide":"left"
 		},
 		{
-			"id":"1e65e4e8b3146b66",
+			"id":"2a0f41449177ee7a",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"2e49fd5d86afd5cf",
 			"fromSide":"bottom",
-			"toNode":"a993a300b6df219c",
+			"toNode":"7a4db681924f7e8b",
+			"toSide":"top"
+		},
+		{
+			"id":"4f2d0c0dbc34cdba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7a4db681924f7e8b",
+			"fromSide":"bottom",
+			"toNode":"92225610874221cd",
+			"toSide":"top"
+		},
+		{
+			"id":"892ca2dc31e0cd3c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"92225610874221cd",
+			"fromSide":"bottom",
+			"toNode":"7f6afec15bfe20be",
+			"toSide":"top"
+		},
+		{
+			"id":"9c15537e514b0a9b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7f6afec15bfe20be",
+			"fromSide":"bottom",
+			"toNode":"e5f7bace2a7ebf25",
+			"toSide":"top"
+		},
+		{
+			"id":"7c7624c5f8b5fe0c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7a4db681924f7e8b",
+			"fromSide":"right",
+			"toNode":"184f3048576e1877",
+			"toSide":"left"
+		},
+		{
+			"id":"0b630d6f0b047e71",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"92225610874221cd",
+			"fromSide":"right",
+			"toNode":"7b24cb553be7b887",
+			"toSide":"left"
+		},
+		{
+			"id":"b60c2ecc8a9dff6c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7f6afec15bfe20be",
+			"fromSide":"right",
+			"toNode":"df97b0e308ed3bad",
+			"toSide":"left"
+		},
+		{
+			"id":"ee497bd1d2438f4e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e5f7bace2a7ebf25",
+			"fromSide":"right",
+			"toNode":"2e93a6fef0e1feba",
+			"toSide":"left"
+		},
+		{
+			"id":"156cc4dfc55ec8f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"184f3048576e1877",
+			"fromSide":"right",
+			"toNode":"69347cdc300b97d8",
+			"toSide":"left"
+		},
+		{
+			"id":"958d9df37917dd4a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"69347cdc300b97d8",
+			"fromSide":"bottom",
+			"toNode":"4e0fea17c2587186",
 			"toSide":"top"
 		}
 	],
