@@ -25,17 +25,14 @@
             "id": "b798c32082ee3ce3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/Onboarding Canvas.canvas",
-                "viewState": {
-                  "x": 2162.0639690320713,
-                  "y": 853.7720776289652,
-                  "zoom": -4
-                }
+                "file": "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Onboarding Canvas"
+              "icon": "lucide-file",
+              "title": "Casual Merch Ideas"
             }
           }
         ],
@@ -223,10 +220,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b798c32082ee3ce3",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
-    "MainCanvas/MainCanvas.md",
+    "publish/attachments/clone-or-download-github.png",
+    "publish/attachments",
+    "publish",
+    "_Assets Img Anim/Pando/Pando.md",
+    "_Assets Img Anim/Novapaw/Novapaw.md",
+    "_Assets Img Anim/Kip/Kip.md",
+    "_Assets Img Anim/Hammy/Hammy.md",
+    "_Assets Img Anim/Group Pics/Group Pics.md",
     "MainCanvas/Onboarding Canvas.canvas",
+    "MainCanvas/MainCanvas.md",
     "MainCanvas/Designing Addiction.canvas",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/Untitled.md",
@@ -268,17 +273,10 @@
     "Content Creation/Social Media Marketing Plan/Marketing/Instagram Campaign (multi-account).md",
     "Content Creation/Social Media Marketing Plan/Marketing/StudyTogether StudyStream.md",
     "Content Creation/Social Media Marketing Plan/Marketing/Discord Telegram.md",
-    "Content Creation/Social Media Marketing Plan/Marketing/Bots Workflow (Twitter Threads) ac7ae91b411c479bb015b4a1944834ef.md",
     "Content Creation/Social Media Marketing Plan/Marketing",
     "Content Creation/Social Media Marketing Plan",
     "Content Creation/AI UGC.canvas",
-    "Content Creation/Cheap Labour.md",
     "Content Creation",
-    "_WTF ARE WE/zOLD - product pitch doc.md",
-    "_WTF ARE WE",
-    "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
-    "_Assets Img Anim/Pando/Pando.md",
-    "_Assets Img Anim/zMerch",
     "publish/MainCanvas/Use SideQuestHQ yourself.canvas"
   ]
 }
