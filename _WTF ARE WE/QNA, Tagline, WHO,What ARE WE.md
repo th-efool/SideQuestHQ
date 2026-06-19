@@ -4,6 +4,8 @@
 	 **Dark Indigo** #3730A3 Trust, stability, structure, calm. 
 	 **Momentum Orange** #F59E0B Energy, progress, achievement, momentum. 
 	 **Soft Cream** #FAF7F2 Warmth, clarity, balance, breathing room.
+
+An app for people who have lot of interests that they want to dive-deep but having other priorities get in way of them being able to be give time to these side interests
 # One-Line Description
 
 We help learners consistently make progress through scattered & long form content without losing momentum when life gets in the way.
