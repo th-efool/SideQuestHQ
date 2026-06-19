@@ -1,8 +1,8 @@
-![[Pando_Character_Sheet_With_Metadata.png]]
+
 ```ccard
 type: folder_brief_live
 ```
- 
+ ![[ChatGPT Image Jun 20, 2026, 04_01_16 AM.png]]
 ![[0.3.3_character.expression.pando.png]]
 
 
