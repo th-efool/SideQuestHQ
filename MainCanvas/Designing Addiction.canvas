@@ -150,7 +150,7 @@
 		{
 			"id":"2e49fd5d86afd5cf",
 			"type":"text",
-			"text":"# Welcome Screen\n**Objective**\n1. Tagline & Opener\n2. Get Started / Already Have account",
+			"text":"# Welcome Screen\n**TAKEAWAY after observing all these apps**\nWHAT IS MUST FOR OUR APP's welcoming screen to have\n1. Tagline & Opener\n2. Get Started / Already Have account",
 			"styleAttributes":{},
 			"x":-320,
 			"y":4767,
@@ -173,35 +173,72 @@
 		{"id":"8980458652f498bc","type":"file","file":"zManagment/Media/Pasted image 20260620005956.png","x":1040,"y":5637,"width":761,"height":271},
 		{"id":"8e0f954db1a1412c","type":"file","file":"zManagment/Media/Pasted image 20260620010127.png","x":1019,"y":6008,"width":722,"height":400},
 		{"id":"9e3dcfdca66a047c","type":"file","file":"zManagment/Media/Pasted image 20260620005628.png","x":1097,"y":7120,"width":400,"height":276},
-		{"id":"df97b0e308ed3bad","type":"file","file":"zManagment/Media/Pasted image 20260620012600.png","x":185,"y":10640,"width":355,"height":771},
-		{"id":"2e93a6fef0e1feba","type":"file","file":"zManagment/Media/Pasted image 20260620012610.png","x":193,"y":11440,"width":340,"height":738},
+		{
+			"id":"7a4db681924f7e8b",
+			"type":"text",
+			"text":"# Step2a - ",
+			"styleAttributes":{},
+			"x":-533,
+			"y":8831,
+			"width":260,
+			"height":200
+		},
+		{"id":"b2053bddfe6b8fbe","type":"file","file":"zManagment/Media/Pasted image 20260620013005.png","x":77,"y":8060,"width":320,"height":691},
+		{"id":"5d88242d261983d2","type":"file","file":"zManagment/Media/Pasted image 20260620013314.png","x":-40,"y":9011,"width":340,"height":709},
+		{"id":"e96dea423b4640e0","type":"file","file":"zManagment/Media/Pasted image 20260620013322.png","x":513,"y":10217,"width":380,"height":771},
+		{"id":"df97b0e308ed3bad","type":"file","file":"zManagment/Media/Pasted image 20260620012600.png","x":-225,"y":12435,"width":355,"height":771},
 		{
 			"id":"7f6afec15bfe20be",
 			"type":"text",
 			"text":"# Step2c- ",
 			"styleAttributes":{},
-			"x":-500,
-			"y":11040,
+			"x":-910,
+			"y":12835,
 			"width":260,
 			"height":200
 		},
+		{"id":"2e93a6fef0e1feba","type":"file","file":"zManagment/Media/Pasted image 20260620012610.png","x":-217,"y":13235,"width":340,"height":738},
 		{
 			"id":"e5f7bace2a7ebf25",
 			"type":"text",
 			"text":"# Step2d- ",
 			"styleAttributes":{},
-			"x":-500,
-			"y":11609,
+			"x":-910,
+			"y":13404,
 			"width":260,
 			"height":200
 		},
+		{"id":"bf4810b7e74c7ffe","type":"file","file":"zManagment/Media/Pasted image 20260620013332.png","x":187,"y":12320,"width":390,"height":802},
+		{
+			"id":"a993a300b6df219c",
+			"type":"text",
+			"text":"# THEY GET TO KNOW APP FUNCTIONALITY + + SHOW >> TELL - HOW WHAT they WILL BE ACHIEVING IT + ",
+			"styleAttributes":{},
+			"x":-3040,
+			"y":10472,
+			"width":560,
+			"height":248
+		},
+		{
+			"id":"92225610874221cd",
+			"type":"text",
+			"text":"# Step2b- ",
+			"styleAttributes":{},
+			"x":-1040,
+			"y":10915,
+			"width":260,
+			"height":200
+		},
+		{"id":"98fea1a167c3741b","type":"file","file":"zManagment/Media/Pasted image 20260620013038.png","x":-121,"y":9885,"width":308,"height":665},
+		{"id":"64d901d2cd81b781","type":"file","file":"zManagment/Media/Pasted image 20260620013247.png","x":-283,"y":11115,"width":413,"height":853},
+		{"id":"7b24cb553be7b887","type":"file","file":"zManagment/Media/Pasted image 20260620012538.png","x":564,"y":11015,"width":360,"height":782},
 		{
 			"id":"641793d4c2286a1c",
 			"type":"text",
 			"text":"# AGAIN \"Enjoy Fasting\" - instead of saying \"TRACKING YOUR FASTs\" or \"Be consistent with fasting\" IT ASKS YOU TO \"ENJOY THEM\"",
 			"styleAttributes":{},
-			"x":877,
-			"y":9831,
+			"x":1262,
+			"y":10973,
 			"width":470,
 			"height":329
 		},
@@ -210,21 +247,12 @@
 			"type":"text",
 			"text":"## But you still got understanding of it'll help you track but they didnt framed it as that",
 			"styleAttributes":{},
-			"x":877,
-			"y":10240,
+			"x":1262,
+			"y":11382,
 			"width":440,
 			"height":160
 		},
-		{
-			"id":"92225610874221cd",
-			"type":"text",
-			"text":"# Step2b- ",
-			"styleAttributes":{},
-			"x":-403,
-			"y":9880,
-			"width":260,
-			"height":200
-		},
+		{"id":"184f3048576e1877","type":"file","file":"zManagment/Media/Pasted image 20260620012445.png","x":540,"y":8440,"width":313,"height":680},
 		{
 			"id":"69347cdc300b97d8",
 			"type":"text",
@@ -240,35 +268,11 @@
 			"type":"text",
 			"text":"## But you still got understanding of it'll help you TO DRINK MORE WATER!!",
 			"styleAttributes":{},
-			"x":1410,
-			"y":8931,
+			"x":900,
+			"y":8920,
 			"width":440,
 			"height":160
-		},
-		{
-			"id":"a993a300b6df219c",
-			"type":"text",
-			"text":"# SHOW n TELL - HOW WHAT they WILL BE ACHIEVING IT",
-			"styleAttributes":{},
-			"x":-1840,
-			"y":9320,
-			"width":560,
-			"height":183
-		},
-		{
-			"id":"7a4db681924f7e8b",
-			"type":"text",
-			"text":"# Step2a - ",
-			"styleAttributes":{},
-			"x":-533,
-			"y":8831,
-			"width":260,
-			"height":200
-		},
-		{"id":"b2053bddfe6b8fbe","type":"file","file":"zManagment/Media/Pasted image 20260620013005.png","x":77,"y":8060,"width":320,"height":691},
-		{"id":"184f3048576e1877","type":"file","file":"zManagment/Media/Pasted image 20260620012445.png","x":564,"y":8491,"width":313,"height":680},
-		{"id":"7b24cb553be7b887","type":"file","file":"zManagment/Media/Pasted image 20260620012538.png","x":204,"y":9880,"width":360,"height":782},
-		{"id":"98fea1a167c3741b","type":"file","file":"zManagment/Media/Pasted image 20260620013038.png","x":360,"y":9260,"width":308,"height":665}
+		}
 	],
 	"edges":[
 		{
@@ -545,6 +549,7 @@
 			"id":"3c4dcc8fa1d437e1",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"7b24cb553be7b887",
 			"fromSide":"right",
 			"toNode":"641793d4c2286a1c",
@@ -569,19 +574,11 @@
 			"toSide":"right"
 		},
 		{
-			"id":"1a39b74216e41d4e",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7f6afec15bfe20be",
-			"fromSide":"left",
-			"toNode":"a993a300b6df219c",
-			"toSide":"right"
-		},
-		{
 			"id":"a2aa92eac144e896",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"e5f7bace2a7ebf25",
+			"fromFloating":false,
+			"fromNode":"7f6afec15bfe20be",
 			"fromSide":"left",
 			"toNode":"a993a300b6df219c",
 			"toSide":"right"
@@ -603,6 +600,51 @@
 			"fromSide":"right",
 			"toNode":"98fea1a167c3741b",
 			"toSide":"left"
+		},
+		{
+			"id":"084e6f1ae1ebc027",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"92225610874221cd",
+			"fromSide":"right",
+			"toNode":"64d901d2cd81b781",
+			"toSide":"left"
+		},
+		{
+			"id":"28d15cf571ab8d97",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7a4db681924f7e8b",
+			"fromSide":"right",
+			"toNode":"5d88242d261983d2",
+			"toSide":"left"
+		},
+		{
+			"id":"275ec0a4232042d9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"92225610874221cd",
+			"fromSide":"right",
+			"toNode":"e96dea423b4640e0",
+			"toSide":"left"
+		},
+		{
+			"id":"e49acf9c93ec9a14",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a993a300b6df219c",
+			"fromSide":"right",
+			"toNode":"e5f7bace2a7ebf25",
+			"toSide":"left"
+		},
+		{
+			"id":"57505ce370e020d6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"69347cdc300b97d8",
+			"fromSide":"bottom",
+			"toNode":"4e0fea17c2587186",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
