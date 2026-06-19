@@ -1,119 +1,9 @@
 {
 	"nodes":[
-		{"id":"f48c916d099ff557","type":"group","x":-680,"y":920,"width":3560,"height":1400,"label":"Untitled group"},
-		{"id":"2433d3d2d32176a6","type":"group","x":-3040,"y":-320,"width":1800,"height":1520,"label":"Leaderboard"},
+		{"id":"f48c916d099ff557","type":"group","x":-400,"y":1600,"width":3560,"height":1640,"label":"Untitled group"},
+		{"id":"2433d3d2d32176a6","type":"group","x":-2480,"y":1040,"width":1600,"height":1520,"label":"Leaderboard"},
 		{"id":"8c6029eb16cb70db","type":"group","x":-760,"y":-960,"width":1520,"height":1440,"label":"Designing Addiction"},
-		{
-			"id":"8f78a963e31314b6",
-			"type":"text",
-			"text":"### IDEA\nHammy will encourage em & show message **but for human aspects**\n1. Prompt users in their network in cohort to CONGRATULATE THEM\n2. they just have to click \"SEND\" (would be auto typed, we can have many variations that it'd rule based & rando auto chooose )\n3. Option to edit & write custom\n",
-			"styleAttributes":{},
-			"x":-1940,
-			"y":660,
-			"width":420,
-			"height":320
-		},
-		{
-			"id":"0fa3aa87c800e17f",
-			"type":"text",
-			"text":"### IDEA\nTop 3 performers in cohort will get a badge that will show everywhere in their profile  \n**Conditions would be**\n1. minimum 10 Active users (Active in last week)\n2. 25 members minimum \n3. Top 3 should have streak unbroken\n4. *More than 3 can qualify rule based* (minimum point threshold & streak must)\n",
-			"styleAttributes":{},
-			"x":-1940,
-			"y":33,
-			"width":420,
-			"height":287
-		},
-		{
-			"id":"d9029490ed2a53d8",
-			"type":"text",
-			"text":"3. **Humanize Recognition**: Use mechanisms that feel social and emotional rather than mechanical. Using the example of Peloton, Tim explains that creating moments of recognition—like instructor shoutouts—provides the emotional boost necessary to keep users grinding (3:31 - 4:28). ",
-			"styleAttributes":{},
-			"x":-2930,
-			"y":780,
-			"width":760,
-			"height":80
-		},
-		{
-			"id":"69eca94855a9c24b",
-			"type":"text",
-			"text":"2. **Localize the Cohort**: Global leaderboards can feel \"unwinnable,\" leading to disengagement. Shrink the competition size to focus on peers, neighbors, or friends, which makes winning feel achievable and keeps users coming back (2:18 - 3:07).",
-			"styleAttributes":{},
-			"x":-2930,
-			"y":487,
-			"width":760,
-			"height":80
-		},
-		{
-			"id":"a904b5ac21680a6b",
-			"type":"text",
-			"text":"1. **Surface Comparison at Completion**: Instead of showing a generic list, provide a status update or comparison at the moment of task completion (e.g., finishing a workout or lesson) to show users where they stand (1:26 - 1:42).\n\n\n",
-			"styleAttributes":{},
-			"x":-2860,
-			"y":133,
-			"width":620,
-			"height":100
-		},
-		{
-			"id":"030ddb0557e0e294",
-			"type":"text",
-			"text":"# LEADERBOARDS\n\n",
-			"styleAttributes":{},
-			"x":-2730,
-			"y":-47,
-			"width":360,
-			"height":80
-		},
 		{"id":"4e02288224f5470b","type":"link","url":"https://www.youtube.com/playlist?list=PLOIq79MWqv85EW30rE9xdayYU2qzdxdyt","x":-320,"y":-860,"width":640,"height":360},
-		{
-			"id":"abb0732e6527ada7",
-			"type":"text",
-			"text":"### IDEA\n**Comapre em with**\n1. friend with similar activity points \n2.  person in cohort nearest (he did this much this week)",
-			"styleAttributes":{},
-			"x":-1920,
-			"y":440,
-			"width":420,
-			"height":175
-		},
-		{
-			"id":"3478ac8bd1bbed4f",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":693,
-			"y":980,
-			"width":294,
-			"height":60
-		},
-		{
-			"id":"9a0534e31e22d431",
-			"type":"text",
-			"text":"# DELIEVER",
-			"styleAttributes":{},
-			"x":1017,
-			"y":2400,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"de457d66af1fa3fd",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":603,
-			"y":1484,
-			"width":294,
-			"height":60
-		},
-		{
-			"id":"83fa987dd7e29c28",
-			"type":"text",
-			"text":"# WHOLESALEL BUY",
-			"styleAttributes":{},
-			"x":603,
-			"y":1484,
-			"width":294,
-			"height":60
-		},
 		{"id":"7f99c239b3524bcc","type":"link","url":"https://www.youtube.com/watch?v=Du2lkZ_cux8","x":40,"y":-364,"width":640,"height":360},
 		{"id":"d42cb3bfb7bb4d3b","type":"file","file":"zManagment/Media/Pasted image 20260618024131.png","x":800,"y":-444,"width":875,"height":806},
 		{"id":"2fa45d745a5089dd","type":"link","url":"https://www.youtube.com/watch?v=yBpv5rZoBjA","x":-440,"y":41,"width":640,"height":360},
@@ -130,18 +20,128 @@
 		},
 		{"id":"8bf32038c63d925c","type":"link","url":"https://youtu.be/MAvKHToGiVY?si=tBbQsazhLKDeFIAs","x":-400,"y":580,"width":640,"height":360},
 		{
+			"id":"69eca94855a9c24b",
+			"type":"text",
+			"text":"2. **Localize the Cohort**: Global leaderboards can feel \"unwinnable,\" leading to disengagement. Shrink the competition size to focus on peers, neighbors, or friends, which makes winning feel achievable and keeps users coming back (2:18 - 3:07).",
+			"styleAttributes":{},
+			"x":-2370,
+			"y":1847,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"d9029490ed2a53d8",
+			"type":"text",
+			"text":"3. **Humanize Recognition**: Use mechanisms that feel social and emotional rather than mechanical. Using the example of Peloton, Tim explains that creating moments of recognition—like instructor shoutouts—provides the emotional boost necessary to keep users grinding (3:31 - 4:28). ",
+			"styleAttributes":{},
+			"x":-2370,
+			"y":2140,
+			"width":760,
+			"height":80
+		},
+		{
+			"id":"a904b5ac21680a6b",
+			"type":"text",
+			"text":"1. **Surface Comparison at Completion**: Instead of showing a generic list, provide a status update or comparison at the moment of task completion (e.g., finishing a workout or lesson) to show users where they stand (1:26 - 1:42).\n\n\n",
+			"styleAttributes":{},
+			"x":-2300,
+			"y":1493,
+			"width":620,
+			"height":100
+		},
+		{
+			"id":"030ddb0557e0e294",
+			"type":"text",
+			"text":"# LEADERBOARDS\n\n",
+			"styleAttributes":{},
+			"x":-2170,
+			"y":1313,
+			"width":360,
+			"height":80
+		},
+		{
+			"id":"abb0732e6527ada7",
+			"type":"text",
+			"text":"### IDEA\n**Comapre em with**\n1. friend with similar activity points \n2.  person in cohort nearest (he did this much this week)",
+			"styleAttributes":{},
+			"x":-1360,
+			"y":1800,
+			"width":420,
+			"height":175
+		},
+		{
+			"id":"8f78a963e31314b6",
+			"type":"text",
+			"text":"### IDEA\nHammy will encourage em & show message **but for human aspects**\n1. Prompt users in their network in cohort to CONGRATULATE THEM\n2. they just have to click \"SEND\" (would be auto typed, we can have many variations that it'd rule based & rando auto chooose )\n3. Option to edit & write custom\n",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":2020,
+			"width":420,
+			"height":320
+		},
+		{
+			"id":"0fa3aa87c800e17f",
+			"type":"text",
+			"text":"### IDEA\nTop 3 performers in cohort will get a badge that will show everywhere in their profile  \n**Conditions would be**\n1. minimum 10 Active users (Active in last week)\n2. 25 members minimum \n3. Top 3 should have streak unbroken\n4. *More than 3 can qualify rule based* (minimum point threshold & streak must)\n",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":1393,
+			"width":420,
+			"height":287
+		},
+		{
+			"id":"9a0534e31e22d431",
+			"type":"text",
+			"text":"# DELIEVER",
+			"styleAttributes":{},
+			"x":1297,
+			"y":3080,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"de457d66af1fa3fd",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":883,
+			"y":2164,
+			"width":294,
+			"height":60
+		},
+		{
+			"id":"83fa987dd7e29c28",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":883,
+			"y":2164,
+			"width":294,
+			"height":60
+		},
+		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-360,"y":1920,"width":1827,"height":812},
+		{
+			"id":"3478ac8bd1bbed4f",
+			"type":"text",
+			"text":"# WHOLESALEL BUY",
+			"styleAttributes":{},
+			"x":973,
+			"y":1660,
+			"width":294,
+			"height":60
+		},
+		{
 			"id":"84556e3627911024",
 			"type":"text",
 			"text":"# DTF Sticker use cutout paste",
 			"styleAttributes":{},
-			"x":1400,
-			"y":1010,
+			"x":1680,
+			"y":1690,
 			"width":420,
 			"height":60
 		},
-		{"id":"f09c193cef7f57e1","type":"file","file":"zManagment/Media/Pasted image 20260618031001.png","x":-640,"y":1240,"width":1827,"height":812},
-		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1400,"y":1240,"width":1070,"height":1000},
-		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-560,"y":2104,"width":440,"height":213}
+		{"id":"ed6d58355f6d1938","type":"file","file":"zManagment/Media/Pasted image 20260618032210.png","x":1680,"y":1920,"width":1070,"height":1000},
+		{"id":"90f2cf01122a1975","type":"file","file":"zManagment/Media/Pasted image 20260618030755.png","x":-280,"y":2784,"width":440,"height":213}
 	],
 	"edges":[
 		{
