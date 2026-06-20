@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/Website/Website.canvas",
+                "file": "MainCanvas/App/Onboarding Canvas.canvas",
                 "viewState": {
-                  "x": 1990.5,
-                  "y": 2784.9660377358487,
-                  "zoom": -2.6319754905231836
+                  "x": 0,
+                  "y": 0.5,
+                  "zoom": -3.517381349354773
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Website"
+              "title": "Onboarding Canvas"
             }
           }
         ],
@@ -227,8 +227,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ade4fa0b79ccb54",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "MainCanvas/App/App Design.canvas",
     "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260620120136.png",
     "zManagment/Media/Pasted image 20260620120057.png",
@@ -239,7 +240,7 @@
     "zManagment/Media/Pasted image 20260620115130.png",
     "MainCanvas/Website/Untitled.md",
     "MainCanvas/Website/Website Technicalities.canvas",
-    "MainCanvas/Onboarding Canvas.canvas",
+    "MainCanvas/App/Onboarding Canvas.canvas",
     "MainCanvas/Website",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Untitled.md",
@@ -267,7 +268,6 @@
     "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/App/App Launch.canvas",
-    "MainCanvas/App/App Design.canvas",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
     "MainCanvas/App/Building The App.canvas",

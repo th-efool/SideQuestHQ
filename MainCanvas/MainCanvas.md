@@ -11,12 +11,12 @@ type: folder_brief_live
     - [[App Launch.canvas]]
     - [[Building The App.canvas]]
     - [[Designing Addiction.canvas]]
+    - [[Onboarding Canvas.canvas]]
   - **Website**
     - [[Website Technicalities.canvas]]
     - [[Website.canvas]]
   - [[MainCanvas]]
   - [[Marketing.canvas]]
-  - [[Onboarding Canvas.canvas]]
   - [[Use SideQuestHQ yourself.canvas]]
 
 %% End Waypoint %%
