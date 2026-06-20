@@ -21,7 +21,30 @@
 			"width":300,
 			"height":160
 		},
-		{"id":"d3ceaf8b92bf98a5","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":2160,"y":-1156,"width":1481,"height":753}
+		{"id":"d3ceaf8b92bf98a5","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":3340,"y":-1056,"width":1481,"height":753},
+		{"id":"3a7c0684544ab792","type":"file","file":"zManagment/Media/Pasted image 20260620120007.png","x":347,"y":1200,"width":982,"height":560},
+		{"id":"748411897225798c","type":"file","file":"zManagment/Media/Pasted image 20260620120057.png","x":277,"y":2340,"width":1122,"height":620},
+		{"id":"54c2d5279c4d9168","type":"file","file":"zManagment/Media/Pasted image 20260620120136.png","x":205,"y":3600,"width":1266,"height":720},
+		{
+			"id":"734a147a1660cfea",
+			"type":"text",
+			"text":"# COOL COOL WAY TO COLLECT USERS CHOICE & PREFERENCES LOOKS  SLEEK & KINDA INTERESTING ",
+			"styleAttributes":{},
+			"x":1920,
+			"y":3740,
+			"width":720,
+			"height":220
+		},
+		{
+			"id":"ee518681bdf26a14",
+			"type":"text",
+			"text":"# Buttons Cool Click Transition",
+			"styleAttributes":{},
+			"x":1900,
+			"y":4160,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
 		{
@@ -51,7 +74,55 @@
 			"fromSide":"right",
 			"toNode":"d3ceaf8b92bf98a5",
 			"toSide":"left",
-			"label":"Transition Effects\n- Wheel Rotates like a pistol's reload typa!\n- The images on the right get squished before getting respewed into the next set of images (w/o page change)"
+			"label":"Transition Effects\n- Wheel Rotates like a pistol's reload typa!\n- The images on the right get squished before getting respewed into the next set of images (w/o page change)\n- For the text, it's opacity transition to zero, before the texts & button of next one shows"
+		},
+		{
+			"id":"055ec8107770a984",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"d3ceaf8b92bf98a5",
+			"fromSide":"bottom",
+			"toNode":"3a7c0684544ab792",
+			"toSide":"top",
+			"label":"Transition Effects\n- Wheel Rotates like a pistol's reload typa!\n- The images on the right get squished before getting respewed into the next set of images (w/o page change)\n\n\n"
+		},
+		{
+			"id":"7891f653f789eb05",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3a7c0684544ab792",
+			"fromSide":"bottom",
+			"toNode":"748411897225798c",
+			"toSide":"top"
+		},
+		{
+			"id":"64d85bdf25576fb0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"748411897225798c",
+			"fromSide":"bottom",
+			"toNode":"54c2d5279c4d9168",
+			"toSide":"top"
+		},
+		{
+			"id":"0120dcbc4d23d9d3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"54c2d5279c4d9168",
+			"fromSide":"right",
+			"toNode":"734a147a1660cfea",
+			"toSide":"left"
+		},
+		{
+			"id":"b38fa8a4e97f05fe",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"54c2d5279c4d9168",
+			"fromSide":"right",
+			"toNode":"ee518681bdf26a14",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
