@@ -30,15 +30,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/Website/Website.canvas",
+                "file": "MainCanvas/App/Onboarding Canvas.canvas",
                 "viewState": {
-                  "x": 1990.5,
-                  "y": 1632,
-                  "zoom": -2.6319754905231836
+                  "x": 1756.9295364081702,
+                  "y": -4672.208372667308,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Website"
+              "title": "Onboarding Canvas"
             }
           }
         ],
@@ -229,10 +229,13 @@
   },
   "active": "3ade4fa0b79ccb54",
   "lastOpenFiles": [
-    "Untitled.md",
-    "MainCanvas/Website/Website.canvas",
-    "MainCanvas/App/Onboarding Canvas.canvas",
+    "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/App Design.canvas",
+    "MainCanvas/App/Building The App.canvas",
+    "MainCanvas/App/App Launch.canvas",
+    "MainCanvas/Website/Website.canvas",
+    "Untitled.md",
+    "MainCanvas/App/Onboarding Canvas.canvas",
     "zManagment/Media/Pasted image 20260620120136.png",
     "zManagment/Media/Pasted image 20260620120057.png",
     "zManagment/Media/Pasted image 20260620120007.png",
@@ -265,12 +268,9 @@
     "publish/attachments",
     "publish",
     "MainCanvas/MainCanvas.md",
-    "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/Marketing.canvas",
-    "MainCanvas/App/App Launch.canvas",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
-    "MainCanvas/App/Building The App.canvas",
     "UseForSelf(SideQuestHQ)/Finance.md",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "publish/home.md",
