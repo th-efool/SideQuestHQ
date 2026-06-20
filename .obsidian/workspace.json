@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e9a2d46e8d56e2",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee1dfdb78d2d910",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/Website/Website.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "QNA, Tagline, WHO,What ARE WE"
+              "icon": "lucide-layout-dashboard",
+              "title": "Website"
             }
           }
         ]
@@ -205,8 +208,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4ee1dfdb78d2d910",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "MainCanvas/Website/Untitled.md",
+    "MainCanvas/Website/Website.canvas",
+    "MainCanvas/Website/Website Technicalities.canvas",
+    "MainCanvas/Onboarding Canvas.canvas",
+    "MainCanvas/Website",
+    "MainCanvas/Use SideQuestHQ yourself.canvas",
+    "MainCanvas/Untitled.md",
+    "MainCanvas/App",
+    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_AI CONTEXT/Mascots.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
@@ -232,19 +244,14 @@
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "publish/attachments",
     "publish",
-    "MainCanvas/Onboarding Canvas.canvas",
     "MainCanvas/MainCanvas.md",
-    "MainCanvas/Designing Addiction.canvas",
+    "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/Marketing.canvas",
-    "MainCanvas/Untitled.md",
-    "MainCanvas/Building The Website.canvas",
-    "MainCanvas/App Launch.canvas",
-    "MainCanvas/App Design.canvas",
-    "MainCanvas/Use SideQuestHQ yourself.canvas",
+    "MainCanvas/App/App Launch.canvas",
+    "MainCanvas/App/App Design.canvas",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
-    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
-    "MainCanvas/Building The App.canvas",
+    "MainCanvas/App/Building The App.canvas",
     "UseForSelf(SideQuestHQ)/Finance.md",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "publish/home.md",
@@ -256,12 +263,7 @@
     "Marketing/Instagram Influencers.md",
     "Marketing",
     "MainCanvas",
-    "Lemme Fix You/Welcome.md",
     "Lemme Fix You",
-    "Content Creation/Social Media Marketing Plan/Marketing/Twitter Threads.md",
-    "Content Creation/Social Media Marketing Plan/Marketing",
-    "Content Creation/Social Media Marketing Plan",
-    "Content Creation/AI UGC.canvas",
-    "publish/MainCanvas/Use SideQuestHQ yourself.canvas"
+    "Content Creation/AI UGC.canvas"
   ]
 }
