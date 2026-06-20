@@ -28,10 +28,17 @@
             "id": "3ade4fa0b79ccb54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "MainCanvas/Website/Website.canvas",
+                "viewState": {
+                  "x": 1990.5,
+                  "y": 2784.9660377358487,
+                  "zoom": -2.6319754905231836
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Website"
             }
           }
         ],
@@ -216,7 +223,8 @@
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "3ade4fa0b79ccb54",
