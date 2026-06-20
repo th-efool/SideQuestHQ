@@ -16,7 +16,7 @@
                 "file": "MainCanvas/Website/Website.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 0,
+                  "y": -372,
                   "zoom": -1
                 }
               },
@@ -208,8 +208,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260620115306.png",
+    "zManagment/Media/Pasted image 20260620115130.png",
     "MainCanvas/Website/Untitled.md",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Website/Website Technicalities.canvas",
@@ -237,7 +239,6 @@
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "Untitled.md",
     "_AI CONTEXT/Kip_Character_Sheet_With_Metadata.png",
-    "_AI CONTEXT/Hammy_Character_Sheet_With_Metadata.png",
     "_Assets Img Anim/_Assets Img Anim.md",
     "_AI CONTEXT/Color System.md",
     "_AI CONTEXT",
