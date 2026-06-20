@@ -23,8 +23,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Website"
             }
+          },
+          {
+            "id": "3ade4fa0b79ccb54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +219,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ade4fa0b79ccb54",
   "lastOpenFiles": [
+    "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260620120136.png",
     "zManagment/Media/Pasted image 20260620120057.png",
     "zManagment/Media/Pasted image 20260620120007.png",
@@ -218,7 +230,6 @@
     "zManagment/Media/Pasted image 20260620115306.png",
     "zManagment/Media/Pasted image 20260620115130.png",
     "MainCanvas/Website/Untitled.md",
-    "MainCanvas/Website/Website.canvas",
     "MainCanvas/Website/Website Technicalities.canvas",
     "MainCanvas/Onboarding Canvas.canvas",
     "MainCanvas/Website",
@@ -233,7 +244,6 @@
     "zManagment/Media/Pasted image 20260620043215.png",
     "zManagment/Media/Pasted image 20260618080811.png",
     "_AI CONTEXT/Vocabulary Marketing.md",
-    "zManagment/Media/Pasted image 20260620042806.png",
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Kip/Kip.md",
