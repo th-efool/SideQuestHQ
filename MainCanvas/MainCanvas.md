@@ -13,7 +13,7 @@ type: folder_brief_live
     - [[Designing Addiction.canvas]]
     - [[Onboarding Canvas.canvas]]
   - **Website**
-    - [[SignUp.canvas]]
+    - [[SignUp n Onboarding.canvas]]
     - [[Website Technicalities.canvas]]
     - [[Website.canvas]]
   - [[MainCanvas]]
