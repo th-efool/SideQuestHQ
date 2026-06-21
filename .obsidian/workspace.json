@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "MainCanvas/Website/Website.canvas",
-                "viewState": {
-                  "x": 6945.36752433877,
-                  "y": -2356.26260767262,
-                  "zoom": -0.9999999999999996
-                }
+                "file": "zManagment/Media/Mobbin Web 2 (1).png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Website"
+              "icon": "lucide-image",
+              "title": "Mobbin Web 2 (1)"
             }
           }
         ]
@@ -211,20 +206,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Website.canvas",
+    "zManagment/Media/Mobbin Web 2 (1).png",
+    "zManagment/Media/Pasted image 20260621124526.png",
+    "zManagment/Media/Pasted image 20260621124519.png",
     "zManagment/Media/Pasted image 20260621124417.png",
     "zManagment/Media/Pasted image 20260621124307.png",
     "zManagment/Media/Pasted image 20260621123734.png",
-    "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260621121906.png",
     "MainCanvas/Website/Website Technicalities.canvas",
     "zManagment/Media/Pasted image 20260621123500.png",
     "MainCanvas/MainCanvas.md",
     "zManagment/Media/Pasted image 20260621123411.png",
     "zManagment/Media/ElevenLabs Web 3.png",
-    "zManagment/Media/Pasted image 20260621123317.png",
-    "zManagment/Media/Pasted image 20260621123122.png",
-    "zManagment/Media/Cosmos Web 8.png",
-    "zManagment/Media/Runway Web 2.png",
     "MainCanvas/App/Onboarding Canvas.canvas",
     "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/App Design.canvas",
