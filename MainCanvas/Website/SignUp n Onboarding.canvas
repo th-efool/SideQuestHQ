@@ -172,16 +172,6 @@
 			"height":500
 		},
 		{
-			"id":"1d141b9562d33bac",
-			"type":"text",
-			"text":"# ==The highest-leverage insight for SideQuestHQ==\n\nA veteran UX designer would likely conclude:\n\n**The first signup screen should not start with account creation.**\n\nIt should start with identity and intent.\n\nNot:\n\n```\nEmailPasswordCreate account\n```\n\nBut:\n\n```\nWhat do you want to finish learning?\n```\n\nBecause your product promise is not:\n\n> Create an account.\n\nYour product promise is:\n\n> Continue the thing you keep postponing.\n\nThe moment a user types:\n\n```\nMachine Learning Playlist\nGerman\nPsychology\nSystem Design\n```",
-			"styleAttributes":{},
-			"x":-2480,
-			"y":-720,
-			"width":520,
-			"height":760
-		},
-		{
 			"id":"c4edcc510d2a51d1",
 			"type":"text",
 			"text":"# ==Labels Above Fields Are Disappearing==\n\n==Many modern forms rely heavily on placeholders.==\n\nThis isn't always better UX.\n\nBut it reveals something:\n\nDesigners are trying to reduce visual density.\n\nThey're trading explicitness for simplicity.\n\nVeterans know:\n\n```\nLow frictionvsHigh clarity\n```\n\nis a constant tradeoff.",
@@ -353,6 +343,26 @@
 			"y":-1220,
 			"width":400,
 			"height":420
+		},
+		{
+			"id":"1d141b9562d33bac",
+			"type":"text",
+			"text":"# ==The highest-leverage insight for SideQuestHQ==\n\nA veteran UX designer would likely conclude:\n\n**The first signup screen should not start with account creation.**\n\nIt should start with identity and intent.\n\nNot:\n\n```\nEmailPasswordCreate account\n```\n\nBut:\n\n```\nWhat do you want to finish learning?\n```\n\nBecause your product promise is not:\n\n> Create an account.\n\nYour product promise is:\n\n> Continue the thing you keep postponing.\n\nThe moment a user types:\n\n```\nMachine Learning Playlist\nGerman\nPsychology\nSystem Design\n```",
+			"styleAttributes":{},
+			"x":-2086,
+			"y":180,
+			"width":520,
+			"height":760
+		},
+		{
+			"id":"2f00469f6c3efde7",
+			"type":"text",
+			"text":"# What A Senior Product Designer Would Notice For SideQuestHQ\n\nThese examples reveal something important:\n\n**SideQuestHQ should not show learning paths on the signup screen.**\n\nThat's the equivalent of showing database tables.\n\nIt's internal structure.\n\nNot desire.\n\nMost founders would showcase:\n\n```\ncohort cardsprogress barslearning graphadaptive scheduler\n```\n\nThose are mechanisms.\n\nNot outcomes.\n\n---\n\nThe real emotional outcome in SideQuestHQ is:\n\n```\nI finally finished something.\n```\n\nEverything in your positioning points toward that.",
+			"styleAttributes":{},
+			"x":-2426,
+			"y":-720,
+			"width":680,
+			"height":720
 		}
 	],
 	"edges":[
@@ -913,6 +923,15 @@
 			"fromNode":"3c789c6e2ca806bb",
 			"fromSide":"bottom",
 			"toNode":"74e60c9523754cd0",
+			"toSide":"top"
+		},
+		{
+			"id":"8de9cfb538cc69ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"2f00469f6c3efde7",
 			"toSide":"top"
 		}
 	],
