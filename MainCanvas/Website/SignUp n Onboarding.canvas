@@ -22,7 +22,6 @@
 		{"id":"0ed0a3262c7fe3a4","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":-700,"y":-3220,"width":785,"height":490},
 		{"id":"399c91460d174e9c","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":-1826,"y":-3255,"width":889,"height":555},
 		{"id":"d7ec5a71c4533f89","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":-1780,"y":-3900,"width":880,"height":550},
-		{"id":"a45ea6a0b36d8424","type":"file","file":"zManagment/Media/Pasted image 20260621143915.png","x":-770,"y":-3943,"width":927,"height":580},
 		{
 			"id":"526160567696a0bb",
 			"type":"text",
@@ -343,6 +342,17 @@
 			"y":-4060,
 			"width":414,
 			"height":737
+		},
+		{"id":"a45ea6a0b36d8424","type":"file","file":"zManagment/Media/Pasted image 20260621143915.png","x":-800,"y":-3880,"width":927,"height":580},
+		{
+			"id":"74e60c9523754cd0",
+			"type":"text",
+			"text":"# The User Is Already Mentally Using The Product\n\nClaude is the strongest example.\n\nThe workspace preview lets me imagine:\n\n```\nmy projectmy documentmy workflow\n```\n\nbefore I've even typed my email.\n\nThat is essentially free product adoption happening before signup.",
+			"styleAttributes":{},
+			"x":-900,
+			"y":-1220,
+			"width":400,
+			"height":420
 		}
 	],
 	"edges":[
@@ -895,6 +905,15 @@
 			"fromSide":"right",
 			"toNode":"47b640cd8abb0ad5",
 			"toSide":"left"
+		},
+		{
+			"id":"70b4d3fc9e654ffe",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3c789c6e2ca806bb",
+			"fromSide":"bottom",
+			"toNode":"74e60c9523754cd0",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
