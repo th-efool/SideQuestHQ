@@ -1,17 +1,15 @@
 {
 	"nodes":[
 		{"id":"a8366d4706c1b473","type":"group","x":-240,"y":1760,"width":2720,"height":2540,"label":"Onboarding Screens"},
-		{"id":"b0991385ffd81608","type":"group","x":1640,"y":-4160,"width":2120,"height":2177,"color":"2"},
+		{"id":"b0991385ffd81608","type":"group","x":1640,"y":-4560,"width":2120,"height":2577,"color":"2"},
+		{"id":"7d814604121ee508","type":"group","x":-1260,"y":-4380,"width":1934,"height":2045,"label":"Type 4"},
 		{"id":"70b391203f5d9239","type":"group","x":5900,"y":-3000,"width":2140,"height":1460,"label":"Type5 - Misc"},
-		{"id":"7d814604121ee508","type":"group","x":-1280,"y":-3600,"width":1934,"height":1325,"label":"Type 4"},
 		{"id":"0df06f6fc7ed2faf","type":"group","x":3940,"y":-5380,"width":2640,"height":563,"label":"Type 2"},
 		{"id":"003d71a30a462a82","type":"group","x":6040,"y":-4200,"width":2080,"height":700,"color":"3","label":"Type 3"},
+		{"id":"572229c359281df8","type":"group","x":2220,"y":-4470,"width":960,"height":620,"color":"1","label":"ANIMATED"},
 		{"id":"2a3dbd6998dee4f3","type":"file","file":"zManagment/Media/Matter Web 2.png","x":1714,"y":-3100,"width":793,"height":495},
 		{"id":"183ba90ac206a083","type":"file","file":"zManagment/Media/Pasted image 20260621123500.png","x":2840,"y":-3148,"width":785,"height":491},
 		{"id":"d1357cb92e9d2293","type":"file","file":"zManagment/Media/Claude Web 2.png","x":1714,"y":-2523,"width":820,"height":512,"color":"3"},
-		{"id":"6d03715fd186915e","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-1254,"y":-3575,"width":942,"height":589},
-		{"id":"84430c740089f674","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-770,"y":-2865,"width":916,"height":575},
-		{"id":"64f7faef03f05c37","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-265,"y":-3532,"width":905,"height":564},
 		{"id":"b62a337ef72c4f2f","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":2840,"y":-3760,"width":786,"height":490},
 		{"id":"0bfcf6459e18b056","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":1714,"y":-3795,"width":889,"height":555},
 		{"id":"0436af704f73d4db","type":"file","file":"zManagment/Media/ElevenLabs Web 3.png","x":2840,"y":-2501,"width":786,"height":490},
@@ -49,7 +47,6 @@
 			"height":95
 		},
 		{"id":"053f7794ad642bcf","type":"file","file":"zManagment/Media/Pasted image 20260621124307.png","x":5820,"y":-5350,"width":720,"height":450},
-		{"id":"2912b945111abec8","type":"file","file":"zManagment/Media/Mobbin Web 2 (1).png","x":3800,"y":-3799,"width":900,"height":619},
 		{"id":"3a7c0684544ab792","type":"file","file":"zManagment/Media/Pasted image 20260620120007.png","x":121,"y":1780,"width":982,"height":560},
 		{"id":"748411897225798c","type":"file","file":"zManagment/Media/Pasted image 20260620120057.png","x":51,"y":2540,"width":1122,"height":620},
 		{"id":"54c2d5279c4d9168","type":"file","file":"zManagment/Media/Pasted image 20260620120136.png","x":-21,"y":3420,"width":1266,"height":720},
@@ -79,7 +76,10 @@
 		{"id":"47eb737615077f29","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":6059,"y":-4164,"width":1000,"height":623},
 		{"id":"e2699285add41ee5","type":"file","file":"zManagment/Media/Linear Web 3.png","x":5920,"y":-2978,"width":1000,"height":623},
 		{"id":"5b8046b8d4fdff1c","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":7000,"y":-2978,"width":1000,"height":626},
-		{"id":"e64669ccc24724dc","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":-380,"y":-4100,"width":736,"height":460}
+		{"id":"6d03715fd186915e","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-1234,"y":-3635,"width":942,"height":589},
+		{"id":"84430c740089f674","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-750,"y":-2925,"width":916,"height":575},
+		{"id":"64f7faef03f05c37","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-245,"y":-3592,"width":905,"height":564},
+		{"id":"e64669ccc24724dc","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":2240,"y":-4400,"width":880,"height":550}
 	],
 	"edges":[
 		{
