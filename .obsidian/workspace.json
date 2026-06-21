@@ -15,16 +15,41 @@
               "state": {
                 "file": "MainCanvas/Website/Website.canvas",
                 "viewState": {
-                  "x": 95.04939436764627,
-                  "y": -4065.325998645513,
-                  "zoom": -0.9999999999999996
+                  "x": 435.66399946508733,
+                  "y": -2578.713527059077,
+                  "zoom": -1.1471160665730464
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Website"
             }
+          },
+          {
+            "id": "de6487aecd10270b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zManagment/Media/Pasted image 20260621144220.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260621144220"
+            }
+          },
+          {
+            "id": "30029a789092d770",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zManagment/Media/Pasted image 20260621143915.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260621143915"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,8 +234,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "de6487aecd10270b",
   "lastOpenFiles": [
+    "MainCanvas/Website/Website.canvas",
+    "zManagment/Media/Pasted image 20260621144220.png",
+    "zManagment/Media/Pasted image 20260621144117.png",
+    "zManagment/Media/Pasted image 20260621144101.png",
+    "zManagment/Media/Pasted image 20260621144009.png",
+    "MainCanvas/App/Onboarding Canvas.canvas",
+    "zManagment/Media/Pasted image 20260621143915.png",
+    "zManagment/Media/Pasted image 20260621143748.png",
     "zManagment/Media/Pasted image 20260621143500.png",
     "zManagment/Media/Pasted image 20260621143425.png",
     "zManagment/Media/Pasted image 20260621133411.png",
@@ -218,16 +251,7 @@
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Website/Website Technicalities.canvas",
     "zManagment/Media/Mobbin Web 2 (1).png",
-    "MainCanvas/Website/Website.canvas",
-    "zManagment/Media/Pasted image 20260621124526.png",
-    "zManagment/Media/Pasted image 20260621124519.png",
-    "zManagment/Media/Pasted image 20260621124417.png",
-    "zManagment/Media/Pasted image 20260621124307.png",
-    "zManagment/Media/Pasted image 20260621123734.png",
-    "zManagment/Media/Pasted image 20260621121906.png",
-    "zManagment/Media/Pasted image 20260621123500.png",
     "MainCanvas/MainCanvas.md",
-    "MainCanvas/App/Onboarding Canvas.canvas",
     "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/App/Building The App.canvas",
