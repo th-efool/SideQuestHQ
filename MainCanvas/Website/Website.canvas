@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"a8366d4706c1b473","type":"group","x":-240,"y":1760,"width":2720,"height":2540,"label":"Onboarding Screens"},
 		{"id":"b0991385ffd81608","type":"group","x":1640,"y":-4560,"width":2120,"height":2577,"color":"2"},
-		{"id":"7d814604121ee508","type":"group","x":-1260,"y":-4380,"width":1934,"height":2045,"label":"Type 4"},
+		{"id":"7d814604121ee508","type":"group","x":-1260,"y":-4440,"width":1934,"height":2105,"label":"Type 4"},
 		{"id":"70b391203f5d9239","type":"group","x":5900,"y":-3000,"width":2140,"height":1460,"label":"Type5 - Misc"},
 		{"id":"0df06f6fc7ed2faf","type":"group","x":3940,"y":-5380,"width":2640,"height":563,"label":"Type 2"},
 		{"id":"003d71a30a462a82","type":"group","x":6040,"y":-4200,"width":2080,"height":700,"color":"3","label":"Type 3"},
@@ -80,7 +80,9 @@
 		{"id":"84430c740089f674","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-750,"y":-2925,"width":916,"height":575},
 		{"id":"64f7faef03f05c37","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-245,"y":-3592,"width":905,"height":564},
 		{"id":"e64669ccc24724dc","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":2240,"y":-4400,"width":880,"height":550},
-		{"id":"613f53714362672a","type":"file","file":"zManagment/Media/Pasted image 20260621133411.png","x":1400,"y":1840,"width":722,"height":360}
+		{"id":"613f53714362672a","type":"file","file":"zManagment/Media/Pasted image 20260621133411.png","x":1400,"y":1840,"width":722,"height":360},
+		{"id":"f29ce5013a0384f2","type":"file","file":"zManagment/Media/Pasted image 20260621143425.png","x":4374,"y":-4318,"width":1160,"height":801},
+		{"id":"62fd9a5c32cc294c","type":"file","file":"zManagment/Media/Pasted image 20260621143500.png","x":-840,"y":-4360,"width":1000,"height":688}
 	],
 	"edges":[
 		{
@@ -289,6 +291,15 @@
 			"fromSide":"bottom",
 			"toNode":"6d03715fd186915e",
 			"toSide":"bottom"
+		},
+		{
+			"id":"21f2dc4ad39feb55",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e758acab3da87e65",
+			"fromSide":"bottom",
+			"toNode":"f29ce5013a0384f2",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
