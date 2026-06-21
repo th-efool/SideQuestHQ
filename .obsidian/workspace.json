@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/Website/Website.canvas",
                 "viewState": {
-                  "x": 915.2454990615588,
-                  "y": -4102.049909968903,
-                  "zoom": -2.147116066573046
+                  "x": 2299.1043240775753,
+                  "y": 2072.7420028281977,
+                  "zoom": -0.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -211,6 +211,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260621133411.png",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Website/Website Technicalities.canvas",
@@ -265,7 +266,6 @@
     "Marketing/Instagram Influencers.md",
     "Marketing",
     "MainCanvas",
-    "Lemme Fix You",
     "Content Creation/AI UGC.canvas"
   ]
 }
