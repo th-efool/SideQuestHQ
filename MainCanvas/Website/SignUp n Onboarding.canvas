@@ -149,8 +149,8 @@
 			"type":"text",
 			"text":"#  Good Signup Pages Reduce Future Anxiety\n\nLook at wording.\n\nBad wording:\n\n```\nCreate account\n```\n\nGood wording:\n\n```\nStart free trialContinueJoin cohortExplore\n```\n\nThe subtle message:\n\n```\nYou aren't marrying us.You're trying us.\n```\n\nDesigners reduce future commitment fear.",
 			"styleAttributes":{},
-			"x":-4281,
-			"y":-1080,
+			"x":-4880,
+			"y":-1280,
 			"width":712,
 			"height":520
 		},
@@ -159,30 +159,80 @@
 			"type":"text",
 			"text":"# Most Pages Have One Visual Gravity Center\n\nYour eyes are pulled somewhere.\n\nUsually:\n\n```\nheadlineformillustration\n```\n\nNot all three equally.\n\nOne dominates.\n\nThe others support.\n\nGood pages have hierarchy.\n\nBad pages have competition.",
 			"styleAttributes":{},
-			"x":-3760,
-			"y":-520,
+			"x":-4293,
+			"y":-590,
 			"width":432,
 			"height":560
+		},
+		{
+			"id":"56897bddd0185c3f",
+			"type":"text",
+			"text":"# ==Signup Screens Are Actually Risk Screens==\n\nThe user's hidden questions:\n\n```\nWill this waste my time?Will they spam me?Will I regret this?Will this be useful?Can I leave later?\n```\n\nThe best signup pages answer those questions without explicitly saying them",
+			"styleAttributes":{},
+			"x":-3725,
+			"y":-102,
+			"width":420,
+			"height":460
 		},
 		{
 			"id":"db5894a3f112dac2",
 			"type":"text",
 			"text":"# White Space Is Doing Psychological Work\n\nHuge empty regions exist.\n\nNot because designers had nothing to add.\n\nBecause signup is a single-task screen.\n\nEvery extra element creates:\n\n```\ndecision branchesattention forkscognitive load\n```\n\nVeterans aggressively remove options.",
 			"styleAttributes":{},
-			"x":-2480,
-			"y":-880,
+			"x":3400,
+			"y":-4480,
 			"width":530,
 			"height":500
+		},
+		{
+			"id":"1d141b9562d33bac",
+			"type":"text",
+			"text":"# ==The highest-leverage insight for SideQuestHQ==\n\nA veteran UX designer would likely conclude:\n\n**The first signup screen should not start with account creation.**\n\nIt should start with identity and intent.\n\nNot:\n\n```\nEmailPasswordCreate account\n```\n\nBut:\n\n```\nWhat do you want to finish learning?\n```\n\nBecause your product promise is not:\n\n> Create an account.\n\nYour product promise is:\n\n> Continue the thing you keep postponing.\n\nThe moment a user types:\n\n```\nMachine Learning Playlist\nGerman\nPsychology\nSystem Design\n```",
+			"styleAttributes":{},
+			"x":-2480,
+			"y":-720,
+			"width":520,
+			"height":760
 		},
 		{
 			"id":"c4edcc510d2a51d1",
 			"type":"text",
 			"text":"# ==Labels Above Fields Are Disappearing==\n\n==Many modern forms rely heavily on placeholders.==\n\nThis isn't always better UX.\n\nBut it reveals something:\n\nDesigners are trying to reduce visual density.\n\nThey're trading explicitness for simplicity.\n\nVeterans know:\n\n```\nLow frictionvsHigh clarity\n```\n\nis a constant tradeoff.",
 			"styleAttributes":{},
-			"x":-2760,
-			"y":-380,
+			"x":-2740,
+			"y":160,
 			"width":520,
+			"height":472
+		},
+		{
+			"id":"3e6e48cdb5d1d543",
+			"type":"text",
+			"text":"# ==The Screen Is Split Into Two Brains==\n\nAll three examples use:\n\n```\nLeft Side  = Emotional Brain\nRight Side = Rational Brain\n```\n\nor vice versa.\n\nThe form exists for the rational brain.\n\nThe marketing panel exists for the emotional brain.\n\n---\n\nTraditional signup:\n\n```\n[ Form ]\n```\n\nSplit-screen signup:\n\n```\n[ Why this matters ] [ Do the thing ]\n```\n\nHuge difference.",
+			"styleAttributes":{},
+			"x":-5171,
+			"y":-4760,
+			"width":500,
 			"height":680
+		},
+		{
+			"id":"e564b6ef4cba61ff",
+			"type":"text",
+			"text":"# They're Fighting Form Blindness\n\nPeople have seen signup forms 10,000 times.\n\nTheir brain automatically categorizes:\n\n```\nName\nEmail\nPassword\n```\n\nas administrative work.\n\nThe marketing panel interrupts that autopilot.\n\nIt reminds the user:\n\n```\nThis is not paperwork.\nThis is access.\n```",
+			"styleAttributes":{},
+			"x":-5457,
+			"y":-666,
+			"width":520,
+			"height":564
+		},
+		{
+			"id":"50bab79fa0cdc2ee",
+			"type":"text",
+			"text":"# The Left Panel Is A Psychological Preview\n\nRemote does this particularly well.\n\nNotice the mini UI mockups.\n\nThose aren't screenshots.\n\nThey're future memories.\n\nThe page is showing:\n\n```\nAfter signup...this is what life looks like.\n```\n\nThe brain loves previews.\n\nUncertainty drops.",
+			"styleAttributes":{},
+			"x":-4281,
+			"y":-4760,
+			"width":549,
+			"height":480
 		}
 	],
 	"edges":[
@@ -529,15 +579,6 @@
 			"toSide":"right"
 		},
 		{
-			"id":"c73ba2c20b063738",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a2769915cb2fd582",
-			"fromSide":"bottom",
-			"toNode":"db5894a3f112dac2",
-			"toSide":"top"
-		},
-		{
 			"id":"11690f1beb063f63",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -554,6 +595,69 @@
 			"fromSide":"bottom",
 			"toNode":"c4edcc510d2a51d1",
 			"toSide":"top"
+		},
+		{
+			"id":"e7a6a3320e1d3022",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"56897bddd0185c3f",
+			"toSide":"top"
+		},
+		{
+			"id":"156dc73cfb073003",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"db5894a3f112dac2",
+			"fromSide":"bottom",
+			"toNode":"a4c3eecff8d7d3a2",
+			"toSide":"top"
+		},
+		{
+			"id":"d2667113b23975f2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"db5894a3f112dac2",
+			"fromSide":"bottom",
+			"toNode":"23ea5071d764f1be",
+			"toSide":"top"
+		},
+		{
+			"id":"1b7ee68b96393111",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"1d141b9562d33bac",
+			"toSide":"top"
+		},
+		{
+			"id":"14ffd52b0ce3281e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57d39e5248bd6711",
+			"fromSide":"top",
+			"toNode":"3e6e48cdb5d1d543",
+			"toSide":"bottom"
+		},
+		{
+			"id":"75f8f4f4d55da3a9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57d39e5248bd6711",
+			"fromSide":"bottom",
+			"toNode":"e564b6ef4cba61ff",
+			"toSide":"top"
+		},
+		{
+			"id":"962e8cdd4809ffea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57d39e5248bd6711",
+			"fromSide":"top",
+			"toNode":"50bab79fa0cdc2ee",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
