@@ -315,12 +315,32 @@
 			"height":667
 		},
 		{
+			"id":"47b640cd8abb0ad5",
+			"type":"text",
+			"text":"### Gifting Platform\n\nBackground shows:\n\n```\nbeautiful products\n```\n\nNarrative:\n\n```\ndiscover gifts\n```\n\n---\n\n### ElevenLabs\n\nBackground shows:\n\n```\nvoice cards\ngenerated outputs\n```\n\nNarrative:\n\n```\ncreate voices\n```\n",
+			"styleAttributes":{},
+			"x":400,
+			"y":-2362,
+			"width":400,
+			"height":602
+		},
+		{
+			"id":"66410c35ee29281b",
+			"type":"text",
+			"text":"# The Background Is Doing Narrative Work\n\nLet's classify them.\n\n### Matter\n\nBackground shows:\n\n```\ncommunity activity\n```\n\nNarrative:\n\n```\njoin the conversation\n```\n\n---\n\n### Claude\n\nBackground shows:\n\n```\nworkspace\nartifacts\ncreation\n```\n\nNarrative:\n\n```\nbuild things\n```",
+			"styleAttributes":{},
+			"x":-2660,
+			"y":-2620,
+			"width":660,
+			"height":787
+		},
+		{
 			"id":"88e133fe4aa27013",
 			"type":"text",
 			"text":"## The Dating App Example Uses a Different Strategy\n\nNotice it doesn't show features.\n\nIt shows:\n\n```\npeople\nprofiles\nactivity\nmatches\n```\n\nWhy?\n\nBecause dating products aren't selling software.\n\nThey're selling outcomes.\n\nThe outcome is:\n\n```\nmeeting someone\n```\n\nnot\n\n```\nusing the app\n```",
 			"styleAttributes":{},
-			"x":-3760,
-			"y":-1275,
+			"x":340,
+			"y":-4060,
 			"width":414,
 			"height":737
 		}
@@ -848,6 +868,33 @@
 			"fromSide":"bottom",
 			"toNode":"88e133fe4aa27013",
 			"toSide":"top"
+		},
+		{
+			"id":"7159d74e985fd8ac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ad34448eba7d4372",
+			"fromSide":"left",
+			"toNode":"66410c35ee29281b",
+			"toSide":"right"
+		},
+		{
+			"id":"c6f70c6947c9b6ba",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"79a1e7264bf14afc",
+			"fromSide":"right",
+			"toNode":"47b640cd8abb0ad5",
+			"toSide":"left"
+		},
+		{
+			"id":"52ea22edec2a6317",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"30cd75e22b825547",
+			"fromSide":"right",
+			"toNode":"47b640cd8abb0ad5",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
