@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/Website/SignUp n Onboarding.canvas",
-                "viewState": {
-                  "x": -3019.648062934629,
-                  "y": -2950.574245254117,
-                  "zoom": -2.9999999999999996
-                }
+                "file": "MainCanvas/Website/Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SignUp n Onboarding"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -211,8 +208,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MainCanvas/Website/Website.canvas",
+    "zManagment/Media/Pasted image 20260621152137.png",
+    "zManagment/Media/Pasted image 20260621152103.png",
+    "zManagment/Media/Pasted image 20260621152038.png",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
+    "MainCanvas/Website/Dashboard.md",
+    "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260621145558.png",
     "zManagment/Media/Pasted image 20260621145547.png",
     "zManagment/Media/Pasted image 20260621145410.png",
@@ -221,8 +222,6 @@
     "zManagment/Media/Pasted image 20260621143915.png",
     "zManagment/Media/Pasted image 20260621144220.png",
     "zManagment/Media/Pasted image 20260621144117.png",
-    "zManagment/Media/Pasted image 20260621144101.png",
-    "zManagment/Media/Pasted image 20260621144009.png",
     "MainCanvas/App/Onboarding Canvas.canvas",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
@@ -233,7 +232,6 @@
     "MainCanvas/App/Building The App.canvas",
     "MainCanvas/App/App Launch.canvas",
     "Untitled.md",
-    "MainCanvas/Website/Untitled.md",
     "MainCanvas/Website",
     "MainCanvas/Untitled.md",
     "MainCanvas/App",
@@ -265,7 +263,6 @@
     "Marketing/Marketing Engine A.md",
     "Marketing/Instagram Influencers.md",
     "Marketing",
-    "MainCanvas",
-    "Content Creation/AI UGC.canvas"
+    "MainCanvas"
   ]
 }
