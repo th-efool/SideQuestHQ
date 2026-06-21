@@ -15,34 +15,16 @@
               "state": {
                 "file": "MainCanvas/Website/Website.canvas",
                 "viewState": {
-                  "x": 1697.2013529194835,
-                  "y": 4069.34848626659,
-                  "zoom": -1
+                  "x": 2428.1593615831953,
+                  "y": -945.9904144140302,
+                  "zoom": -1.2986421571898503
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Website"
             }
-          },
-          {
-            "id": "3ade4fa0b79ccb54",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MainCanvas/App/Onboarding Canvas.canvas",
-                "viewState": {
-                  "x": 1825.6580447708122,
-                  "y": -3025.279116877441,
-                  "zoom": -1.9999999999999998
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Onboarding Canvas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,15 +209,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ade4fa0b79ccb54",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Website Technicalities.canvas",
+    "MainCanvas/Website/Website.canvas",
+    "MainCanvas/App/Onboarding Canvas.canvas",
     "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/App/Building The App.canvas",
     "MainCanvas/App/App Launch.canvas",
-    "MainCanvas/Website/Website.canvas",
     "Untitled.md",
-    "MainCanvas/App/Onboarding Canvas.canvas",
     "zManagment/Media/Pasted image 20260620120136.png",
     "zManagment/Media/Pasted image 20260620120057.png",
     "zManagment/Media/Pasted image 20260620120007.png",
@@ -244,7 +227,6 @@
     "zManagment/Media/Pasted image 20260620115306.png",
     "zManagment/Media/Pasted image 20260620115130.png",
     "MainCanvas/Website/Untitled.md",
-    "MainCanvas/Website/Website Technicalities.canvas",
     "MainCanvas/Website",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Untitled.md",
