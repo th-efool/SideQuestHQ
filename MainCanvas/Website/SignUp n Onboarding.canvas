@@ -58,7 +58,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":3460,"y":-2438,"width":1000,"height":626},
 		{"id":"680a95e74c79a60e","type":"file","file":"zManagment/Media/Pasted image 20260621144220.png","x":-3732,"y":-2427,"width":835,"height":519},
 		{"id":"4bdd82d352b10284","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-4739,"y":-2427,"width":916,"height":575},
 		{"id":"fa416e0690b61b05","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-3785,"y":-3052,"width":905,"height":564},
@@ -94,16 +93,96 @@
 		{"id":"4086d9f41b1ce1a0","type":"file","file":"zManagment/Media/Pasted image 20260621145558.png","x":3320,"y":1060,"width":176,"height":400},
 		{"id":"42d68b22c3f35e2b","type":"file","file":"zManagment/Media/Pasted image 20260621144431.png","x":4560,"y":-1640,"width":999,"height":622},
 		{"id":"28f1a61bac47830e","type":"file","file":"zManagment/Media/Pasted image 20260621143425.png","x":4560,"y":-2437,"width":999,"height":625},
-		{"id":"0247dddd9447a312","type":"file","file":"zManagment/Media/Pasted image 20260621173547.png","x":1680,"y":-2860,"width":440,"height":548},
 		{
 			"id":"89b88bf4f54971e1",
 			"type":"text",
-			"text":"",
+			"text":"# Form Width Is Intentionally Small\n\nNotice most forms are narrow.\n\nThis is not aesthetic.\n\nWide forms create:\n\n```\nlong eye travellarge visual footprinthigher perceived complexity\n```\n\nNarrow forms create:\n\n```\nquick scanningshorter eye movementsfaster completion\n```\n\nHuman brains estimate effort visually before reading.\n\nA narrow form literally feels easier.",
 			"styleAttributes":{},
 			"x":2860,
 			"y":-840,
-			"width":260,
-			"height":60
+			"width":660,
+			"height":560
+		},
+		{
+			"id":"aba4323ff9e61dd7",
+			"type":"text",
+			"text":"# The Invisible Question\n\nEvery signup page is answering:\n\n```\nWhy should I create an account?\n```\n\nbefore asking:\n\n```\nCreate an account\n```\n\nLook carefully.\n\nEvery example has value communication:\n\n- CRM talks about growth\n- Peerlist talks about professional network\n- PeopleGPT shows social proof\n- Resume shows outcomes\n\nBecause signup is fundamentally a sales problem.\n\nNot a UI problem.",
+			"styleAttributes":{},
+			"x":4380,
+			"y":-480,
+			"width":620,
+			"height":560
+		},
+		{
+			"id":"fa841de77acadaa5",
+			"type":"text",
+			"text":"# Pattern 1  Progressive Commitment\n\nNotice how the simplest page is:\n\n- logo\n- email field\n- continue\n\nNo password.  \nNo name.  \nNo phone.\n\nThis isn't laziness.\n\nThis is commitment architecture.\n\nThe brain evaluates:\n\n```\n1 field = easy7 fields = work\n```\n\nEven if both ultimately require the same information.\n\nDesigners call this:\n\n**Perceived Effort Reduction**\n\nThe user mentally says:\n\n> \"Sure, I can enter an email.\"\n\nOnly after commitment begins do you ask for more.\n\n---",
+			"styleAttributes":{},
+			"x":1520,
+			"y":-2480,
+			"width":320,
+			"height":780
+		},
+		{
+			"id":"e1c8eda1297ed98b",
+			"type":"text",
+			"text":"# Signup Pages Borrow Trust\n\nLook closely.\n\nPeopleGPT:\n\n- logos\n- testimonials\n- badges\n\nResume:\n\n- companies\n- statistics\n- founder quote\n\nPeerlist:\n\n- users already inside\n\nThe page is essentially saying:\n\n```\nDon't trust us.Trust everyone already using us.\n```\n\nThis is called:\n\n**Borrowed Trust**",
+			"styleAttributes":{},
+			"x":6080,
+			"y":-1280,
+			"width":560,
+			"height":720
+		},
+		{
+			"id":"af91739f1e999b6c",
+			"type":"text",
+			"text":"# Social Proof Is Positioned Near Decision Points\n\nNotice where proof appears.\n\nNot at the top.\n\nNot hidden.\n\nUsually:\n\n```\nnear buttonnear formnear CTA\n```\n\nReason:\n\nTrust decays.\n\nThe user needs reassurance exactly when uncertainty peaks.",
+			"styleAttributes":{},
+			"x":5360,
+			"y":-440,
+			"width":540,
+			"height":600
+		},
+		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":3459,"y":-2600,"width":1000,"height":626},
+		{
+			"id":"59c17243560f6852",
+			"type":"text",
+			"text":"#  Good Signup Pages Reduce Future Anxiety\n\nLook at wording.\n\nBad wording:\n\n```\nCreate account\n```\n\nGood wording:\n\n```\nStart free trialContinueJoin cohortExplore\n```\n\nThe subtle message:\n\n```\nYou aren't marrying us.You're trying us.\n```\n\nDesigners reduce future commitment fear.",
+			"styleAttributes":{},
+			"x":-4281,
+			"y":-1080,
+			"width":712,
+			"height":520
+		},
+		{
+			"id":"f9a8caffe0ada60d",
+			"type":"text",
+			"text":"# Most Pages Have One Visual Gravity Center\n\nYour eyes are pulled somewhere.\n\nUsually:\n\n```\nheadlineformillustration\n```\n\nNot all three equally.\n\nOne dominates.\n\nThe others support.\n\nGood pages have hierarchy.\n\nBad pages have competition.",
+			"styleAttributes":{},
+			"x":-3760,
+			"y":-520,
+			"width":432,
+			"height":560
+		},
+		{
+			"id":"db5894a3f112dac2",
+			"type":"text",
+			"text":"# White Space Is Doing Psychological Work\n\nHuge empty regions exist.\n\nNot because designers had nothing to add.\n\nBecause signup is a single-task screen.\n\nEvery extra element creates:\n\n```\ndecision branchesattention forkscognitive load\n```\n\nVeterans aggressively remove options.",
+			"styleAttributes":{},
+			"x":-2480,
+			"y":-880,
+			"width":530,
+			"height":500
+		},
+		{
+			"id":"c4edcc510d2a51d1",
+			"type":"text",
+			"text":"# ==Labels Above Fields Are Disappearing==\n\n==Many modern forms rely heavily on placeholders.==\n\nThis isn't always better UX.\n\nBut it reveals something:\n\nDesigners are trying to reduce visual density.\n\nThey're trading explicitness for simplicity.\n\nVeterans know:\n\n```\nLow frictionvsHigh clarity\n```\n\nis a constant tradeoff.",
+			"styleAttributes":{},
+			"x":-2760,
+			"y":-380,
+			"width":520,
+			"height":680
 		}
 	],
 	"edges":[
@@ -351,13 +430,130 @@
 			"toSide":"left"
 		},
 		{
-			"id":"bd1c62a30f308c50",
+			"id":"c0932bdea5d5763d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b0f9528d586c83e2",
+			"fromSide":"bottom",
+			"toNode":"89b88bf4f54971e1",
+			"toSide":"top"
+		},
+		{
+			"id":"2a3f7b2331aee1bd",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7621ef40055a8b18",
+			"fromSide":"bottom",
+			"toNode":"89b88bf4f54971e1",
+			"toSide":"top"
+		},
+		{
+			"id":"289e5747aa34a7ef",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b7667c0df10e3c87",
+			"fromSide":"bottom",
+			"toNode":"89b88bf4f54971e1",
+			"toSide":"top"
+		},
+		{
+			"id":"8127ca274b2b8f9c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b7667c0df10e3c87",
+			"fromSide":"bottom",
+			"toNode":"aba4323ff9e61dd7",
+			"toSide":"top"
+		},
+		{
+			"id":"7159e26862fac44f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"42d68b22c3f35e2b",
+			"fromSide":"bottom",
+			"toNode":"aba4323ff9e61dd7",
+			"toSide":"top"
+		},
+		{
+			"id":"f73cc23119121854",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"0117b6495998caee",
 			"fromSide":"top",
-			"toNode":"0247dddd9447a312",
+			"toNode":"fa841de77acadaa5",
 			"toSide":"right"
+		},
+		{
+			"id":"dbd4f5fa87ab1046",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"42d68b22c3f35e2b",
+			"fromSide":"right",
+			"toNode":"e1c8eda1297ed98b",
+			"toSide":"left"
+		},
+		{
+			"id":"1f087c5af7fe3e99",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7621ef40055a8b18",
+			"fromSide":"bottom",
+			"toNode":"af91739f1e999b6c",
+			"toSide":"top"
+		},
+		{
+			"id":"4527103bdd3846be",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b7667c0df10e3c87",
+			"fromSide":"bottom",
+			"toNode":"af91739f1e999b6c",
+			"toSide":"top"
+		},
+		{
+			"id":"1368684d84315edf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"42d68b22c3f35e2b",
+			"fromSide":"bottom",
+			"toNode":"af91739f1e999b6c",
+			"toSide":"top"
+		},
+		{
+			"id":"f57141ae7e363690",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"59c17243560f6852",
+			"toSide":"right"
+		},
+		{
+			"id":"c73ba2c20b063738",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"db5894a3f112dac2",
+			"toSide":"top"
+		},
+		{
+			"id":"11690f1beb063f63",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"f9a8caffe0ada60d",
+			"toSide":"top"
+		},
+		{
+			"id":"75423c45de587d7d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"c4edcc510d2a51d1",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
