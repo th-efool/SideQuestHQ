@@ -64,7 +64,6 @@
 		{"id":"a4c3eecff8d7d3a2","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":2519,"y":-3624,"width":1000,"height":623},
 		{"id":"7be272a1be12e350","type":"file","file":"zManagment/Media/Pasted image 20260621143748.png","x":-3792,"y":-3780,"width":860,"height":535},
 		{"id":"0117b6495998caee","type":"file","file":"zManagment/Media/Linear Web 3.png","x":2380,"y":-2438,"width":1000,"height":623},
-		{"id":"81d0a6dd3c63512f","type":"file","file":"zManagment/Media/Pasted image 20260620115306.png","x":-1592,"y":-740,"width":892,"height":544},
 		{
 			"id":"f79e09e0077a9331",
 			"type":"text",
@@ -143,7 +142,6 @@
 			"width":540,
 			"height":600
 		},
-		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":3459,"y":-2600,"width":1000,"height":626},
 		{
 			"id":"59c17243560f6852",
 			"type":"text",
@@ -153,16 +151,6 @@
 			"y":-1280,
 			"width":712,
 			"height":520
-		},
-		{
-			"id":"f9a8caffe0ada60d",
-			"type":"text",
-			"text":"# Most Pages Have One Visual Gravity Center\n\nYour eyes are pulled somewhere.\n\nUsually:\n\n```\nheadlineformillustration\n```\n\nNot all three equally.\n\nOne dominates.\n\nThe others support.\n\nGood pages have hierarchy.\n\nBad pages have competition.",
-			"styleAttributes":{},
-			"x":-4293,
-			"y":-590,
-			"width":432,
-			"height":560
 		},
 		{
 			"id":"56897bddd0185c3f",
@@ -233,6 +221,58 @@
 			"y":-4760,
 			"width":549,
 			"height":480
+		},
+		{
+			"id":"1fa8a9ecc2a48204",
+			"type":"text",
+			"text":"#  ==Selling reduced complexity== \n\"All in one\" approach\n\nEnterprise Signup Has Different Anxiety\n\nConsumer signup anxiety:\n\n```\nWill this be useful?\n```\n\nEnterprise signup anxiety:\n\n```\nWill this create work?\n```\n\nThat's why these pages emphasize:\n\n```\nsimpl\neeasy\nglobal\nfast\nall-in-one\n```\n\nThey're selling reduced complexity.\n\nNot excitement.",
+			"styleAttributes":{},
+			"x":-4440,
+			"y":260,
+			"width":460,
+			"height":600
+		},
+		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":3459,"y":-2488,"width":1000,"height":626},
+		{
+			"id":"f9a8caffe0ada60d",
+			"type":"text",
+			"text":"# Most Pages Have One Visual Gravity Center\n\nYour eyes are pulled somewhere.\n\nUsually:\n\n```\nheadlineformillustration\n```\n\nNot all three equally.\n\nOne dominates.\n\nThe others support.\n\nGood pages have hierarchy.\n\nBad pages have competition.",
+			"styleAttributes":{},
+			"x":-3530,
+			"y":-4760,
+			"width":432,
+			"height":560
+		},
+		{
+			"id":"9c2ba4ab5cc0e83f",
+			"type":"text",
+			"text":"# Form Density Signals Company Type\n\nCompare:\n\n### Arcade\n\nTiny form\n\n```\nEmail\nContinue\n```\n\nFeels:\n\n```\nmodern\nstartup\nlow friction\nconsumer-ish\n```\n\n---\n\n### Deel\n\nMassive form\n\n```\nFirst name\nLast name\nCompanyRole\n```\n\nFeels:\n\n```\nserious\nenterprise\nB2B\nhigh-value\n```\n\nInteresting paradox:\n\nSometimes MORE fields increase trust.\n\nBecause the user expects seriousness.",
+			"styleAttributes":{},
+			"x":5960,
+			"y":-2840,
+			"width":660,
+			"height":1198
+		},
+		{"id":"81d0a6dd3c63512f","type":"file","file":"zManagment/Media/Pasted image 20260620115306.png","x":-1429,"y":-416,"width":892,"height":544},
+		{
+			"id":"27505d17a56f8b42",
+			"type":"text",
+			"text":"# Visual Weight Distribution\n\nNotice something most people never consciously notice.\n\nThe marketing side is visually heavier.\n\nThe form side is visually lighter.\n\nExample:\n\n```\nDark panelIllustrationsLarge graphics→Simple white form\n```\n\nWhy?\n\nBecause attention should first land on:\n\n```\nvalue\n```\n\nand only then on:\n\n```\neffort\n```\n\nThe sequence matters.",
+			"styleAttributes":{},
+			"x":-1680,
+			"y":-1158,
+			"width":560,
+			"height":620
+		},
+		{
+			"id":"dbcad78aa53aa8fd",
+			"type":"text",
+			"text":"# The Marketing Side Is Not Selling Features\n\nLook closely.\n\nAlmost none of the panels are feature-heavy.\n\nThey're outcome-heavy.\n\nNot:\n\n```\nPayroll\nCompliance\nContracts\n```\n\nBut:\n\n```\nHire internationally\n```\n\n---\n\nNot:\n\n```\nTeam management dashboard\n```\n\nBut:\n\n```\nManage global teams\n```\n\nThe signup screen sells transformation.\n\nNot capability.",
+			"styleAttributes":{},
+			"x":-5560,
+			"y":260,
+			"width":540,
+			"height":880
 		}
 	],
 	"edges":[
@@ -579,15 +619,6 @@
 			"toSide":"right"
 		},
 		{
-			"id":"11690f1beb063f63",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a2769915cb2fd582",
-			"fromSide":"bottom",
-			"toNode":"f9a8caffe0ada60d",
-			"toSide":"top"
-		},
-		{
 			"id":"75423c45de587d7d",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -658,6 +689,51 @@
 			"fromSide":"top",
 			"toNode":"50bab79fa0cdc2ee",
 			"toSide":"bottom"
+		},
+		{
+			"id":"c4bec431abab60ef",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"1fa8a9ecc2a48204",
+			"toSide":"top"
+		},
+		{
+			"id":"ee12f910ce3aaa3a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"57d39e5248bd6711",
+			"fromSide":"top",
+			"toNode":"f9a8caffe0ada60d",
+			"toSide":"bottom"
+		},
+		{
+			"id":"41ecd2d7e08ada60",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"28f1a61bac47830e",
+			"fromSide":"right",
+			"toNode":"9c2ba4ab5cc0e83f",
+			"toSide":"left"
+		},
+		{
+			"id":"d9b70fe5e578bcd4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ef387ca60c998182",
+			"fromSide":"bottom",
+			"toNode":"27505d17a56f8b42",
+			"toSide":"top"
+		},
+		{
+			"id":"6c5e4e9852e8e759",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"left",
+			"toNode":"dbcad78aa53aa8fd",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
