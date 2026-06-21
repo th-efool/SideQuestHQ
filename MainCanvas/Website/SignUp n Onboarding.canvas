@@ -273,6 +273,56 @@
 			"y":260,
 			"width":540,
 			"height":880
+		},
+		{
+			"id":"c454611c3e604983",
+			"type":"text",
+			"text":"## These Animations Are Not Explaining\n\nThey're Signaling.\n\nBig distinction.\n\nA founder thinks:\n\n> I need users to understand everything.\n\nVeteran designer thinks:\n\n> I need users to believe something valuable exists behind this door.\n\nThe animation isn't teaching.\n\nIt's creating confidence.",
+			"styleAttributes":{},
+			"x":-2000,
+			"y":-5020,
+			"width":440,
+			"height":560
+		},
+		{
+			"id":"77bd5c0b0275faec",
+			"type":"text",
+			"text":"## Motion Creates Momentum Before Signup\n\nPeople underestimate this.\n\nA static page feels:\n\n```\nstopped\n```\n\nA moving page feels:\n\n```\nalready in progress\n```\n\nHumans naturally want to join moving things.\n\nThis is why:\n\n```\ncrowds attract crowdsbusy restaurants attract peopleactive communities attract members\n```\n\nMotion creates the feeling:\n\n```\nsomething is happening here\n```",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-5020,
+			"width":260,
+			"height":780
+		},
+		{
+			"id":"5f8c05b87ba59937",
+			"type":"text",
+			"text":"## The User Has No Mental Model Yet\n\nThis is especially important for SideQuestHQ.\n\nFor known products:\n\n```\nSlackDiscordLinkedIn\n```\n\npeople already know what happens after signup.\n\nFor new categories:\n\n```\nMobbinSideQuestHQNovel SaaS\n```\n\nthey don't.\n\nThe biggest anxiety becomes:\n\n> What happens after I create this account?\n\nAnimation answers that before the question fully forms.",
+			"styleAttributes":{},
+			"x":-686,
+			"y":-5180,
+			"width":380,
+			"height":740
+		},
+		{
+			"id":"fbf4ab9de7235c47",
+			"type":"text",
+			"text":"## Motion Creates Perceived Product Depth\n\nThis is subtle.\n\nSuppose two products are identical.\n\nProduct A:\n\n```\nstatic screenshot\n```\n\nProduct B:\n\n```\nmoving ecosystem preview\n```\n\nPeople consistently perceive Product B as:\n\n```\nlargermore sophisticatedmore valuable\n```\n\nEven when functionality is identical.\n\nWhy?\n\nBecause movement implies systems.\n\nStatic implies pages.\n\nMotion implies an engine.",
+			"styleAttributes":{},
+			"x":-1520,
+			"y":-5020,
+			"width":520,
+			"height":667
+		},
+		{
+			"id":"88e133fe4aa27013",
+			"type":"text",
+			"text":"## The Dating App Example Uses a Different Strategy\n\nNotice it doesn't show features.\n\nIt shows:\n\n```\npeople\nprofiles\nactivity\nmatches\n```\n\nWhy?\n\nBecause dating products aren't selling software.\n\nThey're selling outcomes.\n\nThe outcome is:\n\n```\nmeeting someone\n```\n\nnot\n\n```\nusing the app\n```",
+			"styleAttributes":{},
+			"x":-3760,
+			"y":-1275,
+			"width":414,
+			"height":737
 		}
 	],
 	"edges":[
@@ -734,6 +784,70 @@
 			"fromSide":"left",
 			"toNode":"dbcad78aa53aa8fd",
 			"toSide":"right"
+		},
+		{
+			"id":"38a549c1dc4bfaf7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b5af69a659a05f0",
+			"fromSide":"top",
+			"toNode":"fbf4ab9de7235c47",
+			"toSide":"bottom"
+		},
+		{
+			"id":"8cada39d64de3d33",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b5af69a659a05f0",
+			"fromSide":"top",
+			"toNode":"c454611c3e604983",
+			"toSide":"bottom"
+		},
+		{
+			"id":"fb067a839d37a615",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b5af69a659a05f0",
+			"fromSide":"top",
+			"toNode":"5f8c05b87ba59937",
+			"toSide":"bottom"
+		},
+		{
+			"id":"7f45b22a8b33dbd6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7b5af69a659a05f0",
+			"fromSide":"top",
+			"toNode":"77bd5c0b0275faec",
+			"toSide":"bottom"
+		},
+		{
+			"id":"80744c223cc2595d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a45ea6a0b36d8424",
+			"fromSide":"top",
+			"toNode":"5f8c05b87ba59937",
+			"toSide":"bottom"
+		},
+		{
+			"id":"47a0c7d38755ee51",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a45ea6a0b36d8424",
+			"fromSide":"top",
+			"toNode":"88e133fe4aa27013",
+			"toSide":"top"
+		},
+		{
+			"id":"a758e381aff06f75",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"88e133fe4aa27013",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
