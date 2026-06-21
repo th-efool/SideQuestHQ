@@ -28,12 +28,14 @@
             "id": "79f35eb524e4b24e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_AI CONTEXT/Kip_Character_Sheet_With_Metadata.png"
+                "file": "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Kip_Character_Sheet_With_Metadata"
+              "icon": "lucide-file",
+              "title": "VISUAL ACCURATE DESCRIPTIONS"
             }
           }
         ],
@@ -224,6 +226,8 @@
   },
   "active": "79f35eb524e4b24e",
   "lastOpenFiles": [
+    "_AI CONTEXT/Kip_Character_Sheet_With_Metadata.png",
+    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Pando_With_Metadata.png",
     "LOGO Accurate Description.md",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
@@ -238,7 +242,6 @@
     "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260621145558.png",
     "zManagment/Media/Pasted image 20260621145547.png",
-    "zManagment/Media/Pasted image 20260621145410.png",
     "MainCanvas/App/Onboarding Canvas.canvas",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
@@ -277,7 +280,6 @@
     "Merch Designs",
     "Marketing/Marketing Engine B.md",
     "Marketing/Marketing Engine A.md",
-    "Marketing/Instagram Influencers.md",
     "Marketing",
     "MainCanvas"
   ]
