@@ -11,12 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "zManagment/Media/Mobbin Web 2 (1).png"
+                "file": "MainCanvas/Website/Website.canvas",
+                "viewState": {
+                  "x": 3420,
+                  "y": -2616.0251572327047,
+                  "zoom": -3.48044939990638
+                }
               },
-              "icon": "lucide-image",
-              "title": "Mobbin Web 2 (1)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Website"
             }
           }
         ]
@@ -206,15 +211,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MainCanvas/Website/Website.canvas",
+    "MainCanvas/Use SideQuestHQ yourself.canvas",
+    "MainCanvas/Website/Website Technicalities.canvas",
     "zManagment/Media/Mobbin Web 2 (1).png",
+    "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260621124526.png",
     "zManagment/Media/Pasted image 20260621124519.png",
     "zManagment/Media/Pasted image 20260621124417.png",
     "zManagment/Media/Pasted image 20260621124307.png",
     "zManagment/Media/Pasted image 20260621123734.png",
     "zManagment/Media/Pasted image 20260621121906.png",
-    "MainCanvas/Website/Website Technicalities.canvas",
     "zManagment/Media/Pasted image 20260621123500.png",
     "MainCanvas/MainCanvas.md",
     "zManagment/Media/Pasted image 20260621123411.png",
@@ -227,7 +233,6 @@
     "Untitled.md",
     "MainCanvas/Website/Untitled.md",
     "MainCanvas/Website",
-    "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Untitled.md",
     "MainCanvas/App",
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",

@@ -9,6 +9,11 @@
 		{"id":"2a3dbd6998dee4f3","type":"file","file":"zManagment/Media/Matter Web 2.png","x":1714,"y":-3100,"width":793,"height":495},
 		{"id":"183ba90ac206a083","type":"file","file":"zManagment/Media/Pasted image 20260621123500.png","x":2840,"y":-3148,"width":785,"height":491},
 		{"id":"d1357cb92e9d2293","type":"file","file":"zManagment/Media/Claude Web 2.png","x":1714,"y":-2523,"width":820,"height":512,"color":"3"},
+		{"id":"6d03715fd186915e","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-1254,"y":-3575,"width":942,"height":589},
+		{"id":"84430c740089f674","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-770,"y":-2865,"width":916,"height":575},
+		{"id":"64f7faef03f05c37","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-265,"y":-3532,"width":905,"height":564},
+		{"id":"b62a337ef72c4f2f","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":2840,"y":-3760,"width":786,"height":490},
+		{"id":"0bfcf6459e18b056","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":1714,"y":-3795,"width":889,"height":555},
 		{"id":"0436af704f73d4db","type":"file","file":"zManagment/Media/ElevenLabs Web 3.png","x":2840,"y":-2501,"width":786,"height":490},
 		{
 			"id":"037d298a50c55fd5",
@@ -31,11 +36,23 @@
 			"width":260,
 			"height":60
 		},
+		{"id":"4aeccd80d5d64970","type":"file","file":"zManagment/Media/Pasted image 20260621121906.png","x":3960,"y":-5360,"width":828,"height":516},
+		{"id":"f62b812dd973a36d","type":"file","file":"zManagment/Media/Pasted image 20260621123734.png","x":4940,"y":-5350,"width":820,"height":513},
+		{
+			"id":"6649a815a156c007",
+			"type":"text",
+			"text":"# ONBOARDING  SCREEN FLOWS",
+			"styleAttributes":{},
+			"x":359,
+			"y":1340,
+			"width":507,
+			"height":95
+		},
+		{"id":"053f7794ad642bcf","type":"file","file":"zManagment/Media/Pasted image 20260621124307.png","x":5820,"y":-5350,"width":720,"height":450},
+		{"id":"2912b945111abec8","type":"file","file":"zManagment/Media/Mobbin Web 2 (1).png","x":3800,"y":-3799,"width":900,"height":619},
 		{"id":"3a7c0684544ab792","type":"file","file":"zManagment/Media/Pasted image 20260620120007.png","x":121,"y":1780,"width":982,"height":560},
 		{"id":"748411897225798c","type":"file","file":"zManagment/Media/Pasted image 20260620120057.png","x":51,"y":2540,"width":1122,"height":620},
 		{"id":"54c2d5279c4d9168","type":"file","file":"zManagment/Media/Pasted image 20260620120136.png","x":-21,"y":3420,"width":1266,"height":720},
-		{"id":"4aeccd80d5d64970","type":"file","file":"zManagment/Media/Pasted image 20260621121906.png","x":3960,"y":-5360,"width":828,"height":516},
-		{"id":"f62b812dd973a36d","type":"file","file":"zManagment/Media/Pasted image 20260621123734.png","x":4940,"y":-5350,"width":820,"height":513},
 		{
 			"id":"734a147a1660cfea",
 			"type":"text",
@@ -56,29 +73,12 @@
 			"width":260,
 			"height":60
 		},
-		{
-			"id":"6649a815a156c007",
-			"type":"text",
-			"text":"# ONBOARDING  SCREEN FLOWS",
-			"styleAttributes":{},
-			"x":359,
-			"y":1340,
-			"width":507,
-			"height":95
-		},
-		{"id":"b5578c498550cb7b","type":"file","file":"zManagment/Media/Pasted image 20260621123411.png","x":7140,"y":-4188,"width":960,"height":600},
-		{"id":"47eb737615077f29","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":6059,"y":-4164,"width":1000,"height":623},
-		{"id":"6d03715fd186915e","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-1254,"y":-3575,"width":942,"height":589},
-		{"id":"84430c740089f674","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-770,"y":-2865,"width":916,"height":575},
-		{"id":"64f7faef03f05c37","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-265,"y":-3532,"width":905,"height":564},
 		{"id":"d3ceaf8b92bf98a5","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":2320,"y":320,"width":1481,"height":753},
 		{"id":"b0f105387d223196","type":"file","file":"zManagment/Media/Pasted image 20260621123122.png","x":5920,"y":-2182,"width":999,"height":624},
-		{"id":"e2699285add41ee5","type":"file","file":"zManagment/Media/Linear Web 3.png","x":5920,"y":-2978,"width":1000,"height":688},
-		{"id":"053f7794ad642bcf","type":"file","file":"zManagment/Media/Pasted image 20260621124307.png","x":5820,"y":-5350,"width":720,"height":495},
-		{"id":"5b8046b8d4fdff1c","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":7000,"y":-2978,"width":1000,"height":688},
-		{"id":"b62a337ef72c4f2f","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":2840,"y":-3760,"width":786,"height":540},
-		{"id":"0bfcf6459e18b056","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":1714,"y":-3795,"width":889,"height":611},
-		{"id":"2912b945111abec8","type":"file","file":"zManagment/Media/Mobbin Web 2 (1).png","x":3800,"y":-3799,"width":900,"height":619}
+		{"id":"b5578c498550cb7b","type":"file","file":"zManagment/Media/Pasted image 20260621123411.png","x":7140,"y":-4188,"width":960,"height":600},
+		{"id":"47eb737615077f29","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":6059,"y":-4164,"width":1000,"height":623},
+		{"id":"e2699285add41ee5","type":"file","file":"zManagment/Media/Linear Web 3.png","x":5920,"y":-2978,"width":1000,"height":623},
+		{"id":"5b8046b8d4fdff1c","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":7000,"y":-2978,"width":1000,"height":626}
 	],
 	"edges":[
 		{
