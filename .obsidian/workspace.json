@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MainCanvas/Website/Dashboard.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/Website/SignUp n Onboarding.canvas",
+                "viewState": {
+                  "x": -1023.8106752939716,
+                  "y": -2917.7291238731905,
+                  "zoom": -0.48044939990637986
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dashboard"
+              "icon": "lucide-layout-dashboard",
+              "title": "SignUp n Onboarding"
             }
           }
         ]
@@ -208,20 +211,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Dashboard.md",
     "zManagment/Media/Pasted image 20260621152359.png",
     "zManagment/Media/Pasted image 20260621152348.png",
     "zManagment/Media/Pasted image 20260621152137.png",
     "zManagment/Media/Pasted image 20260621152103.png",
     "zManagment/Media/Pasted image 20260621152038.png",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
-    "MainCanvas/Website/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260621145558.png",
     "zManagment/Media/Pasted image 20260621145547.png",
     "zManagment/Media/Pasted image 20260621145410.png",
     "zManagment/Media/Pasted image 20260621144431.png",
     "zManagment/Media/Pasted image 20260621144309.png",
-    "zManagment/Media/Pasted image 20260621143915.png",
     "MainCanvas/App/Onboarding Canvas.canvas",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
