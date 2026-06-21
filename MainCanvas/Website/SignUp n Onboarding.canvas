@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"80ea04026cc6a2a5","type":"group","x":3520,"y":-240,"width":2720,"height":2540,"label":"Onboarding Screens"},
 		{"id":"57d39e5248bd6711","type":"group","x":-5860,"y":-3900,"width":2994,"height":2105,"label":"Type 4"},
 		{"id":"52fe9a9fdb0d8a42","type":"group","x":1480,"y":-2731,"width":3600,"height":1680,"label":"Type5 - Misc"},
 		{"id":"ef387ca60c998182","type":"group","x":-1900,"y":-4020,"width":2120,"height":2577,"color":"2"},
@@ -276,90 +275,56 @@
 			"width":320,
 			"height":780
 		},
+		{"id":"fc62416f002ce760","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":1100,"y":-76,"width":1481,"height":753},
 		{
-			"id":"89b88bf4f54971e1",
+			"id":"e1c8eda1297ed98b",
 			"type":"text",
-			"text":"# Form Width Is Intentionally Small\n\nNotice most forms are narrow.\n\nThis is not aesthetic.\n\nWide forms create:\n\n```\nlong eye travellarge visual footprinthigher perceived complexity\n```\n\nNarrow forms create:\n\n```\nquick scanningshorter eye movementsfaster completion\n```\n\nHuman brains estimate effort visually before reading.\n\nA narrow form literally feels easier.",
+			"text":"# Signup Pages Borrow Trust\n\nLook closely.\n\nPeopleGPT:\n\n- logos\n- testimonials\n- badges\n\nResume:\n\n- companies\n- statistics\n- founder quote\n\nPeerlist:\n\n- users already inside\n\nThe page is essentially saying:\n\n```\nDon't trust us.Trust everyone already using us.\n```\n\nThis is called:\n\n**Borrowed Trust**",
 			"styleAttributes":{},
-			"x":2080,
-			"y":-991,
+			"x":5125,
+			"y":-1891,
+			"width":560,
+			"height":720
+		},
+		{
+			"id":"9c2ba4ab5cc0e83f",
+			"type":"text",
+			"text":"# Form Density Signals Company Type\n\nCompare:\n\n### Arcade\n\nTiny form\n\n```\nEmail\nContinue\n```\n\nFeels:\n\n```\nmodern\nstartup\nlow friction\nconsumer-ish\n```\n\n---\n\n### Deel\n\nMassive form\n\n```\nFirst name\nLast name\nCompanyRole\n```\n\nFeels:\n\n```\nserious\nenterprise\nB2B\nhigh-value\n```\n\nInteresting paradox:\n\nSometimes MORE fields increase trust.\n\nBecause the user expects seriousness.",
+			"styleAttributes":{},
+			"x":5005,
+			"y":-3451,
 			"width":660,
-			"height":560
+			"height":1198
 		},
 		{
 			"id":"aba4323ff9e61dd7",
 			"type":"text",
 			"text":"# The Invisible Question\n\nEvery signup page is answering:\n\n```\nWhy should I create an account?\n```\n\nbefore asking:\n\n```\nCreate an account\n```\n\nLook carefully.\n\nEvery example has value communication:\n\n- CRM talks about growth\n- Peerlist talks about professional network\n- PeopleGPT shows social proof\n- Resume shows outcomes\n\nBecause signup is fundamentally a sales problem.\n\nNot a UI problem.",
 			"styleAttributes":{},
-			"x":3490,
-			"y":-1020,
+			"x":3429,
+			"y":-860,
 			"width":620,
 			"height":560
 		},
-		{"id":"fc62416f002ce760","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":1100,"y":-76,"width":1481,"height":753},
 		{
-			"id":"9c2ba4ab5cc0e83f",
+			"id":"89b88bf4f54971e1",
 			"type":"text",
-			"text":"# Form Density Signals Company Type\n\nCompare:\n\n### Arcade\n\nTiny form\n\n```\nEmail\nContinue\n```\n\nFeels:\n\n```\nmodern\nstartup\nlow friction\nconsumer-ish\n```\n\n---\n\n### Deel\n\nMassive form\n\n```\nFirst name\nLast name\nCompanyRole\n```\n\nFeels:\n\n```\nserious\nenterprise\nB2B\nhigh-value\n```\n\nInteresting paradox:\n\nSometimes MORE fields increase trust.\n\nBecause the user expects seriousness.",
+			"text":"# Form Width Is Intentionally Small\n\nNotice most forms are narrow.\n\nThis is not aesthetic.\n\nWide forms create:\n\n```\nlong eye travellarge visual footprinthigher perceived complexity\n```\n\nNarrow forms create:\n\n```\nquick scanningshorter eye movementsfaster completion\n```\n\nHuman brains estimate effort visually before reading.\n\nA narrow form literally feels easier.",
 			"styleAttributes":{},
-			"x":5191,
-			"y":-4506,
+			"x":2019,
+			"y":-831,
 			"width":660,
-			"height":1198
-		},
-		{
-			"id":"e1c8eda1297ed98b",
-			"type":"text",
-			"text":"# Signup Pages Borrow Trust\n\nLook closely.\n\nPeopleGPT:\n\n- logos\n- testimonials\n- badges\n\nResume:\n\n- companies\n- statistics\n- founder quote\n\nPeerlist:\n\n- users already inside\n\nThe page is essentially saying:\n\n```\nDon't trust us.Trust everyone already using us.\n```\n\nThis is called:\n\n**Borrowed Trust**",
-			"styleAttributes":{},
-			"x":5311,
-			"y":-2946,
-			"width":560,
-			"height":720
+			"height":560
 		},
 		{
 			"id":"af91739f1e999b6c",
 			"type":"text",
 			"text":"# Social Proof Is Positioned Near Decision Points\n\nNotice where proof appears.\n\nNot at the top.\n\nNot hidden.\n\nUsually:\n\n```\nnear buttonnear formnear CTA\n```\n\nReason:\n\nTrust decays.\n\nThe user needs reassurance exactly when uncertainty peaks.",
 			"styleAttributes":{},
-			"x":4465,
-			"y":-960,
+			"x":4404,
+			"y":-800,
 			"width":540,
 			"height":600
-		},
-		{"id":"f6031d2164c23cc9","type":"file","file":"zManagment/Media/Pasted image 20260620120007.png","x":3520,"y":-160,"width":982,"height":560},
-		{"id":"291bc9f3db39837c","type":"file","file":"zManagment/Media/Pasted image 20260621133411.png","x":5160,"y":-160,"width":722,"height":360},
-		{"id":"87feb3ae46f12654","type":"file","file":"zManagment/Media/Pasted image 20260620120057.png","x":3811,"y":540,"width":1122,"height":620},
-		{"id":"ff87ac998df0d86b","type":"file","file":"zManagment/Media/Pasted image 20260620120136.png","x":3739,"y":1420,"width":1266,"height":720},
-		{
-			"id":"3251cd68d5d9b109",
-			"type":"text",
-			"text":"# COOL COOL WAY TO COLLECT USERS CHOICE & PREFERENCES LOOKS  SLEEK & KINDA INTERESTING ",
-			"styleAttributes":{},
-			"x":5440,
-			"y":1560,
-			"width":720,
-			"height":220
-		},
-		{
-			"id":"6527f85b9fa7ef27",
-			"type":"text",
-			"text":"# Buttons Cool Click Transition",
-			"styleAttributes":{},
-			"x":5580,
-			"y":1980,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"526160567696a0bb",
-			"type":"text",
-			"text":"# ONBOARDING  SCREEN FLOWS",
-			"styleAttributes":{},
-			"x":2721,
-			"y":-144,
-			"width":507,
-			"height":95
 		}
 	],
 	"edges":[
@@ -389,15 +354,6 @@
 			"fromSide":"bottom",
 			"toNode":"b8160c9fbd5b6a58",
 			"toSide":"bottom"
-		},
-		{
-			"id":"58b49f310e93eb1f",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a2769915cb2fd582",
-			"fromSide":"bottom",
-			"toNode":"526160567696a0bb",
-			"toSide":"top"
 		},
 		{
 			"id":"da0ccc735fc21360",
@@ -436,54 +392,6 @@
 			"fromNode":"f79e09e0077a9331",
 			"fromSide":"right",
 			"toNode":"81d0a6dd3c63512f",
-			"toSide":"left"
-		},
-		{
-			"id":"46263b64286d4211",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"f6031d2164c23cc9",
-			"fromSide":"bottom",
-			"toNode":"87feb3ae46f12654",
-			"toSide":"top"
-		},
-		{
-			"id":"cc4afc6f921081d0",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"fc62416f002ce760",
-			"fromSide":"bottom",
-			"toNode":"f6031d2164c23cc9",
-			"toSide":"top",
-			"label":"Transition Effects\n- Wheel Rotates like a pistol's reload typa!\n- The images on the right get squished before getting respewed into the next set of images (w/o page change)\n\n\n"
-		},
-		{
-			"id":"54e012ed2468c8ea",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"87feb3ae46f12654",
-			"fromSide":"bottom",
-			"toNode":"ff87ac998df0d86b",
-			"toSide":"top"
-		},
-		{
-			"id":"0a73f40f059dcfe5",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"ff87ac998df0d86b",
-			"fromSide":"right",
-			"toNode":"3251cd68d5d9b109",
-			"toSide":"left"
-		},
-		{
-			"id":"b6e1ebc5e4232ea2",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"ff87ac998df0d86b",
-			"fromSide":"right",
-			"toNode":"6527f85b9fa7ef27",
 			"toSide":"left"
 		},
 		{
@@ -920,15 +828,6 @@
 			"fromNode":"a2769915cb2fd582",
 			"fromSide":"bottom",
 			"toNode":"2f00469f6c3efde7",
-			"toSide":"top"
-		},
-		{
-			"id":"bdcb5fdf18512183",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"526160567696a0bb",
-			"fromSide":"bottom",
-			"toNode":"f6031d2164c23cc9",
 			"toSide":"top"
 		}
 	],
