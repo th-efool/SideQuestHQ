@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "MainCanvas/Website/Website.canvas",
-                "viewState": {
-                  "x": 4763.7365744391045,
-                  "y": -3154.0921882027965,
-                  "zoom": -1
-                }
+                "file": "zManagment/Media/Pasted image 20260621123734.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Website"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260621123734"
             }
           }
         ]
@@ -211,6 +206,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Website.canvas",
+    "zManagment/Media/Pasted image 20260621121906.png",
+    "MainCanvas/Website/Website Technicalities.canvas",
+    "zManagment/Media/Pasted image 20260621123500.png",
+    "MainCanvas/MainCanvas.md",
+    "zManagment/Media/Pasted image 20260621123734.png",
     "zManagment/Media/Pasted image 20260621123411.png",
     "zManagment/Media/ElevenLabs Web 3.png",
     "zManagment/Media/Pasted image 20260621123317.png",
@@ -218,12 +219,6 @@
     "zManagment/Media/Cosmos Web 8.png",
     "zManagment/Media/Runway Web 2.png",
     "zManagment/Media/Pasted image 20260621122859.png",
-    "zManagment/Media/Linear Web 3.png",
-    "zManagment/Media/Matter Web 2.png",
-    "zManagment/Media/Mindtrip Web 307.png",
-    "zManagment/Media/Claude Web 2.png",
-    "MainCanvas/Website/Website Technicalities.canvas",
-    "MainCanvas/Website/Website.canvas",
     "MainCanvas/App/Onboarding Canvas.canvas",
     "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/App Design.canvas",
@@ -250,7 +245,6 @@
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "publish/attachments",
     "publish",
-    "MainCanvas/MainCanvas.md",
     "MainCanvas/Marketing.canvas",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
