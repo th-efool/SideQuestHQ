@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/Website/Website.canvas",
+                "file": "MainCanvas/Website/SignUp.canvas",
                 "viewState": {
-                  "x": 6670.469953630431,
-                  "y": 649.9181216652999,
-                  "zoom": -0.333333333333333
+                  "x": 0,
+                  "y": 0,
+                  "zoom": -3.48044939990638
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Website"
+              "title": "SignUp"
             }
           }
         ]
@@ -211,11 +211,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Website.canvas",
+    "MainCanvas/Website/SignUp.canvas",
     "zManagment/Media/Pasted image 20260621145558.png",
     "zManagment/Media/Pasted image 20260621145547.png",
     "zManagment/Media/Pasted image 20260621145410.png",
     "zManagment/Media/Pasted image 20260621144431.png",
-    "MainCanvas/Website/Website.canvas",
     "zManagment/Media/Pasted image 20260621144309.png",
     "zManagment/Media/Pasted image 20260621143915.png",
     "zManagment/Media/Pasted image 20260621144220.png",
@@ -223,7 +224,6 @@
     "zManagment/Media/Pasted image 20260621144101.png",
     "zManagment/Media/Pasted image 20260621144009.png",
     "MainCanvas/App/Onboarding Canvas.canvas",
-    "zManagment/Media/Pasted image 20260621143748.png",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Website/Website Technicalities.canvas",

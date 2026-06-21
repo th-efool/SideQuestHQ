@@ -1,0 +1,347 @@
+{
+	"nodes":[
+		{"id":"80ea04026cc6a2a5","type":"group","x":-3780,"y":2300,"width":2720,"height":2540,"label":"Onboarding Screens"},
+		{"id":"57d39e5248bd6711","type":"group","x":-5860,"y":-3900,"width":2994,"height":2105,"label":"Type 4"},
+		{"id":"52fe9a9fdb0d8a42","type":"group","x":2260,"y":-2580,"width":3600,"height":1680,"label":"Type5 - Misc"},
+		{"id":"ef387ca60c998182","type":"group","x":-1900,"y":-4020,"width":2120,"height":2577,"color":"2"},
+		{"id":"5c2d3dc64428563d","type":"group","x":400,"y":-4840,"width":2640,"height":563,"label":"Type 2"},
+		{"id":"4d0146571efefd47","type":"group","x":2500,"y":-3660,"width":2080,"height":700,"color":"3","label":"Type 3"},
+		{"id":"7b5af69a659a05f0","type":"group","x":-1800,"y":-3930,"width":960,"height":620,"color":"1","label":"ANIMATED"},
+		{"id":"79a1e7264bf14afc","type":"file","file":"zManagment/Media/ElevenLabs Web 3.png","x":-700,"y":-1961,"width":786,"height":490},
+		{"id":"30cd75e22b825547","type":"file","file":"zManagment/Media/Pasted image 20260621123500.png","x":-700,"y":-2608,"width":785,"height":491},
+		{"id":"b8160c9fbd5b6a58","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-4774,"y":-3095,"width":942,"height":589},
+		{"id":"7bc8b48d27a2b7b3","type":"file","file":"zManagment/Media/Pasted image 20260621144009.png","x":-5780,"y":-2407,"width":843,"height":524},
+		{"id":"b15f69ece05df1ab","type":"file","file":"zManagment/Media/Pasted image 20260621144101.png","x":-5780,"y":-3099,"width":859,"height":593},
+		{"id":"b5a4b66ddc877ff7","type":"file","file":"zManagment/Media/Pasted image 20260621143500.png","x":-4746,"y":-3789,"width":887,"height":549},
+		{"id":"a562fcf197ce72f0","type":"file","file":"zManagment/Media/Pasted image 20260621144309.png","x":-5780,"y":-3790,"width":844,"height":580},
+		{"id":"f240f94886363322","type":"file","file":"zManagment/Media/Pasted image 20260621121906.png","x":420,"y":-4820,"width":828,"height":516},
+		{"id":"81d0a6dd3c63512f","type":"file","file":"zManagment/Media/Pasted image 20260620115306.png","x":-1592,"y":-740,"width":892,"height":544},
+		{
+			"id":"f79e09e0077a9331",
+			"type":"text",
+			"text":"# INSPO",
+			"styleAttributes":{},
+			"x":-2440,
+			"y":-1140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a2769915cb2fd582",
+			"type":"text",
+			"text":"# Login n Sign-Up Screen",
+			"styleAttributes":{},
+			"x":-3148,
+			"y":-1158,
+			"width":440,
+			"height":100
+		},
+		{
+			"id":"526160567696a0bb",
+			"type":"text",
+			"text":"# ONBOARDING  SCREEN FLOWS",
+			"styleAttributes":{},
+			"x":-3181,
+			"y":1880,
+			"width":507,
+			"height":95
+		},
+		{"id":"f6031d2164c23cc9","type":"file","file":"zManagment/Media/Pasted image 20260620120007.png","x":-3419,"y":2320,"width":982,"height":560},
+		{"id":"291bc9f3db39837c","type":"file","file":"zManagment/Media/Pasted image 20260621133411.png","x":-2140,"y":2380,"width":722,"height":360},
+		{"id":"87feb3ae46f12654","type":"file","file":"zManagment/Media/Pasted image 20260620120057.png","x":-3489,"y":3080,"width":1122,"height":620},
+		{"id":"ff87ac998df0d86b","type":"file","file":"zManagment/Media/Pasted image 20260620120136.png","x":-3561,"y":3960,"width":1266,"height":720},
+		{
+			"id":"3251cd68d5d9b109",
+			"type":"text",
+			"text":"# COOL COOL WAY TO COLLECT USERS CHOICE & PREFERENCES LOOKS  SLEEK & KINDA INTERESTING ",
+			"styleAttributes":{},
+			"x":-1860,
+			"y":4100,
+			"width":720,
+			"height":220
+		},
+		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":3460,"y":-2438,"width":1000,"height":626},
+		{"id":"680a95e74c79a60e","type":"file","file":"zManagment/Media/Pasted image 20260621144220.png","x":-3732,"y":-2427,"width":835,"height":519},
+		{"id":"b7667c0df10e3c87","type":"file","file":"zManagment/Media/Pasted image 20260621144117.png","x":3556,"y":-1642,"width":903,"height":566},
+		{"id":"4bdd82d352b10284","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-4739,"y":-2427,"width":916,"height":575},
+		{"id":"fa416e0690b61b05","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-3785,"y":-3052,"width":905,"height":564},
+		{"id":"23ea5071d764f1be","type":"file","file":"zManagment/Media/Pasted image 20260621123411.png","x":3600,"y":-3648,"width":960,"height":600},
+		{"id":"a4c3eecff8d7d3a2","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":2519,"y":-3624,"width":1000,"height":623},
+		{"id":"7be272a1be12e350","type":"file","file":"zManagment/Media/Pasted image 20260621143748.png","x":-3792,"y":-3780,"width":860,"height":535},
+		{
+			"id":"6527f85b9fa7ef27",
+			"type":"text",
+			"text":"# Buttons Cool Click Transition",
+			"styleAttributes":{},
+			"x":-1720,
+			"y":4520,
+			"width":260,
+			"height":60
+		},
+		{"id":"fc62416f002ce760","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":-1220,"y":860,"width":1481,"height":753},
+		{"id":"7621ef40055a8b18","type":"file","file":"zManagment/Media/Pasted image 20260621123122.png","x":2380,"y":-1642,"width":999,"height":624},
+		{"id":"0117b6495998caee","type":"file","file":"zManagment/Media/Linear Web 3.png","x":2380,"y":-2438,"width":1000,"height":623},
+		{"id":"6f0788ce9405f32f","type":"file","file":"zManagment/Media/Pasted image 20260621145410.png","x":2840,"y":1020,"width":176,"height":400},
+		{"id":"ad51ead56c69c0d8","type":"file","file":"zManagment/Media/Pasted image 20260621145547.png","x":3100,"y":1020,"width":176,"height":399},
+		{"id":"28f1a61bac47830e","type":"file","file":"zManagment/Media/Pasted image 20260621143425.png","x":4660,"y":-2437,"width":999,"height":625},
+		{"id":"42d68b22c3f35e2b","type":"file","file":"zManagment/Media/Pasted image 20260621144431.png","x":4740,"y":-1642,"width":999,"height":622},
+		{"id":"7c1d0663f3699f7f","type":"file","file":"zManagment/Media/Pasted image 20260621123734.png","x":1400,"y":-4810,"width":820,"height":513},
+		{"id":"a54ad37740f18547","type":"file","file":"zManagment/Media/Pasted image 20260621124307.png","x":2280,"y":-4810,"width":720,"height":450},
+		{"id":"3c789c6e2ca806bb","type":"file","file":"zManagment/Media/Claude Web 2.png","x":-1826,"y":-1983,"width":820,"height":512,"color":"3"},
+		{"id":"ad34448eba7d4372","type":"file","file":"zManagment/Media/Matter Web 2.png","x":-1826,"y":-2560,"width":793,"height":495},
+		{"id":"4086d9f41b1ce1a0","type":"file","file":"zManagment/Media/Pasted image 20260621145558.png","x":3320,"y":1060,"width":176,"height":400},
+		{"id":"0ed0a3262c7fe3a4","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":-700,"y":-3220,"width":785,"height":490},
+		{"id":"399c91460d174e9c","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":-1826,"y":-3255,"width":889,"height":555},
+		{"id":"d7ec5a71c4533f89","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":-1780,"y":-3900,"width":880,"height":550},
+		{"id":"a45ea6a0b36d8424","type":"file","file":"zManagment/Media/Pasted image 20260621143915.png","x":-770,"y":-3943,"width":927,"height":580}
+	],
+	"edges":[
+		{
+			"id":"430ff365cc377737",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"f240f94886363322",
+			"toSide":"left"
+		},
+		{
+			"id":"81f296c9faa174b3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"7c1d0663f3699f7f",
+			"toSide":"left"
+		},
+		{
+			"id":"0bc8dce939bcf5c6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"bottom",
+			"toNode":"b8160c9fbd5b6a58",
+			"toSide":"bottom"
+		},
+		{
+			"id":"bdcb5fdf18512183",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"526160567696a0bb",
+			"fromSide":"bottom",
+			"toNode":"f6031d2164c23cc9",
+			"toSide":"top"
+		},
+		{
+			"id":"58b49f310e93eb1f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"bottom",
+			"toNode":"526160567696a0bb",
+			"toSide":"top"
+		},
+		{
+			"id":"da0ccc735fc21360",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"30cd75e22b825547",
+			"toSide":"left"
+		},
+		{
+			"id":"e410454ca097d96c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"ad34448eba7d4372",
+			"toSide":"left"
+		},
+		{
+			"id":"899847908e26f708",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"81d0a6dd3c63512f",
+			"fromSide":"right",
+			"toNode":"fc62416f002ce760",
+			"toSide":"top",
+			"label":"Transition Effects\n- Wheel Rotates like a pistol's reload typa!\n- The images on the right get squished before getting respewed into the next set of images (w/o page change)\n- For the text, it's opacity transition to zero, before the texts & button of next one shows"
+		},
+		{
+			"id":"58fa066ae37c041e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"81d0a6dd3c63512f",
+			"toSide":"left"
+		},
+		{
+			"id":"46263b64286d4211",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f6031d2164c23cc9",
+			"fromSide":"bottom",
+			"toNode":"87feb3ae46f12654",
+			"toSide":"top"
+		},
+		{
+			"id":"cc4afc6f921081d0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"fc62416f002ce760",
+			"fromSide":"bottom",
+			"toNode":"f6031d2164c23cc9",
+			"toSide":"top",
+			"label":"Transition Effects\n- Wheel Rotates like a pistol's reload typa!\n- The images on the right get squished before getting respewed into the next set of images (w/o page change)\n\n\n"
+		},
+		{
+			"id":"54e012ed2468c8ea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"87feb3ae46f12654",
+			"fromSide":"bottom",
+			"toNode":"ff87ac998df0d86b",
+			"toSide":"top"
+		},
+		{
+			"id":"0a73f40f059dcfe5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ff87ac998df0d86b",
+			"fromSide":"right",
+			"toNode":"3251cd68d5d9b109",
+			"toSide":"left"
+		},
+		{
+			"id":"b6e1ebc5e4232ea2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ff87ac998df0d86b",
+			"fromSide":"right",
+			"toNode":"6527f85b9fa7ef27",
+			"toSide":"left"
+		},
+		{
+			"id":"beb5959b88763b5e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"79a1e7264bf14afc",
+			"toSide":"left"
+		},
+		{
+			"id":"f6ee640013abbacf",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"3c789c6e2ca806bb",
+			"toSide":"left"
+		},
+		{
+			"id":"4bbb82064ae110f6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a2769915cb2fd582",
+			"fromSide":"right",
+			"toNode":"f79e09e0077a9331",
+			"toSide":"left"
+		},
+		{
+			"id":"e224f6ba83c366b0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"0117b6495998caee",
+			"toSide":"left"
+		},
+		{
+			"id":"542ea59c05e22961",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"bottom",
+			"toNode":"4bdd82d352b10284",
+			"toSide":"left"
+		},
+		{
+			"id":"ad0cbac749c436ed",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"bottom",
+			"toNode":"fa416e0690b61b05",
+			"toSide":"left"
+		},
+		{
+			"id":"25eadcd1086a904b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"a4c3eecff8d7d3a2",
+			"toSide":"left"
+		},
+		{
+			"id":"2da01b099a09c1a5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"top",
+			"toNode":"7621ef40055a8b18",
+			"toSide":"left"
+		},
+		{
+			"id":"e3f7041b65625fc2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"bottom",
+			"toNode":"28f1a61bac47830e",
+			"toSide":"left"
+		},
+		{
+			"id":"968c4375b96d5bd3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"b7667c0df10e3c87",
+			"toSide":"left"
+		},
+		{
+			"id":"1a84484ff82f73de",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"bottom",
+			"toNode":"680a95e74c79a60e",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f80b86475a4df4d0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f79e09e0077a9331",
+			"fromSide":"right",
+			"toNode":"42d68b22c3f35e2b",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
