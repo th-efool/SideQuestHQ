@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/Website/SignUp n Onboarding.canvas",
-                "viewState": {
-                  "x": -87.5,
-                  "y": -2020,
-                  "zoom": -2.865366910808889
-                }
+                "file": "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SignUp n Onboarding"
+              "icon": "lucide-file",
+              "title": "VISUAL ACCURATE DESCRIPTIONS"
             }
           },
           {
@@ -36,8 +33,7 @@
               "title": "Hammy_Character_Sheet_With_Metadata"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +217,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "79f35eb524e4b24e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_AI CONTEXT/Mascots.md",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
     "_AI CONTEXT/Hammy_Character_Sheet_With_Metadata.png",
     "_AI CONTEXT/Kip_Character_Sheet_With_Metadata.png",
@@ -253,7 +249,6 @@
     "MainCanvas/App",
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
-    "_AI CONTEXT/Mascots.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_Assets Img Anim/Pando/Pando.md",
