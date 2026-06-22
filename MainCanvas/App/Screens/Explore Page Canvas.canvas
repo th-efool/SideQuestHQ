@@ -1,7 +1,8 @@
 {
 	"nodes":[
+		{"id":"22d06932f4c780b9","type":"group","x":1040,"y":80,"width":1275,"height":1127,"label":"Large Hero Cards"},
+		{"id":"8bb8b49108cbd003","type":"group","x":1220,"y":-500,"width":1051,"height":440,"label":"Untitled group"},
 		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-371,"y":360,"width":177,"height":400},
-		{"id":"947f2b6b44efaf2c","type":"file","file":"zManagment/Media/Pasted image 20260622124125.png","x":1352,"y":-1100,"width":374,"height":400},
 		{"id":"3baf038bed3d386e","type":"file","file":"zManagment/Media/Pasted image 20260622124227.png","x":2880,"y":-160,"width":399,"height":300},
 		{"id":"9d2d0435689b6aa0","type":"file","file":"zManagment/Media/Pasted image 20260622124237.png","x":3400,"y":-160,"width":400,"height":300},
 		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":3160,"y":240,"width":400,"height":300},
@@ -11,24 +12,105 @@
 		{"id":"d27ab57d137dec3b","type":"file","file":"zManagment/Media/Pasted image 20260622124455.png","x":4676,"y":-713,"width":177,"height":400},
 		{"id":"f55de2efb26b3874","type":"file","file":"zManagment/Media/Pasted image 20260622124543.png","x":4300,"y":-182,"width":180,"height":409},
 		{"id":"ff0206799e92bd9d","type":"file","file":"zManagment/Media/Pasted image 20260622124604.png","x":4540,"y":-173,"width":177,"height":400},
-		{"id":"ea71173d91fb2e07","type":"file","file":"zManagment/Media/Pasted image 20260622123912.png","x":400,"y":1240,"width":177,"height":400},
-		{"id":"6cc27b59408d7bb5","type":"file","file":"zManagment/Media/Pasted image 20260622125033.png","x":623,"y":1240,"width":176,"height":399},
-		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":823,"y":1240,"width":176,"height":399},
-		{"id":"f860773db61c67f9","type":"file","file":"zManagment/Media/Pasted image 20260622125222.png","x":1023,"y":1240,"width":176,"height":399},
 		{"id":"555f4841dcb978d8","type":"file","file":"zManagment/Media/Pasted image 20260622123805.png","x":65,"y":-120,"width":164,"height":372},
 		{"id":"0cbec11e4237648f","type":"file","file":"zManagment/Media/Pasted image 20260622123757.png","x":-140,"y":-120,"width":165,"height":373},
 		{"id":"6ea94bb9f67592e6","type":"file","file":"zManagment/Media/Pasted image 20260622123915.png","x":-355,"y":-120,"width":165,"height":373},
 		{"id":"82ff7c557679c305","type":"file","file":"zManagment/Media/Pasted image 20260622124104.png","x":1608,"y":-461,"width":643,"height":382},
 		{"id":"864bcfa32a5a2d76","type":"file","file":"zManagment/Media/Pasted image 20260622124057.png","x":1240,"y":-479,"width":368,"height":400},
-		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1530,"y":199,"width":400,"height":281},
-		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":1960,"y":140,"width":176,"height":400},
+		{"id":"947f2b6b44efaf2c","type":"file","file":"zManagment/Media/Pasted image 20260622124125.png","x":5120,"y":1820,"width":374,"height":400},
+		{"id":"5a9620bdd21eaf19","type":"file","file":"zManagment/Media/Pasted image 20260622123641.png","x":5609,"y":1820,"width":177,"height":400},
+		{"id":"a9434668d94de7aa","type":"file","file":"zManagment/Media/Pasted image 20260622123739.png","x":5843,"y":1820,"width":176,"height":400},
+		{
+			"id":"40f7b360f9a53560",
+			"type":"text",
+			"text":"### Travel is hard to evaluate -One image=1000 words of evaluation\n\nA location has:\n\n- weather\n- culture\n- food\n- atmosphere\n- activities\n- vibe\n\nImpossible to explain quickly.\n\nA single image compresses all of it.\n\nThe designer is essentially saying:\n\n```\nOne image=1000 words of evaluation\n```\n\nThis is why the photos dominate the screen.",
+			"styleAttributes":{},
+			"x":1700,
+			"y":-960,
+			"width":680,
+			"height":400
+		},
+		{
+			"id":"3a48156017e82236",
+			"type":"text",
+			"text":"### Notice How Few Words Exist\n\nExtremely important.\n\nThe less certainty a user has...\n\nThe less text designers use.\n\nTravel discovery is high uncertainty.\n\nUsers don't know:\n\n- where\n- when\n- what\n\nSo the interface leans heavily on visuals.\n\nCompare this to finance.\n\nFinance apps are mostly numbers.\n\nTravel apps are mostly imagery.\n\nThe UI mirrors the decision type.",
+			"styleAttributes":{},
+			"x":1240,
+			"y":-960,
+			"width":440,
+			"height":400
+		},
+		{
+			"id":"0b90ae536108b42f",
+			"type":"text",
+			"text":"### Categories Are Emotional, Not Functional\n\nLook at examples:\n\n- Mountain\n- Beach\n- Camp\n\nThese aren't features.\n\nThey're moods.\n\nA better mental model is:\n\n```\nCategory=Desired emotional state\n```\n\nThe user isn't filtering locations.\n\nThey're filtering futures.",
+			"styleAttributes":{},
+			"x":2380,
+			"y":-469,
+			"width":380,
+			"height":469
+		},
+		{"id":"ea71173d91fb2e07","type":"file","file":"zManagment/Media/Pasted image 20260622123912.png","x":400,"y":1480,"width":177,"height":400},
+		{"id":"6cc27b59408d7bb5","type":"file","file":"zManagment/Media/Pasted image 20260622125033.png","x":623,"y":1480,"width":176,"height":399},
+		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":823,"y":1480,"width":176,"height":399},
+		{"id":"f860773db61c67f9","type":"file","file":"zManagment/Media/Pasted image 20260622125222.png","x":1023,"y":1480,"width":176,"height":399},
+		{
+			"id":"c1864757b79b0933",
+			"type":"text",
+			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
+			"styleAttributes":{},
+			"x":1470,
+			"y":1429,
+			"width":520,
+			"height":720
+		},
+		{
+			"id":"18a6db71e36b3792",
+			"type":"text",
+			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
+			"styleAttributes":{},
+			"x":2080,
+			"y":1789,
+			"width":280,
+			"height":181
+		},
+		{
+			"id":"19b3bb1be7bf13d5",
+			"type":"text",
+			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1380,
+			"width":541,
+			"height":880
+		},
+		{
+			"id":"7394cb76d5b179ec",
+			"type":"text",
+			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
+			"styleAttributes":{},
+			"x":3080,
+			"y":1140,
+			"width":380,
+			"height":680
+		},
+		{
+			"id":"7fb4e7fcb04d04cd",
+			"type":"text",
+			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
+			"styleAttributes":{},
+			"x":3520,
+			"y":1140,
+			"width":560,
+			"height":1120
+		},
 		{
 			"id":"2144a055364fcda6",
 			"type":"text",
 			"text":"# **\"Get someone from idle browsing → first meaningful action.\"**\nA normal person sees:\n\n> Explore content.\n\nA designer sees:\n\n> Reduce decision-making cost until a user commits.\n\nThe real job isn't discovery.\n\nThe real job is:\n\n**\"Get someone from idle browsing → first meaningful action.\"**\n\nEvery screen here is engineered around that transition.",
 			"styleAttributes":{},
-			"x":1586,
-			"y":580,
+			"x":2407,
+			"y":590,
 			"width":550,
 			"height":460
 		},
@@ -37,73 +119,53 @@
 			"type":"text",
 			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5. The ==Hidden Metric They Probably Optimize For== Not: Views,  Not: Time on screen, ==Probably: Time-to-first-action==\n\n",
 			"styleAttributes":{},
-			"x":2160,
-			"y":580,
+			"x":2981,
+			"y":590,
 			"width":660,
 			"height":500
 		},
+		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1510,"y":746,"width":516,"height":362},
 		{
 			"id":"cc568a1d8d771fb3",
 			"type":"text",
-			"text":"",
+			"text":"## Large Hero Cards Reduce Comparison Fatigue\n\nVery interesting pattern.\n\nThe designers intentionally show:\n\nONE destination.\n\nBIG.\n\nNot:\n\n20 destinations simultaneously.\n\nWhy?\n\nBecause comparison kills momentum.\n\nWhen users see:\n\n```\nBaliSantoriniIcelandJapanMaldivesSwiss Alps\n```\n\nThe brain starts evaluating.\n\nEvaluation is expensive.\n\nThe hero card forces temporary commitment:\n\n```\nFocus on this.Imagine this.Feel this.\n```\n\nOnly later compare.",
 			"styleAttributes":{},
-			"x":1000,
-			"y":560,
-			"width":260,
-			"height":60
+			"x":1056,
+			"y":99,
+			"width":366,
+			"height":829
 		},
+		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":2064,"y":670,"width":227,"height":516},
 		{
-			"id":"7394cb76d5b179ec",
+			"id":"80252a2576c937ea",
 			"type":"text",
-			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
+			"text":"### The Feed Creates \"Safe Exploration\"\n\nNotice how exploration happens.\n\nYou never fully commit.\n\nYou peek.\n\nYou browse.\n\nYou swipe.\n\nYou preview.\n\nEvery interaction is reversible.\n\nThis is crucial.\n\nBecause travel has massive commitment costs.\n\nThe UI compensates by making discovery feel risk-free.",
 			"styleAttributes":{},
-			"x":3080,
-			"y":900,
+			"x":740,
+			"y":-549,
 			"width":380,
-			"height":680
+			"height":540
 		},
 		{
-			"id":"18a6db71e36b3792",
+			"id":"44631b26cf6a8311",
 			"type":"text",
-			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
+			"text":"### The Scroll Pattern Mimics Daydreaming\n\nThis is deeper than it looks.\n\nNotice:\n\nBig image.\n\nBig image.\n\nBig image.\n\nBig image.\n\nThe UX is essentially:\n\n```\nVisual fantasy↓Visual fantasy↓Visual fantasy↓Visual fantasy\n```\n\nThe app intentionally creates mental simulation.\n\nThe user starts imagining:\n\n- being there\n- doing that\n- experiencing it\n\nThe brain partially rehearses the trip before purchase.",
 			"styleAttributes":{},
-			"x":2080,
-			"y":1549,
-			"width":280,
-			"height":181
+			"x":340,
+			"y":-654,
+			"width":320,
+			"height":750
 		},
 		{
-			"id":"c1864757b79b0933",
+			"id":"353490e07dfc00ee",
 			"type":"text",
-			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
+			"text":"# Social Proof Is Delayed\n\nNotice ratings and avatars are tiny.\n\nThis is fascinating.\n\nThe designers know:\n\nEarly-stage discovery is emotional.\n\nLate-stage commitment is rational.\n\nTherefore:\n\n```\nStage 1EmotionStage 2ValidationStage 3Purchase\n```\n\nIf ratings dominated immediately, they'd interrupt imagination.",
 			"styleAttributes":{},
-			"x":1470,
-			"y":1189,
-			"width":520,
-			"height":720
-		},
-		{
-			"id":"19b3bb1be7bf13d5",
-			"type":"text",
-			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1140,
-			"width":541,
-			"height":880
-		},
-		{
-			"id":"7fb4e7fcb04d04cd",
-			"type":"text",
-			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
-			"styleAttributes":{},
-			"x":3520,
-			"y":900,
-			"width":560,
-			"height":1120
-		},
-		{"id":"5a9620bdd21eaf19","type":"file","file":"zManagment/Media/Pasted image 20260622123641.png","x":1841,"y":-1100,"width":177,"height":400},
-		{"id":"a9434668d94de7aa","type":"file","file":"zManagment/Media/Pasted image 20260622123739.png","x":2075,"y":-1100,"width":176,"height":400}
+			"x":2480,
+			"y":-940,
+			"width":260,
+			"height":400
+		}
 	],
 	"edges":[
 		{
@@ -123,6 +185,96 @@
 			"fromSide":"left",
 			"toNode":"18a6db71e36b3792",
 			"toSide":"right"
+		},
+		{
+			"id":"6707e5d616174c00",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8bb8b49108cbd003",
+			"fromSide":"top",
+			"toNode":"40f7b360f9a53560",
+			"toSide":"bottom"
+		},
+		{
+			"id":"428cec029f53c84e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8bb8b49108cbd003",
+			"fromSide":"top",
+			"toNode":"3a48156017e82236",
+			"toSide":"bottom"
+		},
+		{
+			"id":"2bb083872c95304b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"82ff7c557679c305",
+			"fromSide":"right",
+			"toNode":"0b90ae536108b42f",
+			"toSide":"left"
+		},
+		{
+			"id":"52bd4124cf649405",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8bb8b49108cbd003",
+			"fromSide":"left",
+			"toNode":"80252a2576c937ea",
+			"toSide":"right"
+		},
+		{
+			"id":"6d00d740e24e6951",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"864bcfa32a5a2d76",
+			"fromSide":"bottom",
+			"toNode":"cc568a1d8d771fb3",
+			"toSide":"right"
+		},
+		{
+			"id":"68939d66c6e3d74f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d080b6d6286c4ff5",
+			"fromSide":"top",
+			"toNode":"cc568a1d8d771fb3",
+			"toSide":"right"
+		},
+		{
+			"id":"7154789b3d08ef3f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c312af03adddeccf",
+			"fromSide":"top",
+			"toNode":"cc568a1d8d771fb3",
+			"toSide":"right"
+		},
+		{
+			"id":"1380b4530538619f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"80252a2576c937ea",
+			"fromSide":"left",
+			"toNode":"44631b26cf6a8311",
+			"toSide":"right"
+		},
+		{
+			"id":"2adca3799a1906ab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"44631b26cf6a8311",
+			"fromSide":"right",
+			"toNode":"80252a2576c937ea",
+			"toSide":"left"
+		},
+		{
+			"id":"785014f2e9ba46f4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"82ff7c557679c305",
+			"fromSide":"right",
+			"toNode":"353490e07dfc00ee",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
