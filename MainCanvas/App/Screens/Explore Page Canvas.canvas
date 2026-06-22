@@ -7,19 +7,6 @@
 		{"id":"83ba3323f79800c6","type":"group","x":4580,"y":-60,"width":850,"height":440},
 		{"id":"6e295f5964f72650","type":"group","x":860,"y":1400,"width":800,"height":440},
 		{"id":"f24be5afc775fc0a","type":"group","x":-380,"y":-140,"width":624,"height":413},
-		{"id":"555f4841dcb978d8","type":"file","file":"zManagment/Media/Pasted image 20260622123805.png","x":65,"y":-120,"width":164,"height":372},
-		{"id":"0cbec11e4237648f","type":"file","file":"zManagment/Media/Pasted image 20260622123757.png","x":-140,"y":-120,"width":165,"height":373},
-		{"id":"6ea94bb9f67592e6","type":"file","file":"zManagment/Media/Pasted image 20260622123915.png","x":-355,"y":-120,"width":165,"height":373},
-		{
-			"id":"3a48156017e82236",
-			"type":"text",
-			"text":"### Notice How Few Words Exist\n\nExtremely important.\n\nThe less certainty a user has...\n\nThe less text designers use.\n\nTravel discovery is high uncertainty.\n\nUsers don't know:\n\n- where\n- when\n- what\n\nSo the interface leans heavily on visuals.\n\nCompare this to finance.\n\nFinance apps are mostly numbers.\n\nTravel apps are mostly imagery.\n\nThe UI mirrors the decision type.",
-			"styleAttributes":{},
-			"x":1240,
-			"y":-960,
-			"width":440,
-			"height":400
-		},
 		{
 			"id":"55d13b16103ea5b1",
 			"type":"text",
@@ -28,6 +15,70 @@
 			"x":2442,
 			"y":-993,
 			"width":460,
+			"height":400
+		},
+		{
+			"id":"40f7b360f9a53560",
+			"type":"text",
+			"text":"### Travel is hard to evaluate -One image=1000 words of evaluation\n\nA location has:\n\n- weather\n- culture\n- food\n- atmosphere\n- activities\n- vibe\n\nImpossible to explain quickly.\n\nA single image compresses all of it.\n\nThe designer is essentially saying:\n\n```\nOne image=1000 words of evaluation\n```\n\nThis is why the photos dominate the screen.",
+			"styleAttributes":{},
+			"x":1700,
+			"y":-960,
+			"width":680,
+			"height":400
+		},
+		{"id":"3baf038bed3d386e","type":"file","file":"zManagment/Media/Pasted image 20260622124227.png","x":1640,"y":-479,"width":533,"height":400},
+		{"id":"9d2d0435689b6aa0","type":"file","file":"zManagment/Media/Pasted image 20260622124237.png","x":2181,"y":-470,"width":521,"height":391},
+		{"id":"82ff7c557679c305","type":"file","file":"zManagment/Media/Pasted image 20260622124104.png","x":3123,"y":-465,"width":643,"height":382},
+		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":2720,"y":-461,"width":500,"height":375},
+		{
+			"id":"b92b3ae395a25ffa",
+			"type":"text",
+			"text":"# What SideQuestHQ Should Learn From This\n\nNot the ecommerce mechanics.\n\nThe transformation mechanics.\n\nNotice how fashion apps never lead with:\n\n```\n100% cotton320 GSMPolyester blend\n```\n\nThey lead with:\n\n```\nHow you'll feel.\n```\n\nMost learning apps make this mistake.\n\nThey present:\n\n```\n48 lessons32 hours12 modules\n```\n\nThat's equivalent to showing fabric composition.\n\nUsers care about outcomes.\n\nNot inventory.\n\nInstead of:\n\n```\nMachine Learning Cohort42 lessons\n```\n\nThink:\n\n```\nBuild AI projects confidentlyUnderstand how ChatGPT actually worksStop feeling lost when people discuss AIGo from curious to capable\n```\n\nThe fashion app sells a future version of the user.\n\nThe strongest learning products do exactly the same thing.",
+			"styleAttributes":{},
+			"x":3766,
+			"y":-1180,
+			"width":660,
+			"height":1060
+		},
+		{
+			"id":"623185757cc695be",
+			"type":"text",
+			"text":"### They Treat Sports as Ongoing Stories, Not Data\n\nA normal sports app would start with:\n\n```\nScoresStandingsFixtures\n```\n\nThese start with:\n\n```\nWhat is happening right now?\n```\n\nNotice the hierarchy:\n\n```\nStory↓Event↓Statistics\n```\n\nnot\n\n```\nStatistics↓Event↓Story\n```\n\nThe NBA screen leads with \"ADVANCE\".\n\nThe F1 screen leads with a dramatic race image.\n\nThe football screens lead with a single hero match.\n\nThey're selling narrative before information.",
+			"styleAttributes":{},
+			"x":4514,
+			"y":-803,
+			"width":460,
+			"height":677
+		},
+		{
+			"id":"1e439999fc32150c",
+			"type":"text",
+			"text":"### ==Everything Is Designed Around FOMO==\n\nLook carefully.\n\nEvery screen contains temporal language:\n\n```\nHappening NowComing UpLatestLiveTomorrow\n```\n\nSports are valuable because they expire.\n\nThe UI constantly reminds users:\n\n```\nSomething important is happening right now.\n```\n\nThis creates urgency without notifications.",
+			"styleAttributes":{},
+			"x":5037,
+			"y":-706,
+			"width":360,
+			"height":580
+		},
+		{
+			"id":"c36a33ee855dce62",
+			"type":"text",
+			"text":"### Every Card Answers One Question\n\nGood discovery cards answer exactly one question.\n\nExamples:\n\n```\nWho is playing?\n```\n\nHero match card.\n\n```\nWhat is happening now?\n```\n\nLive rail.\n\n```\nWhat should I care about next?\n```\n\nUpcoming rail.\n\n```\nWhat happened recently?\n```\n\nLatest stories rail.\n\nNo card tries to do everything.",
+			"styleAttributes":{},
+			"x":5440,
+			"y":-720,
+			"width":360,
+			"height":660
+		},
+		{
+			"id":"3a48156017e82236",
+			"type":"text",
+			"text":"### Notice How Few Words Exist\n\nExtremely important.\n\nThe less certainty a user has...\n\nThe less text designers use.\n\nTravel discovery is high uncertainty.\n\nUsers don't know:\n\n- where\n- when\n- what\n\nSo the interface leans heavily on visuals.\n\nCompare this to finance.\n\nFinance apps are mostly numbers.\n\nTravel apps are mostly imagery.\n\nThe UI mirrors the decision type.",
+			"styleAttributes":{},
+			"x":1240,
+			"y":-960,
+			"width":440,
 			"height":400
 		},
 		{
@@ -61,16 +112,6 @@
 			"height":649
 		},
 		{
-			"id":"40f7b360f9a53560",
-			"type":"text",
-			"text":"### Travel is hard to evaluate -One image=1000 words of evaluation\n\nA location has:\n\n- weather\n- culture\n- food\n- atmosphere\n- activities\n- vibe\n\nImpossible to explain quickly.\n\nA single image compresses all of it.\n\nThe designer is essentially saying:\n\n```\nOne image=1000 words of evaluation\n```\n\nThis is why the photos dominate the screen.",
-			"styleAttributes":{},
-			"x":1700,
-			"y":-960,
-			"width":680,
-			"height":400
-		},
-		{
 			"id":"353490e07dfc00ee",
 			"type":"text",
 			"text":"## Social Proof Is Delayed\n\nNotice ratings and avatars are tiny.\n\nThis is fascinating.\n\nThe designers know:\n\nEarly-stage discovery is emotional.\n\nLate-stage commitment is rational.\n\nTherefore:\nStage \n1. EmotionStage \n2. ValidationStage \n3. Purchase\n\n==If ratings dominated immediately, they'd interrupt imagination.==",
@@ -101,10 +142,115 @@
 			"width":320,
 			"height":750
 		},
-		{"id":"3baf038bed3d386e","type":"file","file":"zManagment/Media/Pasted image 20260622124227.png","x":1640,"y":-479,"width":533,"height":400},
-		{"id":"9d2d0435689b6aa0","type":"file","file":"zManagment/Media/Pasted image 20260622124237.png","x":2181,"y":-470,"width":521,"height":391},
-		{"id":"82ff7c557679c305","type":"file","file":"zManagment/Media/Pasted image 20260622124104.png","x":3123,"y":-465,"width":643,"height":382},
-		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1774,"y":764,"width":516,"height":362},
+		{
+			"id":"dfa88f5b25b6957d",
+			"type":"text",
+			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
+			"styleAttributes":{},
+			"x":660,
+			"y":-1139,
+			"width":570,
+			"height":540
+		},
+		{"id":"555f4841dcb978d8","type":"file","file":"zManagment/Media/Pasted image 20260622123805.png","x":65,"y":-120,"width":164,"height":372},
+		{"id":"0cbec11e4237648f","type":"file","file":"zManagment/Media/Pasted image 20260622123757.png","x":-140,"y":-120,"width":165,"height":373},
+		{"id":"6ea94bb9f67592e6","type":"file","file":"zManagment/Media/Pasted image 20260622123915.png","x":-355,"y":-120,"width":165,"height":373},
+		{
+			"id":"dece9f27f3937099",
+			"type":"text",
+			"text":"### ==Social proof is embedded, not explicit==\n\nNotice:\n\n```\n31 peoplesaved from Instagram\n```\n\ninstead of:\n\n```\n4.7 stars1,238 reviews\n```\n\nThat's deliberate.\n\nHumans trust:\n\n> \"People like me found this\"\n\nmore than\n\n> \"Algorithm score = 4.7\"",
+			"styleAttributes":{},
+			"x":4160,
+			"y":688,
+			"width":320,
+			"height":530
+		},
+		{"id":"ff0206799e92bd9d","type":"file","file":"zManagment/Media/Pasted image 20260622124604.png","x":3932,"y":667,"width":177,"height":400},
+		{
+			"id":"a56395475e87c04f",
+			"type":"text",
+			"text":"### The card is optimized for emotional decision-making\n\nLook at the information order:\n\n```\nPhoto↓\nName↓\nTags↓\nSocial proof↓\nAction\n```\n\nNot:\n\n```\nName\nRating\nDistance\nPrice\n```\n\nThis is inspiration-first.\n\nThe image sells.\n\nThe metadata just justifies.",
+			"styleAttributes":{},
+			"x":4554,
+			"y":460,
+			"width":520,
+			"height":580
+		},
+		{
+			"id":"5de36b99b51dd0db",
+			"type":"text",
+			"text":"### ==Horizontal Rails Are Actually Context Switchers==\n\nMost people think these are categories.\n\nThey're not.\n\n```\nBasketball\nFootball\nF1\n```\n\naren't content.\n\nThey're mental modes.\n\nSwitching tabs changes:\n\n```\nidentitylanguageexpectations\n```\n\nThe user enters a different sports universe.",
+			"styleAttributes":{},
+			"x":5100,
+			"y":460,
+			"width":460,
+			"height":580
+		},
+		{
+			"id":"c1864757b79b0933",
+			"type":"text",
+			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
+			"styleAttributes":{},
+			"x":1731,
+			"y":1301,
+			"width":520,
+			"height":720
+		},
+		{
+			"id":"08d021592849811d",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":7500,
+			"y":680,
+			"width":260,
+			"height":60
+		},
+		{"id":"ea71173d91fb2e07","type":"file","file":"zManagment/Media/Pasted image 20260622123912.png","x":880,"y":1420,"width":177,"height":400},
+		{"id":"6cc27b59408d7bb5","type":"file","file":"zManagment/Media/Pasted image 20260622125033.png","x":1072,"y":1433,"width":176,"height":399},
+		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":1272,"y":1433,"width":176,"height":399},
+		{"id":"f860773db61c67f9","type":"file","file":"zManagment/Media/Pasted image 20260622125222.png","x":1472,"y":1433,"width":176,"height":399},
+		{"id":"a6d443bd02e78473","type":"file","file":"zManagment/Media/Pasted image 20260622123835.png","x":-152,"y":360,"width":176,"height":399},
+		{
+			"id":"cf12474b93f0c3f0",
+			"type":"text",
+			"text":"### ==Trending + Newly Opened = exploration engine==\n\nThese labels create continuous novelty.\n\nWithout them:\n\n```\nRestaurant Database\n```\n\nWith them:\n\n```\nLiving City\n```\n\nThe screen feels alive because content appears time-sensitive",
+			"styleAttributes":{},
+			"x":3340,
+			"y":1441,
+			"width":360,
+			"height":409
+		},
+		{
+			"id":"18a6db71e36b3792",
+			"type":"text",
+			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
+			"styleAttributes":{},
+			"x":2342,
+			"y":1759,
+			"width":280,
+			"height":181
+		},
+		{
+			"id":"c6b15786160533e1",
+			"type":"text",
+			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5. The ==Hidden Metric They Probably Optimize For== Not: Views,  Not: Time on screen, ==Probably: Time-to-first-action==\n\n",
+			"styleAttributes":{},
+			"x":3766,
+			"y":1433,
+			"width":660,
+			"height":417
+		},
+		{
+			"id":"19b3bb1be7bf13d5",
+			"type":"text",
+			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
+			"styleAttributes":{},
+			"x":2681,
+			"y":1319,
+			"width":378,
+			"height":880
+		},
 		{
 			"id":"7394cb76d5b179ec",
 			"type":"text",
@@ -115,11 +261,6 @@
 			"width":380,
 			"height":680
 		},
-		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":2720,"y":-461,"width":500,"height":375},
-		{"id":"ea71173d91fb2e07","type":"file","file":"zManagment/Media/Pasted image 20260622123912.png","x":880,"y":1420,"width":177,"height":400},
-		{"id":"6cc27b59408d7bb5","type":"file","file":"zManagment/Media/Pasted image 20260622125033.png","x":1072,"y":1433,"width":176,"height":399},
-		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":1272,"y":1433,"width":176,"height":399},
-		{"id":"f860773db61c67f9","type":"file","file":"zManagment/Media/Pasted image 20260622125222.png","x":1472,"y":1433,"width":176,"height":399},
 		{
 			"id":"2144a055364fcda6",
 			"type":"text",
@@ -130,6 +271,41 @@
 			"width":550,
 			"height":460
 		},
+		{
+			"id":"7fb4e7fcb04d04cd",
+			"type":"text",
+			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
+			"styleAttributes":{},
+			"x":693,
+			"y":279,
+			"width":560,
+			"height":1029
+		},
+		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-372,"y":360,"width":177,"height":400},
+		{"id":"d268c516012b35c4","type":"file","file":"zManagment/Media/Pasted image 20260622123924.png","x":79,"y":360,"width":176,"height":399},
+		{"id":"68635f1cb7496a87","type":"file","file":"zManagment/Media/Pasted image 20260623011235.png","x":-233,"y":788,"width":400,"height":225},
+		{
+			"id":"d236a6e2421843ba",
+			"type":"text",
+			"text":"# ==Masonry optimizes IDEAS/SEC OPTIMIZED==\n**Core Discovery UX Insight**\n\n- These products optimize for **\"I don't know what I'm looking for\"**, not search.\n- The **grid itself is the product**. Users visually filter interesting vs boring far faster than they can read titles.\n- Discovery happens through **peripheral vision**—users evaluate the current card, surrounding cards, and overall patterns simultaneously.\n- Layouts are engineered to create **accidental curiosity** (\"Wait, what's that?\").\n- They optimize for **serendipity over efficiency**:\n    - Search → shortest path to a known goal.\n    - Discovery → best unexpected find.\n- They feel more like **bookstores, galleries, and flea markets** than databases.\n\n###  **SideQuestHQ Application** - The key shift is from **topic browsing** to **rabbit-hole entry points**.\n\nInstead of:\n```text\nCategory → Course → Lessons\n```\nUse:\n```text\nCuriosity Trigger → Topic → Cohort → Learning Path\n```\nExamples:\n```text\n\"Why casinos remove clocks\"\n\"The AI that beat a human champion\"\n\"How Tokyo trains stay on time\"\n```\n",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":350,
+			"width":520,
+			"height":970
+		},
+		{
+			"id":"c95045eb3350237f",
+			"type":"text",
+			"text":"\n## **Biggest takeaway:** Discovery platforms assume curiosity will self-organize if users are exposed to enough interesting things. Most learning apps focus on filtering; the strongest ones focus on exploration.",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":1350,
+			"width":480,
+			"height":260
+		},
+		{"id":"d10dde55c78c78c1","type":"file","file":"zManagment/Media/Pasted image 20260623011303.png","x":-355,"y":1108,"width":581,"height":385},
+		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1774,"y":764,"width":516,"height":362},
 		{
 			"id":"cc568a1d8d771fb3",
 			"type":"text",
@@ -149,16 +325,6 @@
 			"y":36,
 			"width":382,
 			"height":652
-		},
-		{
-			"id":"7fb4e7fcb04d04cd",
-			"type":"text",
-			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
-			"styleAttributes":{},
-			"x":693,
-			"y":279,
-			"width":560,
-			"height":1029
 		},
 		{"id":"0cae5b3efa6301fa","type":"file","file":"zManagment/Media/Pasted image 20260622124543.png","x":2352,"y":158,"width":180,"height":409},
 		{
@@ -191,62 +357,7 @@
 			"width":380,
 			"height":469
 		},
-		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-372,"y":360,"width":177,"height":400},
-		{"id":"a6d443bd02e78473","type":"file","file":"zManagment/Media/Pasted image 20260622123835.png","x":-152,"y":360,"width":176,"height":399},
-		{"id":"d268c516012b35c4","type":"file","file":"zManagment/Media/Pasted image 20260622123924.png","x":79,"y":360,"width":176,"height":399},
-		{"id":"68635f1cb7496a87","type":"file","file":"zManagment/Media/Pasted image 20260623011235.png","x":-233,"y":788,"width":400,"height":225},
-		{
-			"id":"d236a6e2421843ba",
-			"type":"text",
-			"text":"# ==Masonry optimizes IDEAS/SEC OPTIMIZED==\n**Core Discovery UX Insight**\n\n- These products optimize for **\"I don't know what I'm looking for\"**, not search.\n- The **grid itself is the product**. Users visually filter interesting vs boring far faster than they can read titles.\n- Discovery happens through **peripheral vision**—users evaluate the current card, surrounding cards, and overall patterns simultaneously.\n- Layouts are engineered to create **accidental curiosity** (\"Wait, what's that?\").\n- They optimize for **serendipity over efficiency**:\n    - Search → shortest path to a known goal.\n    - Discovery → best unexpected find.\n- They feel more like **bookstores, galleries, and flea markets** than databases.\n\n###  **SideQuestHQ Application** - The key shift is from **topic browsing** to **rabbit-hole entry points**.\n\nInstead of:\n```text\nCategory → Course → Lessons\n```\nUse:\n```text\nCuriosity Trigger → Topic → Cohort → Learning Path\n```\nExamples:\n```text\n\"Why casinos remove clocks\"\n\"The AI that beat a human champion\"\n\"How Tokyo trains stay on time\"\n```\n",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":350,
-			"width":520,
-			"height":970
-		},
-		{
-			"id":"c95045eb3350237f",
-			"type":"text",
-			"text":"\n## **Biggest takeaway:** Discovery platforms assume curiosity will self-organize if users are exposed to enough interesting things. Most learning apps focus on filtering; the strongest ones focus on exploration.",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":1350,
-			"width":480,
-			"height":260
-		},
-		{"id":"d10dde55c78c78c1","type":"file","file":"zManagment/Media/Pasted image 20260623011303.png","x":-355,"y":1108,"width":581,"height":385},
 		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":2328,"y":688,"width":227,"height":516},
-		{
-			"id":"cf12474b93f0c3f0",
-			"type":"text",
-			"text":"### ==Trending + Newly Opened = exploration engine==\n\nThese labels create continuous novelty.\n\nWithout them:\n\n```\nRestaurant Database\n```\n\nWith them:\n\n```\nLiving City\n```\n\nThe screen feels alive because content appears time-sensitive",
-			"styleAttributes":{},
-			"x":3340,
-			"y":1441,
-			"width":360,
-			"height":409
-		},
-		{
-			"id":"18a6db71e36b3792",
-			"type":"text",
-			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
-			"styleAttributes":{},
-			"x":2342,
-			"y":1759,
-			"width":280,
-			"height":181
-		},
-		{
-			"id":"c6b15786160533e1",
-			"type":"text",
-			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5. The ==Hidden Metric They Probably Optimize For== Not: Views,  Not: Time on screen, ==Probably: Time-to-first-action==\n\n",
-			"styleAttributes":{},
-			"x":3766,
-			"y":1433,
-			"width":660,
-			"height":417
-		},
 		{
 			"id":"ff6cbf022b740ba2",
 			"type":"text",
@@ -277,90 +388,9 @@
 			"width":300,
 			"height":473
 		},
-		{
-			"id":"dece9f27f3937099",
-			"type":"text",
-			"text":"### ==Social proof is embedded, not explicit==\n\nNotice:\n\n```\n31 peoplesaved from Instagram\n```\n\ninstead of:\n\n```\n4.7 stars1,238 reviews\n```\n\nThat's deliberate.\n\nHumans trust:\n\n> \"People like me found this\"\n\nmore than\n\n> \"Algorithm score = 4.7\"",
-			"styleAttributes":{},
-			"x":4160,
-			"y":688,
-			"width":320,
-			"height":530
-		},
-		{"id":"ff0206799e92bd9d","type":"file","file":"zManagment/Media/Pasted image 20260622124604.png","x":3932,"y":667,"width":177,"height":400},
-		{
-			"id":"b92b3ae395a25ffa",
-			"type":"text",
-			"text":"# What SideQuestHQ Should Learn From This\n\nNot the ecommerce mechanics.\n\nThe transformation mechanics.\n\nNotice how fashion apps never lead with:\n\n```\n100% cotton320 GSMPolyester blend\n```\n\nThey lead with:\n\n```\nHow you'll feel.\n```\n\nMost learning apps make this mistake.\n\nThey present:\n\n```\n48 lessons32 hours12 modules\n```\n\nThat's equivalent to showing fabric composition.\n\nUsers care about outcomes.\n\nNot inventory.\n\nInstead of:\n\n```\nMachine Learning Cohort42 lessons\n```\n\nThink:\n\n```\nBuild AI projects confidentlyUnderstand how ChatGPT actually worksStop feeling lost when people discuss AIGo from curious to capable\n```\n\nThe fashion app sells a future version of the user.\n\nThe strongest learning products do exactly the same thing.",
-			"styleAttributes":{},
-			"x":3766,
-			"y":-1180,
-			"width":660,
-			"height":1060
-		},
-		{
-			"id":"a56395475e87c04f",
-			"type":"text",
-			"text":"### The card is optimized for emotional decision-making\n\nLook at the information order:\n\n```\nPhoto↓\nName↓\nTags↓\nSocial proof↓\nAction\n```\n\nNot:\n\n```\nName\nRating\nDistance\nPrice\n```\n\nThis is inspiration-first.\n\nThe image sells.\n\nThe metadata just justifies.",
-			"styleAttributes":{},
-			"x":4554,
-			"y":460,
-			"width":520,
-			"height":580
-		},
 		{"id":"947f2b6b44efaf2c","type":"file","file":"zManagment/Media/Pasted image 20260622124125.png","x":4600,"y":-40,"width":374,"height":400},
 		{"id":"5a9620bdd21eaf19","type":"file","file":"zManagment/Media/Pasted image 20260622123641.png","x":5040,"y":-40,"width":177,"height":400},
 		{"id":"a9434668d94de7aa","type":"file","file":"zManagment/Media/Pasted image 20260622123739.png","x":5234,"y":-40,"width":176,"height":400},
-		{
-			"id":"623185757cc695be",
-			"type":"text",
-			"text":"### They Treat Sports as Ongoing Stories, Not Data\n\nA normal sports app would start with:\n\n```\nScoresStandingsFixtures\n```\n\nThese start with:\n\n```\nWhat is happening right now?\n```\n\nNotice the hierarchy:\n\n```\nStory↓Event↓Statistics\n```\n\nnot\n\n```\nStatistics↓Event↓Story\n```\n\nThe NBA screen leads with \"ADVANCE\".\n\nThe F1 screen leads with a dramatic race image.\n\nThe football screens lead with a single hero match.\n\nThey're selling narrative before information.",
-			"styleAttributes":{},
-			"x":4514,
-			"y":-803,
-			"width":460,
-			"height":677
-		},
-		{
-			"id":"1e439999fc32150c",
-			"type":"text",
-			"text":"### ==Everything Is Designed Around FOMO==\n\nLook carefully.\n\nEvery screen contains temporal language:\n\n```\nHappening NowComing UpLatestLiveTomorrow\n```\n\nSports are valuable because they expire.\n\nThe UI constantly reminds users:\n\n```\nSomething important is happening right now.\n```\n\nThis creates urgency without notifications.",
-			"styleAttributes":{},
-			"x":5037,
-			"y":-706,
-			"width":360,
-			"height":580
-		},
-		{
-			"id":"5de36b99b51dd0db",
-			"type":"text",
-			"text":"### ==Horizontal Rails Are Actually Context Switchers==\n\nMost people think these are categories.\n\nThey're not.\n\n```\nBasketball\nFootball\nF1\n```\n\naren't content.\n\nThey're mental modes.\n\nSwitching tabs changes:\n\n```\nidentitylanguageexpectations\n```\n\nThe user enters a different sports universe.",
-			"styleAttributes":{},
-			"x":5100,
-			"y":460,
-			"width":460,
-			"height":580
-		},
-		{
-			"id":"c36a33ee855dce62",
-			"type":"text",
-			"text":"### Every Card Answers One Question\n\nGood discovery cards answer exactly one question.\n\nExamples:\n\n```\nWho is playing?\n```\n\nHero match card.\n\n```\nWhat is happening now?\n```\n\nLive rail.\n\n```\nWhat should I care about next?\n```\n\nUpcoming rail.\n\n```\nWhat happened recently?\n```\n\nLatest stories rail.\n\nNo card tries to do everything.",
-			"styleAttributes":{},
-			"x":5440,
-			"y":-720,
-			"width":360,
-			"height":660
-		},
-		{
-			"id":"c1864757b79b0933",
-			"type":"text",
-			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
-			"styleAttributes":{},
-			"x":1731,
-			"y":1301,
-			"width":520,
-			"height":720
-		},
 		{
 			"id":"7b5a16f5ddb14243",
 			"type":"text",
@@ -370,36 +400,6 @@
 			"y":646,
 			"width":382,
 			"height":614
-		},
-		{
-			"id":"19b3bb1be7bf13d5",
-			"type":"text",
-			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
-			"styleAttributes":{},
-			"x":2681,
-			"y":1319,
-			"width":378,
-			"height":880
-		},
-		{
-			"id":"dfa88f5b25b6957d",
-			"type":"text",
-			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
-			"styleAttributes":{},
-			"x":660,
-			"y":-1139,
-			"width":570,
-			"height":540
-		},
-		{
-			"id":"08d021592849811d",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":7500,
-			"y":680,
-			"width":260,
-			"height":60
 		},
 		{"id":"149a98f0e3968c11","type":"file","file":"zManagment/Media/Pasted image 20260623022225.png","x":6620,"y":-140,"width":190,"height":400},
 		{"id":"b3854fb70e192e60","type":"file","file":"zManagment/Media/Pasted image 20260623022125.png","x":6860,"y":-140,"width":185,"height":400}

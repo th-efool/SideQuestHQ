@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 6465.0870330288535,
-                  "y": 432.2428175274914,
-                  "zoom": -0.3333333333333332
+                  "x": 3985.9434332304977,
+                  "y": 991.4078006328604,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "00602f738617e704",
@@ -212,10 +211,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
+    "_AI CONTEXT/Mascots.md",
+    "_AI CONTEXT/NovaPaw_With_Metadata.png",
+    "_AI CONTEXT/Pando_With_Metadata.png",
+    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
+    "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
+    "_AI CONTEXT/Color System.md",
+    "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "zManagment/Media/Pasted image 20260623022225.png",
     "zManagment/Media/Pasted image 20260623022125.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
-    "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "zManagment/Media/Pasted image 20260623011303.png",
@@ -225,18 +231,12 @@
     "zManagment/Media/Pasted image 20260622125350.png",
     "zManagment/Media/Pasted image 20260622125222.png",
     "zManagment/Media/Pasted image 20260622125215.png",
-    "zManagment/Media/Pasted image 20260622125107.png",
-    "zManagment/Media/Pasted image 20260622125033.png",
-    "zManagment/Media/Pasted image 20260622124630.png",
-    "zManagment/Media/Pasted image 20260622124604.png",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/Website/Dashboard.md",
     "MainCanvas/Website/Screens",
     "MainCanvas/App/Screens",
-    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
-    "_AI CONTEXT/Mascots.md",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
     "LOGO Accurate Description.md",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
@@ -246,7 +246,6 @@
     "MainCanvas/Untitled.md",
     "MainCanvas/App",
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
-    "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_Assets Img Anim/Pando/Pando.md",
@@ -254,7 +253,6 @@
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
     "_Assets Img Anim/_Assets Img Anim.md",
-    "_AI CONTEXT/Color System.md",
     "_AI CONTEXT",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "publish/attachments",
