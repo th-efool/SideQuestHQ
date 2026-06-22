@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 6810.616148391646,
-                  "y": 19.087434881341046,
-                  "zoom": 0.9999999999999998
+                  "x": 6472.750782320079,
+                  "y": 194.13394393222148,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -211,6 +211,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260623024600.png",
     "zManagment/Media/Pasted image 20260623024524.png",
     "zManagment/Media/Pasted image 20260623024448.png",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
@@ -231,7 +232,6 @@
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Marketing.canvas",
     "zManagment/Media/Pasted image 20260622125350.png",
-    "zManagment/Media/Pasted image 20260622125222.png",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/MainCanvas.md",
