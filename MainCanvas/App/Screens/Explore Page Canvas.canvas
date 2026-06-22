@@ -390,7 +390,19 @@
 			"y":-1139,
 			"width":570,
 			"height":540
-		}
+		},
+		{
+			"id":"08d021592849811d",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":7500,
+			"y":680,
+			"width":260,
+			"height":60
+		},
+		{"id":"149a98f0e3968c11","type":"file","file":"zManagment/Media/Pasted image 20260623022225.png","x":6620,"y":-140,"width":190,"height":400},
+		{"id":"b3854fb70e192e60","type":"file","file":"zManagment/Media/Pasted image 20260623022125.png","x":6860,"y":-140,"width":185,"height":400}
 	],
 	"edges":[
 		{
