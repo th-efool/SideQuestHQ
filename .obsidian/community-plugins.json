@@ -8,7 +8,6 @@
   "photopea-editor",
   "quickadd",
   "omnisearch",
-  "obsidian-git",
   "github-sync",
   "auto-card-link",
   "folder-notes",
@@ -17,5 +16,7 @@
   "dragger",
   "waypoint",
   "obsidian-kanban",
-  "settings-search"
+  "settings-search",
+  "obsidian-outliner",
+  "obsidian-git"
 ]
