@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/Untitled.canvas",
                 "viewState": {
-                  "x": 3666.969498781489,
-                  "y": 1923.8541007871586,
-                  "zoom": -1.1102230246251565e-16
+                  "x": 2641.127823654778,
+                  "y": 30.23302890588434,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -211,6 +211,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260622125107.png",
+    "zManagment/Media/Pasted image 20260622125033.png",
     "zManagment/Media/Pasted image 20260622124630.png",
     "zManagment/Media/Pasted image 20260622124604.png",
     "zManagment/Media/Pasted image 20260622124543.png",
@@ -220,8 +222,6 @@
     "zManagment/Media/Pasted image 20260622124248.png",
     "zManagment/Media/Pasted image 20260622124242.png",
     "zManagment/Media/Pasted image 20260622124237.png",
-    "zManagment/Media/Pasted image 20260622124230.png",
-    "zManagment/Media/Pasted image 20260622124227.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/App/Screens/Untitled.canvas",
