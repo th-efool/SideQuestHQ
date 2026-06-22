@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"22d06932f4c780b9","type":"group","x":1040,"y":80,"width":1275,"height":1127,"label":"Large Hero Cards"},
+		{"id":"22d06932f4c780b9","type":"group","x":1280,"y":0,"width":1275,"height":1256,"label":"Large Hero Cards"},
 		{"id":"8bb8b49108cbd003","type":"group","x":1220,"y":-500,"width":1051,"height":440,"label":"Untitled group"},
+		{"id":"6e295f5964f72650","type":"group","x":380,"y":1460,"width":839,"height":440,"label":"Untitled group"},
 		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-371,"y":360,"width":177,"height":400},
 		{"id":"3baf038bed3d386e","type":"file","file":"zManagment/Media/Pasted image 20260622124227.png","x":2880,"y":-160,"width":399,"height":300},
 		{"id":"9d2d0435689b6aa0","type":"file","file":"zManagment/Media/Pasted image 20260622124237.png","x":3400,"y":-160,"width":400,"height":300},
@@ -85,58 +86,6 @@
 			"height":880
 		},
 		{
-			"id":"7394cb76d5b179ec",
-			"type":"text",
-			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
-			"styleAttributes":{},
-			"x":3080,
-			"y":1140,
-			"width":380,
-			"height":680
-		},
-		{
-			"id":"7fb4e7fcb04d04cd",
-			"type":"text",
-			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
-			"styleAttributes":{},
-			"x":3520,
-			"y":1140,
-			"width":560,
-			"height":1120
-		},
-		{
-			"id":"2144a055364fcda6",
-			"type":"text",
-			"text":"# **\"Get someone from idle browsing → first meaningful action.\"**\nA normal person sees:\n\n> Explore content.\n\nA designer sees:\n\n> Reduce decision-making cost until a user commits.\n\nThe real job isn't discovery.\n\nThe real job is:\n\n**\"Get someone from idle browsing → first meaningful action.\"**\n\nEvery screen here is engineered around that transition.",
-			"styleAttributes":{},
-			"x":2407,
-			"y":590,
-			"width":550,
-			"height":460
-		},
-		{
-			"id":"c6b15786160533e1",
-			"type":"text",
-			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5. The ==Hidden Metric They Probably Optimize For== Not: Views,  Not: Time on screen, ==Probably: Time-to-first-action==\n\n",
-			"styleAttributes":{},
-			"x":2981,
-			"y":590,
-			"width":660,
-			"height":500
-		},
-		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1510,"y":746,"width":516,"height":362},
-		{
-			"id":"cc568a1d8d771fb3",
-			"type":"text",
-			"text":"## Large Hero Cards Reduce Comparison Fatigue\n\nVery interesting pattern.\n\nThe designers intentionally show:\n\nONE destination.\n\nBIG.\n\nNot:\n\n20 destinations simultaneously.\n\nWhy?\n\nBecause comparison kills momentum.\n\nWhen users see:\n\n```\nBaliSantoriniIcelandJapanMaldivesSwiss Alps\n```\n\nThe brain starts evaluating.\n\nEvaluation is expensive.\n\nThe hero card forces temporary commitment:\n\n```\nFocus on this.Imagine this.Feel this.\n```\n\nOnly later compare.",
-			"styleAttributes":{},
-			"x":1056,
-			"y":99,
-			"width":366,
-			"height":829
-		},
-		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":2064,"y":670,"width":227,"height":516},
-		{
 			"id":"80252a2576c937ea",
 			"type":"text",
 			"text":"### The Feed Creates \"Safe Exploration\"\n\nNotice how exploration happens.\n\nYou never fully commit.\n\nYou peek.\n\nYou browse.\n\nYou swipe.\n\nYou preview.\n\nEvery interaction is reversible.\n\nThis is crucial.\n\nBecause travel has massive commitment costs.\n\nThe UI compensates by making discovery feel risk-free.",
@@ -159,12 +108,84 @@
 		{
 			"id":"353490e07dfc00ee",
 			"type":"text",
-			"text":"# Social Proof Is Delayed\n\nNotice ratings and avatars are tiny.\n\nThis is fascinating.\n\nThe designers know:\n\nEarly-stage discovery is emotional.\n\nLate-stage commitment is rational.\n\nTherefore:\n\n```\nStage 1EmotionStage 2ValidationStage 3Purchase\n```\n\nIf ratings dominated immediately, they'd interrupt imagination.",
+			"text":"## Social Proof Is Delayed\n\nNotice ratings and avatars are tiny.\n\nThis is fascinating.\n\nThe designers know:\n\nEarly-stage discovery is emotional.\n\nLate-stage commitment is rational.\n\nTherefore:\nStage \n1. EmotionStage \n2. ValidationStage \n3. Purchase\n\n==If ratings dominated immediately, they'd interrupt imagination.==",
 			"styleAttributes":{},
-			"x":2480,
-			"y":-940,
-			"width":260,
-			"height":400
+			"x":2420,
+			"y":-980,
+			"width":380,
+			"height":480
+		},
+		{
+			"id":"dfa88f5b25b6957d",
+			"type":"text",
+			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
+			"styleAttributes":{},
+			"x":-402,
+			"y":1339,
+			"width":570,
+			"height":540
+		},
+		{
+			"id":"7394cb76d5b179ec",
+			"type":"text",
+			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
+			"styleAttributes":{},
+			"x":197,
+			"y":746,
+			"width":380,
+			"height":680
+		},
+		{
+			"id":"7fb4e7fcb04d04cd",
+			"type":"text",
+			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
+			"styleAttributes":{},
+			"x":623,
+			"y":325,
+			"width":560,
+			"height":1029
+		},
+		{
+			"id":"c6b15786160533e1",
+			"type":"text",
+			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5. The ==Hidden Metric They Probably Optimize For== Not: Views,  Not: Time on screen, ==Probably: Time-to-first-action==\n\n",
+			"styleAttributes":{},
+			"x":3424,
+			"y":609,
+			"width":660,
+			"height":500
+		},
+		{
+			"id":"2144a055364fcda6",
+			"type":"text",
+			"text":"# **\"Get someone from idle browsing → first meaningful action.\"**\nA normal person sees:\n\n> Explore content.\n\nA designer sees:\n\n> Reduce decision-making cost until a user commits.\n\nThe real job isn't discovery.\n\nThe real job is:\n\n**\"Get someone from idle browsing → first meaningful action.\"**\n\nEvery screen here is engineered around that transition.",
+			"styleAttributes":{},
+			"x":2850,
+			"y":609,
+			"width":550,
+			"height":460
+		},
+		{
+			"id":"cc568a1d8d771fb3",
+			"type":"text",
+			"text":"## Large Hero Cards Reduce Comparison Fatigue\n\nVery interesting pattern.\n\nThe designers intentionally show:\n\nONE destination.\n\nBIG.\n\nNot:\n\n20 destinations simultaneously.\n\nWhy?\n\nBecause comparison kills momentum.\n\nWhen users see:\n\n```\nBaliSantoriniIcelandJapanMaldivesSwiss Alps\n```\n\nThe brain starts evaluating.\n\nEvaluation is expensive.\n\nThe hero card forces temporary commitment:\n\n```\nFocus on this.Imagine this.Feel this.\n```\n\nOnly later compare.",
+			"styleAttributes":{},
+			"x":1320,
+			"y":117,
+			"width":366,
+			"height":829
+		},
+		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1774,"y":764,"width":516,"height":362},
+		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":2328,"y":688,"width":227,"height":516},
+		{
+			"id":"21042e8b842cdbe7",
+			"type":"text",
+			"text":"## Use Progressive Information Disclosure\n\nObserve destination details.\n\nInitially:\n\n```\nBeautiful imageSmall title\n```\n\nThen:\n\n```\nPreview\n```\n\nThen:\n\n```\nFull destination page\n```\n\nThen:\n\n```\nBook Now\n```\n\nInformation expands alongside commitment.\n\nThis prevents overwhelm.",
+			"styleAttributes":{},
+			"x":1869,
+			"y":36,
+			"width":382,
+			"height":652
 		}
 	],
 	"edges":[
@@ -275,6 +296,61 @@
 			"fromSide":"right",
 			"toNode":"353490e07dfc00ee",
 			"toSide":"left"
+		},
+		{
+			"id":"6a49591cebacf623",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"864bcfa32a5a2d76",
+			"fromSide":"bottom",
+			"toNode":"21042e8b842cdbe7",
+			"toSide":"top"
+		},
+		{
+			"id":"666c4da07e5aeb3b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d080b6d6286c4ff5",
+			"fromSide":"top",
+			"toNode":"21042e8b842cdbe7",
+			"toSide":"bottom"
+		},
+		{
+			"id":"39133d2bfd92a7b5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"82ff7c557679c305",
+			"fromSide":"bottom",
+			"toNode":"21042e8b842cdbe7",
+			"toSide":"top"
+		},
+		{
+			"id":"c4a1953aa9c684e4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f860773db61c67f9",
+			"fromSide":"right",
+			"toNode":"c1864757b79b0933",
+			"toSide":"left"
+		},
+		{
+			"id":"df8fca2a4ace6be0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f860773db61c67f9",
+			"fromSide":"right",
+			"toNode":"19b3bb1be7bf13d5",
+			"toSide":"top"
+		},
+		{
+			"id":"ca5df1b98ef459c0",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6cc27b59408d7bb5",
+			"fromSide":"top",
+			"toNode":"7394cb76d5b179ec",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

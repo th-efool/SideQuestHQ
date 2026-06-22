@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 1735.9197987894331,
-                  "y": -445.92947400934895,
-                  "zoom": -0.3333333333333334
+                  "x": 2029.8579892836492,
+                  "y": 557.9060722403076,
+                  "zoom": -1.3333333333333328
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
