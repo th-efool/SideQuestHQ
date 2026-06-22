@@ -21,16 +21,6 @@
 			"height":400
 		},
 		{
-			"id":"dfa88f5b25b6957d",
-			"type":"text",
-			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
-			"styleAttributes":{},
-			"x":577,
-			"y":-1300,
-			"width":570,
-			"height":540
-		},
-		{
 			"id":"55d13b16103ea5b1",
 			"type":"text",
 			"text":"### The Product Page Has Almost No Navigation\n\nLook carefully.\n\nVery few exits.\n\nVery few distractions.\n\nAlmost everything points toward:\n\n```\nAdd To Cart\n```\n\nThe designers know:\n\nEvery alternative path is a conversion leak.",
@@ -126,16 +116,6 @@
 			"height":680
 		},
 		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":2720,"y":-461,"width":500,"height":375},
-		{
-			"id":"c1864757b79b0933",
-			"type":"text",
-			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
-			"styleAttributes":{},
-			"x":1732,
-			"y":1399,
-			"width":520,
-			"height":720
-		},
 		{"id":"ea71173d91fb2e07","type":"file","file":"zManagment/Media/Pasted image 20260622123912.png","x":880,"y":1420,"width":177,"height":400},
 		{"id":"6cc27b59408d7bb5","type":"file","file":"zManagment/Media/Pasted image 20260622125033.png","x":1072,"y":1433,"width":176,"height":399},
 		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":1272,"y":1433,"width":176,"height":399},
@@ -237,26 +217,6 @@
 		},
 		{"id":"d10dde55c78c78c1","type":"file","file":"zManagment/Media/Pasted image 20260623011303.png","x":-355,"y":1108,"width":581,"height":385},
 		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":2328,"y":688,"width":227,"height":516},
-		{
-			"id":"7b5a16f5ddb14243",
-			"type":"text",
-			"text":"## ==Orange Is Functioning As A Revenue Color==\n\nNotice where orange appears.\n\nNot everywhere.\n\nOnly around:\n\n- Shop Now\n- Buy Now\n- Add To Cart\n- Filters\n\nThis creates a visual hierarchy.\n\nYour eyes unconsciously learn:\n\n```\nOrange=Action\n```\n\nAfter a few minutes users stop reading buttons entirely.\n\nThey just hunt orange.",
-			"styleAttributes":{},
-			"x":2599,
-			"y":688,
-			"width":382,
-			"height":614
-		},
-		{
-			"id":"19b3bb1be7bf13d5",
-			"type":"text",
-			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
-			"styleAttributes":{},
-			"x":2702,
-			"y":1350,
-			"width":541,
-			"height":880
-		},
 		{
 			"id":"cf12474b93f0c3f0",
 			"type":"text",
@@ -390,6 +350,46 @@
 			"y":-720,
 			"width":360,
 			"height":660
+		},
+		{
+			"id":"c1864757b79b0933",
+			"type":"text",
+			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
+			"styleAttributes":{},
+			"x":1731,
+			"y":1301,
+			"width":520,
+			"height":720
+		},
+		{
+			"id":"7b5a16f5ddb14243",
+			"type":"text",
+			"text":"## ==Orange Is Functioning As A Revenue Color==\n\nNotice where orange appears.\n\nNot everywhere.\n\nOnly around:\n\n- Shop Now\n- Buy Now\n- Add To Cart\n- Filters\n\nThis creates a visual hierarchy.\n\nYour eyes unconsciously learn:\n\n```\nOrange=Action\n```\n\nAfter a few minutes users stop reading buttons entirely.\n\nThey just hunt orange.",
+			"styleAttributes":{},
+			"x":2622,
+			"y":646,
+			"width":382,
+			"height":614
+		},
+		{
+			"id":"19b3bb1be7bf13d5",
+			"type":"text",
+			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
+			"styleAttributes":{},
+			"x":2681,
+			"y":1319,
+			"width":378,
+			"height":880
+		},
+		{
+			"id":"dfa88f5b25b6957d",
+			"type":"text",
+			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
+			"styleAttributes":{},
+			"x":660,
+			"y":-1139,
+			"width":570,
+			"height":540
 		}
 	],
 	"edges":[
