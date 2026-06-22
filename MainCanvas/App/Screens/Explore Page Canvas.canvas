@@ -42,36 +42,6 @@
 		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":823,"y":1480,"width":176,"height":399},
 		{"id":"f860773db61c67f9","type":"file","file":"zManagment/Media/Pasted image 20260622125222.png","x":1023,"y":1480,"width":176,"height":399},
 		{
-			"id":"c1864757b79b0933",
-			"type":"text",
-			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
-			"styleAttributes":{},
-			"x":1470,
-			"y":1429,
-			"width":520,
-			"height":720
-		},
-		{
-			"id":"18a6db71e36b3792",
-			"type":"text",
-			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
-			"styleAttributes":{},
-			"x":2080,
-			"y":1789,
-			"width":280,
-			"height":181
-		},
-		{
-			"id":"19b3bb1be7bf13d5",
-			"type":"text",
-			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
-			"styleAttributes":{},
-			"x":2440,
-			"y":1380,
-			"width":541,
-			"height":880
-		},
-		{
 			"id":"80252a2576c937ea",
 			"type":"text",
 			"text":"### The Feed Creates \"Safe Exploration\"\n\nNotice how exploration happens.\n\nYou never fully commit.\n\nYou peek.\n\nYou browse.\n\nYou swipe.\n\nYou preview.\n\nEvery interaction is reversible.\n\nThis is crucial.\n\nBecause travel has massive commitment costs.\n\nThe UI compensates by making discovery feel risk-free.",
@@ -90,16 +60,6 @@
 			"y":-654,
 			"width":320,
 			"height":750
-		},
-		{
-			"id":"dfa88f5b25b6957d",
-			"type":"text",
-			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
-			"styleAttributes":{},
-			"x":-402,
-			"y":1339,
-			"width":570,
-			"height":540
 		},
 		{
 			"id":"7394cb76d5b179ec",
@@ -145,16 +105,6 @@
 		},
 		{"id":"3baf038bed3d386e","type":"file","file":"zManagment/Media/Pasted image 20260622124227.png","x":1640,"y":-479,"width":533,"height":400},
 		{
-			"id":"0b90ae536108b42f",
-			"type":"text",
-			"text":"### Categories Are Emotional, Not Functional\n\nLook at examples:\n\n- Mountain\n- Beach\n- Camp\n\nThese aren't features.\n\nThey're moods.\n\nA better mental model is:\n\n```\nCategory=Desired emotional state\n```\n\nThe user isn't filtering locations.\n\nThey're filtering futures.",
-			"styleAttributes":{},
-			"x":3400,
-			"y":56,
-			"width":380,
-			"height":469
-		},
-		{
 			"id":"353490e07dfc00ee",
 			"type":"text",
 			"text":"## Social Proof Is Delayed\n\nNotice ratings and avatars are tiny.\n\nThis is fascinating.\n\nThe designers know:\n\nEarly-stage discovery is emotional.\n\nLate-stage commitment is rational.\n\nTherefore:\nStage \n1. EmotionStage \n2. ValidationStage \n3. Purchase\n\n==If ratings dominated immediately, they'd interrupt imagination.==",
@@ -176,36 +126,126 @@
 			"width":660,
 			"height":500
 		},
-		{
-			"id":"2144a055364fcda6",
-			"type":"text",
-			"text":"# **\"Get someone from idle browsing → first meaningful action.\"**\nA normal person sees:\n\n> Explore content.\n\nA designer sees:\n\n> Reduce decision-making cost until a user commits.\n\nThe real job isn't discovery.\n\nThe real job is:\n\n**\"Get someone from idle browsing → first meaningful action.\"**\n\nEvery screen here is engineered around that transition.",
-			"styleAttributes":{},
-			"x":3066,
-			"y":626,
-			"width":550,
-			"height":460
-		},
+		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":-771,"y":410,"width":400,"height":300},
 		{
 			"id":"7b5a16f5ddb14243",
 			"type":"text",
 			"text":"## ==Orange Is Functioning As A Revenue Color==\n\nNotice where orange appears.\n\nNot everywhere.\n\nOnly around:\n\n- Shop Now\n- Buy Now\n- Add To Cart\n- Filters\n\nThis creates a visual hierarchy.\n\nYour eyes unconsciously learn:\n\n```\nOrange=Action\n```\n\nAfter a few minutes users stop reading buttons entirely.\n\nThey just hunt orange.",
 			"styleAttributes":{},
-			"x":2600,
-			"y":546,
+			"x":2599,
+			"y":688,
 			"width":382,
 			"height":614
 		},
-		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":-771,"y":410,"width":400,"height":300},
 		{
 			"id":"8018c074bfea81c6",
 			"type":"text",
-			"text":"",
+			"text":"## The Product Card Is Selling Scarcity\n\n#### Look at: ==**50% OFFFlash Sale**==\nVery intentional.\n\nFashion purchases are highly postponable.\n\nThe biggest enemy isn't rejection.\n\nIt's delay.\n\nThe UI constantly communicates:\n\n```\nBuy nownot later\n```\n\nBecause \"later\" often means never.",
 			"styleAttributes":{},
-			"x":2780,
-			"y":80,
-			"width":260,
-			"height":60
+			"x":2660,
+			"y":70,
+			"width":420,
+			"height":510
+		},
+		{
+			"id":"0b90ae536108b42f",
+			"type":"text",
+			"text":"### Categories Are Emotional, Not Functional\n\nLook at examples:\n\n- Mountain\n- Beach\n- Camp\n\nThese aren't features.\n\nThey're moods.\n\nA better mental model is:\n\n```\nCategory=Desired emotional state\n```\n\nThe user isn't filtering locations.\n\nThey're filtering futures.",
+			"styleAttributes":{},
+			"x":3520,
+			"y":63,
+			"width":380,
+			"height":469
+		},
+		{
+			"id":"c1864757b79b0933",
+			"type":"text",
+			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
+			"styleAttributes":{},
+			"x":1111,
+			"y":2169,
+			"width":520,
+			"height":720
+		},
+		{
+			"id":"18a6db71e36b3792",
+			"type":"text",
+			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
+			"styleAttributes":{},
+			"x":1721,
+			"y":2529,
+			"width":280,
+			"height":181
+		},
+		{
+			"id":"19b3bb1be7bf13d5",
+			"type":"text",
+			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
+			"styleAttributes":{},
+			"x":2081,
+			"y":2120,
+			"width":541,
+			"height":880
+		},
+		{
+			"id":"2144a055364fcda6",
+			"type":"text",
+			"text":"# **\"Get someone from idle browsing → first meaningful action.\"**\nA normal person sees:\n\n> Explore content.\n\nA designer sees:\n\n> Reduce decision-making cost until a user commits.\n\nThe real job isn't discovery.\n\nThe real job is:\n\n**\"Get someone from idle browsing → first meaningful action.\"**\n\nEvery screen here is engineered around that transition.",
+			"styleAttributes":{},
+			"x":1311,
+			"y":1339,
+			"width":550,
+			"height":460
+		},
+		{
+			"id":"dfa88f5b25b6957d",
+			"type":"text",
+			"text":"## What SideQuestHQ Should Steal From This\n\nNot the travel cards.\n\nThe aspiration mechanics.\n\nBecause learning is actually closer to travel than most people realize.\n\nA beginner learning screen says:\n\n```\nMachine Learning45 lessons32 hours\n```\n\nA travel-style learning screen says:\n\n```\nBuild your first AI agentSee how ChatGPT actually worksUnderstand the psychology behind habitsLearn enough Japanese to survive Tokyo\n```\n\nThe first sells content.\n\nThe second sells transformation.",
+			"styleAttributes":{},
+			"x":577,
+			"y":-1300,
+			"width":570,
+			"height":540
+		},
+		{
+			"id":"7ca43cd925180ded",
+			"type":"text",
+			"text":"## ==Size Selection Is A Friction Management System==\n\nThis is deeper than it looks.\n\nThe size selector isn't there for choice.\n\nIt's there for commitment.\n\nOnce someone selects:\n\n```\nXL\n```\n\nThey've mentally begun the purchase.\n\nBehavioral economists call this a micro-commitment.\n\nThe interaction changes the user from:\n\n```\nBrowser\n```\n\ninto:\n\n```\nPotential buyer\n```",
+			"styleAttributes":{},
+			"x":3080,
+			"y":688,
+			"width":440,
+			"height":651
+		},
+		{
+			"id":"55d13b16103ea5b1",
+			"type":"text",
+			"text":"### The Product Page Has Almost No Navigation\n\nLook carefully.\n\nVery few exits.\n\nVery few distractions.\n\nAlmost everything points toward:\n\n```\nAdd To Cart\n```\n\nThe designers know:\n\nEvery alternative path is a conversion leak.",
+			"styleAttributes":{},
+			"x":2442,
+			"y":-993,
+			"width":460,
+			"height":400
+		},
+		{
+			"id":"d1c1efeb59503770",
+			"type":"text",
+			"text":"## The Giant Product Image Is Reducing Uncertainty\n\nClothing has an unusually high risk profile.\n\nUsers wonder:\n\n```\nWill it look good?Will it fit?Will I regret it?\n```\n\nThe oversized image exists to reduce uncertainty.\n\nThe image does more trust-building than paragraphs of copy.",
+			"styleAttributes":{},
+			"x":2943,
+			"y":-999,
+			"width":360,
+			"height":413
+		},
+		{
+			"id":"b92b3ae395a25ffa",
+			"type":"text",
+			"text":"# What SideQuestHQ Should Learn From This\n\nNot the ecommerce mechanics.\n\nThe transformation mechanics.\n\nNotice how fashion apps never lead with:\n\n```\n100% cotton320 GSMPolyester blend\n```\n\nThey lead with:\n\n```\nHow you'll feel.\n```\n\nMost learning apps make this mistake.\n\nThey present:\n\n```\n48 lessons32 hours12 modules\n```\n\nThat's equivalent to showing fabric composition.\n\nUsers care about outcomes.\n\nNot inventory.\n\nInstead of:\n\n```\nMachine Learning Cohort42 lessons\n```\n\nThink:\n\n```\nBuild AI projects confidentlyUnderstand how ChatGPT actually worksStop feeling lost when people discuss AIGo from curious to capable\n```\n\nThe fashion app sells a future version of the user.\n\nThe strongest learning products do exactly the same thing.",
+			"styleAttributes":{},
+			"x":2140,
+			"y":-2360,
+			"width":660,
+			"height":1200
 		}
 	],
 	"edges":[
@@ -390,6 +430,51 @@
 			"fromSide":"bottom",
 			"toNode":"8018c074bfea81c6",
 			"toSide":"top"
+		},
+		{
+			"id":"f6b1bd4b01dd7e91",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f860773db61c67f9",
+			"fromSide":"right",
+			"toNode":"2144a055364fcda6",
+			"toSide":"left"
+		},
+		{
+			"id":"16336db2295125db",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9d2d0435689b6aa0",
+			"fromSide":"bottom",
+			"toNode":"7ca43cd925180ded",
+			"toSide":"top"
+		},
+		{
+			"id":"f9f7d3b352a7e121",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9d2d0435689b6aa0",
+			"fromSide":"top",
+			"toNode":"55d13b16103ea5b1",
+			"toSide":"bottom"
+		},
+		{
+			"id":"d3e63acc8aee4a3f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9d2d0435689b6aa0",
+			"fromSide":"top",
+			"toNode":"d1c1efeb59503770",
+			"toSide":"bottom"
+		},
+		{
+			"id":"65030757f1b3aa32",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"9d2d0435689b6aa0",
+			"fromSide":"top",
+			"toNode":"b92b3ae395a25ffa",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{
