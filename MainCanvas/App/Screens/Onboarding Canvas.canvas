@@ -5,116 +5,6 @@
 		{"id":"da7e23f12ccb624b","type":"group","x":1740,"y":-4965,"width":2220,"height":1409,"label":"Making a promise + Login Option / Continue"},
 		{"id":"9608f4838504859c","type":"group","x":2860,"y":-4398,"width":680,"height":842,"label":"Three images that loops in the same screen"},
 		{
-			"id":"349bafc757d3f664",
-			"type":"text",
-			"text":"# Step2a - ",
-			"styleAttributes":{},
-			"x":-1640,
-			"y":-196,
-			"width":260,
-			"height":200
-		},
-		{"id":"fd23847b837849ef","type":"file","file":"zManagment/Media/Pasted image 20260620014424.png","x":-1696,"y":339,"width":389,"height":838},
-		{
-			"id":"b1bb12f530f9d314",
-			"type":"text",
-			"text":"# THEY GET TO KNOW APP FUNCTIONALITY + + SHOW >> TELL - HOW WHAT they WILL BE ACHIEVING IT + ",
-			"styleAttributes":{},
-			"x":-4147,
-			"y":1445,
-			"width":560,
-			"height":248
-		},
-		{
-			"id":"04ab49f9d97859d5",
-			"type":"text",
-			"text":"# Step2b- ",
-			"styleAttributes":{},
-			"x":-2147,
-			"y":1888,
-			"width":260,
-			"height":200
-		},
-		{"id":"8ad58c6214b57e28","type":"file","file":"zManagment/Media/Pasted image 20260620013005.png","x":-1467,"y":-1278,"width":320,"height":691},
-		{"id":"abc34949f10af85e","type":"file","file":"zManagment/Media/Pasted image 20260620013038.png","x":-1228,"y":858,"width":308,"height":665},
-		{
-			"id":"dd01798bd283847e",
-			"type":"text",
-			"text":"# Welcome Screen\n**TAKEAWAY after observing all these apps**\nWHAT IS MUST FOR OUR APP's welcoming screen to have\n1. Tagline & Opener\n2. Get Started / Already Have account",
-			"styleAttributes":{},
-			"x":790,
-			"y":-4569,
-			"width":420,
-			"height":229
-		},
-		{
-			"id":"e61553d3d22cf9d6",
-			"type":"text",
-			"text":"# OBSERVE HOW THEY DIDNT FORCED or said \"THIS APP WILL MAKE YOU DRINK WATER\"  ",
-			"styleAttributes":{},
-			"x":273,
-			"y":-396,
-			"width":500,
-			"height":240
-		},
-		{"id":"ced501546d1c41a4","type":"file","file":"zManagment/Media/Pasted image 20260620010529.png","x":1760,"y":-4945,"width":184,"height":399},
-		{"id":"eb07503a72edb30b","type":"file","file":"zManagment/Media/Pasted image 20260620005740.png","x":2095,"y":-4861,"width":205,"height":443},
-		{"id":"336c9c0ece4e8c3b","type":"file","file":"zManagment/Media/Pasted image 20260620010331.png","x":1813,"y":-2658,"width":1178,"height":473},
-		{"id":"a7c33816437666ac","type":"file","file":"zManagment/Media/Pasted image 20260620010127.png","x":1819,"y":-3130,"width":722,"height":400},
-		{"id":"42ca435275707726","type":"file","file":"zManagment/Media/Pasted image 20260620005628.png","x":1897,"y":-2018,"width":400,"height":276},
-		{"id":"30236e617ad018b3","type":"file","file":"zManagment/Media/Pasted image 20260620005956.png","x":1840,"y":-3501,"width":761,"height":271},
-		{
-			"id":"7c5c2e27ddb3aac7",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":3520,
-			"y":1140,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"cd5d7da73b69ae7b",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":3540,
-			"y":1320,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9e119e6f2aea4db7",
-			"type":"text",
-			"text":"INSPOS",
-			"styleAttributes":{},
-			"x":1000,
-			"y":-4291,
-			"width":120,
-			"height":60
-		},
-		{"id":"8a8bbb7d1173471b","type":"file","file":"zManagment/Media/Pasted image 20260620014424.png","x":-3781,"y":2155,"width":389,"height":838},
-		{
-			"id":"ba43cf935f71d0a3",
-			"type":"text",
-			"text":"# Step2d- ",
-			"styleAttributes":{},
-			"x":-2017,
-			"y":4377,
-			"width":260,
-			"height":200
-		},
-		{
-			"id":"e44476ea8ef14632",
-			"type":"text",
-			"text":"# Step2c- ",
-			"styleAttributes":{},
-			"x":-2017,
-			"y":3808,
-			"width":260,
-			"height":200
-		},
-		{
 			"id":"1de5f34273233dc9",
 			"type":"text",
 			"text":"",
@@ -155,6 +45,100 @@
 			"height":60
 		},
 		{
+			"id":"7337fe77f8734185",
+			"type":"text",
+			"text":"## But you still got understanding of it'll help you track but they didnt framed it as that",
+			"styleAttributes":{},
+			"x":13,
+			"y":2379,
+			"width":440,
+			"height":160
+		},
+		{
+			"id":"349bafc757d3f664",
+			"type":"text",
+			"text":"# Step2a - ",
+			"styleAttributes":{},
+			"x":-1640,
+			"y":-196,
+			"width":260,
+			"height":200
+		},
+		{"id":"fd23847b837849ef","type":"file","file":"zManagment/Media/Pasted image 20260620014424.png","x":-1696,"y":339,"width":389,"height":838},
+		{
+			"id":"b1bb12f530f9d314",
+			"type":"text",
+			"text":"# THEY GET TO KNOW APP FUNCTIONALITY + + SHOW >> TELL - HOW WHAT they WILL BE ACHIEVING IT + ",
+			"styleAttributes":{},
+			"x":-4147,
+			"y":1445,
+			"width":560,
+			"height":248
+		},
+		{"id":"8ad58c6214b57e28","type":"file","file":"zManagment/Media/Pasted image 20260620013005.png","x":-1467,"y":-1278,"width":320,"height":691},
+		{"id":"788577338fd47cd1","type":"file","file":"zManagment/Media/Pasted image 20260620013314.png","x":-1147,"y":-16,"width":340,"height":709},
+		{"id":"aed8a37aa867bb43","type":"file","file":"zManagment/Media/Pasted image 20260620013247.png","x":-1390,"y":2088,"width":413,"height":853},
+		{"id":"61731ff40cd9c36d","type":"file","file":"zManagment/Media/Pasted image 20260620012600.png","x":-1332,"y":3408,"width":355,"height":771},
+		{"id":"c1465f5b71a6a302","type":"file","file":"zManagment/Media/Pasted image 20260620012610.png","x":-1324,"y":4208,"width":340,"height":738},
+		{
+			"id":"dd01798bd283847e",
+			"type":"text",
+			"text":"# Welcome Screen\n**TAKEAWAY after observing all these apps**\nWHAT IS MUST FOR OUR APP's welcoming screen to have\n1. Tagline & Opener\n2. Get Started / Already Have account",
+			"styleAttributes":{},
+			"x":790,
+			"y":-4569,
+			"width":420,
+			"height":229
+		},
+		{"id":"ced501546d1c41a4","type":"file","file":"zManagment/Media/Pasted image 20260620010529.png","x":1760,"y":-4945,"width":184,"height":399},
+		{"id":"eb07503a72edb30b","type":"file","file":"zManagment/Media/Pasted image 20260620005740.png","x":2095,"y":-4861,"width":205,"height":443},
+		{"id":"336c9c0ece4e8c3b","type":"file","file":"zManagment/Media/Pasted image 20260620010331.png","x":1813,"y":-2658,"width":1178,"height":473},
+		{"id":"a7c33816437666ac","type":"file","file":"zManagment/Media/Pasted image 20260620010127.png","x":1819,"y":-3130,"width":722,"height":400},
+		{"id":"42ca435275707726","type":"file","file":"zManagment/Media/Pasted image 20260620005628.png","x":1897,"y":-2018,"width":400,"height":276},
+		{"id":"30236e617ad018b3","type":"file","file":"zManagment/Media/Pasted image 20260620005956.png","x":1840,"y":-3501,"width":761,"height":271},
+		{
+			"id":"9e119e6f2aea4db7",
+			"type":"text",
+			"text":"INSPOS",
+			"styleAttributes":{},
+			"x":1000,
+			"y":-4291,
+			"width":120,
+			"height":60
+		},
+		{
+			"id":"04ab49f9d97859d5",
+			"type":"text",
+			"text":"# Step2b- ",
+			"styleAttributes":{},
+			"x":-2147,
+			"y":1888,
+			"width":260,
+			"height":200
+		},
+		{"id":"abc34949f10af85e","type":"file","file":"zManagment/Media/Pasted image 20260620013038.png","x":-1228,"y":858,"width":308,"height":665},
+		{"id":"8a8bbb7d1173471b","type":"file","file":"zManagment/Media/Pasted image 20260620014424.png","x":-3781,"y":2155,"width":389,"height":838},
+		{
+			"id":"ba43cf935f71d0a3",
+			"type":"text",
+			"text":"# Step2d- ",
+			"styleAttributes":{},
+			"x":-2017,
+			"y":4377,
+			"width":260,
+			"height":200
+		},
+		{
+			"id":"e44476ea8ef14632",
+			"type":"text",
+			"text":"# Step2c- ",
+			"styleAttributes":{},
+			"x":-2017,
+			"y":3808,
+			"width":260,
+			"height":200
+		},
+		{
 			"id":"ae6487c673740321",
 			"type":"text",
 			"text":"# Section 1",
@@ -163,6 +147,40 @@
 			"y":758,
 			"width":560,
 			"height":102
+		},
+		{"id":"80cf184e8ef09030","type":"file","file":"zManagment/Media/Pasted image 20260620013322.png","x":-594,"y":1190,"width":380,"height":771},
+		{"id":"e6e4816c88c39188","type":"file","file":"zManagment/Media/Pasted image 20260620010041.png","x":2440,"y":-4836,"width":360,"height":354},
+		{"id":"5395117b3013f0f2","type":"file","file":"zManagment/Media/Pasted image 20260620010311.png","x":2880,"y":-4060,"width":640,"height":493},
+		{"id":"7f9a6b52398e2cff","type":"file","file":"zManagment/Media/Pasted image 20260620010150.png","x":2920,"y":-4369,"width":400,"height":216},
+		{
+			"id":"e61553d3d22cf9d6",
+			"type":"text",
+			"text":"# OBSERVE HOW THEY DIDNT FORCED or said \"THIS APP WILL MAKE YOU DRINK WATER\"  ",
+			"styleAttributes":{},
+			"x":273,
+			"y":-396,
+			"width":500,
+			"height":240
+		},
+		{
+			"id":"7c5c2e27ddb3aac7",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":3520,
+			"y":1140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cd5d7da73b69ae7b",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":3540,
+			"y":1320,
+			"width":260,
+			"height":60
 		},
 		{
 			"id":"8adab3de189386e4",
@@ -186,9 +204,6 @@
 			"width":440,
 			"height":160
 		},
-		{"id":"788577338fd47cd1","type":"file","file":"zManagment/Media/Pasted image 20260620013314.png","x":-1147,"y":-16,"width":340,"height":709},
-		{"id":"aed8a37aa867bb43","type":"file","file":"zManagment/Media/Pasted image 20260620013247.png","x":-1390,"y":2088,"width":413,"height":853},
-		{"id":"80cf184e8ef09030","type":"file","file":"zManagment/Media/Pasted image 20260620013322.png","x":-594,"y":1190,"width":380,"height":771},
 		{"id":"aa4c355be495f117","type":"file","file":"zManagment/Media/Pasted image 20260620012538.png","x":-543,"y":1988,"width":360,"height":782},
 		{
 			"id":"567f3e5f3f4cdd37",
@@ -200,8 +215,6 @@
 			"width":440,
 			"height":300
 		},
-		{"id":"61731ff40cd9c36d","type":"file","file":"zManagment/Media/Pasted image 20260620012600.png","x":-1332,"y":3408,"width":355,"height":771},
-		{"id":"c1465f5b71a6a302","type":"file","file":"zManagment/Media/Pasted image 20260620012610.png","x":-1324,"y":4208,"width":340,"height":738},
 		{
 			"id":"f50e7f10bf7474d5",
 			"type":"text",
@@ -211,19 +224,6 @@
 			"y":1988,
 			"width":470,
 			"height":329
-		},
-		{"id":"e6e4816c88c39188","type":"file","file":"zManagment/Media/Pasted image 20260620010041.png","x":2440,"y":-4836,"width":360,"height":354},
-		{"id":"5395117b3013f0f2","type":"file","file":"zManagment/Media/Pasted image 20260620010311.png","x":2880,"y":-4060,"width":640,"height":493},
-		{"id":"7f9a6b52398e2cff","type":"file","file":"zManagment/Media/Pasted image 20260620010150.png","x":2920,"y":-4369,"width":400,"height":216},
-		{
-			"id":"7337fe77f8734185",
-			"type":"text",
-			"text":"## But you still got understanding of it'll help you track but they didnt framed it as that",
-			"styleAttributes":{},
-			"x":13,
-			"y":2379,
-			"width":440,
-			"height":160
 		}
 	],
 	"edges":[
