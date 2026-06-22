@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/Untitled.canvas",
+                "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 2641.127823654778,
-                  "y": 30.23302890588434,
-                  "zoom": -0.6666666666666667
+                  "x": 1913.3600846788934,
+                  "y": 21.020818961977874,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Explore Page Canvas"
             }
           }
         ]
@@ -211,6 +211,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260622125350.png",
+    "zManagment/Media/Pasted image 20260622125222.png",
+    "zManagment/Media/Pasted image 20260622125215.png",
     "zManagment/Media/Pasted image 20260622125107.png",
     "zManagment/Media/Pasted image 20260622125033.png",
     "zManagment/Media/Pasted image 20260622124630.png",
@@ -219,20 +222,17 @@
     "zManagment/Media/Pasted image 20260622124539.png",
     "zManagment/Media/Pasted image 20260622124455.png",
     "zManagment/Media/Pasted image 20260622124428.png",
-    "zManagment/Media/Pasted image 20260622124248.png",
-    "zManagment/Media/Pasted image 20260622124242.png",
-    "zManagment/Media/Pasted image 20260622124237.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/App/App Design.canvas",
-    "MainCanvas/App/Screens/Untitled.canvas",
+    "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/Website/Dashboard.md",
-    "MainCanvas/Website/Untitled/Dashboard.md",
-    "MainCanvas/Website/Untitled/SignUp n Onboarding.canvas",
-    "MainCanvas/Website/Untitled",
+    "MainCanvas/Website/Screens/Dashboard.md",
+    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
+    "MainCanvas/Website/Screens",
     "MainCanvas/App/Screens",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Mascots.md",

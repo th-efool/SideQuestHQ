@@ -8,14 +8,14 @@ type: folder_brief_live
 - **[[MainCanvas]]**
   - **App**
     - **Screens**
+      - [[Explore Page Canvas.canvas]]
       - [[Onboarding Canvas.canvas]]
-      - [[Untitled.canvas]]
     - [[App Design.canvas]]
     - [[App Launch.canvas]]
     - [[Building The App.canvas]]
     - [[Designing Addiction.canvas]]
   - **Website**
-    - **Untitled**
+    - **Screens**
       - [[Dashboard]]
       - [[SignUp n Onboarding.canvas]]
     - [[Website Technicalities.canvas]]
