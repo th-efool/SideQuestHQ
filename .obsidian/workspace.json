@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
-                "viewState": {
-                  "x": 6379.714747279023,
-                  "y": 175.63677337967766,
-                  "zoom": 0.4298649169564827
-                }
+                "file": "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Explore Page Canvas"
+              "icon": "lucide-image",
+              "title": "SideQuestHQ_Logo_With_Metadata"
             }
           },
           {
@@ -223,16 +218,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "zManagment/Media/Pasted image 20260623024600.png",
+    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
+    "_AI CONTEXT/Vocabulary Marketing.md",
+    "_AI CONTEXT/NovaPaw_With_Metadata.png",
     "MainCanvas/App/Screens/Explore Page Canvas.canvas",
+    "zManagment/Media/Pasted image 20260623024600.png",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "zManagment/Media/Pasted image 20260623024524.png",
     "zManagment/Media/Pasted image 20260623024448.png",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "_AI CONTEXT/Mascots.md",
-    "_AI CONTEXT/NovaPaw_With_Metadata.png",
     "_AI CONTEXT/Pando_With_Metadata.png",
-    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_AI CONTEXT/Color System.md",
     "zManagment/Media/Pasted image 20260623022225.png",
@@ -259,7 +255,6 @@
     "MainCanvas/App",
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
-    "_AI CONTEXT/Vocabulary Marketing.md",
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Kip/Kip.md",
