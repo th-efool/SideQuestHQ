@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/Untitled.canvas",
                 "viewState": {
-                  "x": -54.239995125306166,
-                  "y": -38.62371215968142,
-                  "zoom": 0.3333333333333334
+                  "x": -502.10292700168077,
+                  "y": 38.48396211755859,
+                  "zoom": 0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "00602f738617e704",
@@ -212,9 +211,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "zManagment/Media/Pasted image 20260622123641.png",
-    "zManagment/Media/Pasted image 20260622123632.png",
-    "zManagment/Media/Pasted image 20260622123615.png",
+    "zManagment/Media/Pasted image 20260622124125.png",
+    "zManagment/Media/Pasted image 20260622124104.png",
+    "zManagment/Media/Pasted image 20260622124057.png",
+    "zManagment/Media/Pasted image 20260622124050.png",
+    "zManagment/Media/Pasted image 20260622124046.png",
+    "zManagment/Media/Pasted image 20260622124042.png",
+    "zManagment/Media/Pasted image 20260622123924.png",
+    "zManagment/Media/Pasted image 20260622123920.png",
+    "zManagment/Media/Pasted image 20260622123915.png",
+    "zManagment/Media/Pasted image 20260622123912.png",
+    "zManagment/Media/Pasted image 20260622123905.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/App/Screens/Untitled.canvas",
@@ -230,15 +237,7 @@
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Mascots.md",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
-    "_AI CONTEXT/Hammy_Character_Sheet_With_Metadata.png",
-    "_AI CONTEXT/Kip_Character_Sheet_With_Metadata.png",
-    "_AI CONTEXT/Pando_With_Metadata.png",
     "LOGO Accurate Description.md",
-    "zManagment/Media/Pasted image 20260621173547.png",
-    "zManagment/Media/Claude Web 2.png",
-    "zManagment/Media/Pasted image 20260621152359.png",
-    "zManagment/Media/Pasted image 20260621152348.png",
-    "zManagment/Media/Pasted image 20260621152137.png",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Website/Website Technicalities.canvas",
     "MainCanvas/App/Designing Addiction.canvas",
