@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-371,"y":360,"width":177,"height":400},
-		{"id":"864bcfa32a5a2d76","type":"file","file":"zManagment/Media/Pasted image 20260622124057.png","x":1520,"y":-200,"width":368,"height":400},
 		{"id":"5a9620bdd21eaf19","type":"file","file":"zManagment/Media/Pasted image 20260622123641.png","x":1832,"y":-1120,"width":177,"height":400},
 		{"id":"a9434668d94de7aa","type":"file","file":"zManagment/Media/Pasted image 20260622123739.png","x":2092,"y":-1100,"width":176,"height":400},
 		{"id":"947f2b6b44efaf2c","type":"file","file":"zManagment/Media/Pasted image 20260622124125.png","x":1352,"y":-1100,"width":374,"height":400},
@@ -14,17 +13,37 @@
 		{"id":"d27ab57d137dec3b","type":"file","file":"zManagment/Media/Pasted image 20260622124455.png","x":4676,"y":-713,"width":177,"height":400},
 		{"id":"f55de2efb26b3874","type":"file","file":"zManagment/Media/Pasted image 20260622124543.png","x":4300,"y":-182,"width":180,"height":409},
 		{"id":"ff0206799e92bd9d","type":"file","file":"zManagment/Media/Pasted image 20260622124604.png","x":4540,"y":-173,"width":177,"height":400},
-		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1730,"y":279,"width":400,"height":281},
 		{"id":"ea71173d91fb2e07","type":"file","file":"zManagment/Media/Pasted image 20260622123912.png","x":400,"y":1240,"width":177,"height":400},
 		{"id":"6cc27b59408d7bb5","type":"file","file":"zManagment/Media/Pasted image 20260622125033.png","x":623,"y":1240,"width":176,"height":399},
 		{"id":"717bf7378efd4c30","type":"file","file":"zManagment/Media/Pasted image 20260622125215.png","x":823,"y":1240,"width":176,"height":399},
 		{"id":"f860773db61c67f9","type":"file","file":"zManagment/Media/Pasted image 20260622125222.png","x":1023,"y":1240,"width":176,"height":399},
-		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":2400,"y":460,"width":176,"height":400},
-		{"id":"a94b8b7c36125709","type":"file","file":"zManagment/Media/Pasted image 20260622125350.png","x":2620,"y":460,"width":177,"height":400},
 		{"id":"555f4841dcb978d8","type":"file","file":"zManagment/Media/Pasted image 20260622123805.png","x":65,"y":-120,"width":164,"height":372},
 		{"id":"0cbec11e4237648f","type":"file","file":"zManagment/Media/Pasted image 20260622123757.png","x":-140,"y":-120,"width":165,"height":373},
 		{"id":"6ea94bb9f67592e6","type":"file","file":"zManagment/Media/Pasted image 20260622123915.png","x":-355,"y":-120,"width":165,"height":373},
-		{"id":"82ff7c557679c305","type":"file","file":"zManagment/Media/Pasted image 20260622124104.png","x":1888,"y":-182,"width":643,"height":382}
+		{"id":"82ff7c557679c305","type":"file","file":"zManagment/Media/Pasted image 20260622124104.png","x":1608,"y":-461,"width":643,"height":382},
+		{"id":"864bcfa32a5a2d76","type":"file","file":"zManagment/Media/Pasted image 20260622124057.png","x":1240,"y":-479,"width":368,"height":400},
+		{"id":"d080b6d6286c4ff5","type":"file","file":"zManagment/Media/Pasted image 20260622124042.png","x":1530,"y":199,"width":400,"height":281},
+		{"id":"c312af03adddeccf","type":"file","file":"zManagment/Media/Pasted image 20260622125107.png","x":1960,"y":140,"width":176,"height":400},
+		{
+			"id":"2144a055364fcda6",
+			"type":"text",
+			"text":"# **\"Get someone from idle browsing → first meaningful action.\"**\nA normal person sees:\n\n> Explore content.\n\nA designer sees:\n\n> Reduce decision-making cost until a user commits.\n\nThe real job isn't discovery.\n\nThe real job is:\n\n**\"Get someone from idle browsing → first meaningful action.\"**\n\nEvery screen here is engineered around that transition.",
+			"styleAttributes":{},
+			"x":1586,
+			"y":580,
+			"width":550,
+			"height":460
+		},
+		{
+			"id":"c6b15786160533e1",
+			"type":"text",
+			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n3. ",
+			"styleAttributes":{},
+			"x":2160,
+			"y":580,
+			"width":660,
+			"height":500
+		}
 	],
 	"edges":[],
 	"metadata":{
