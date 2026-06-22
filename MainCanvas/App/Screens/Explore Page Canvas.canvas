@@ -424,6 +424,7 @@
 			"id":"428cec029f53c84e",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"8bb8b49108cbd003",
 			"fromSide":"top",
 			"toNode":"3a48156017e82236",
