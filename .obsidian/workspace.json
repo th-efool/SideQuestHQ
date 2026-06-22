@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": -334.94980768354304,
-                  "y": 174.9544424107513,
-                  "zoom": 0.3333333333333332
+                  "x": -498.74840632420705,
+                  "y": 738.8573002164288,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -212,6 +212,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260623011303.png",
+    "zManagment/Media/Pasted image 20260623011235.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
@@ -227,7 +229,6 @@
     "zManagment/Media/Pasted image 20260622124604.png",
     "zManagment/Media/Pasted image 20260622124543.png",
     "zManagment/Media/Pasted image 20260622124539.png",
-    "zManagment/Media/Pasted image 20260622124455.png",
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/MainCanvas.md",

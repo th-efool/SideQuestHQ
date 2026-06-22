@@ -1,11 +1,10 @@
 {
 	"nodes":[
 		{"id":"22d06932f4c780b9","type":"group","x":1280,"y":0,"width":1275,"height":1256,"label":"Large Hero Cards"},
+		{"id":"c6f8023046c23760","type":"group","x":-840,"y":340,"width":1106,"height":1200,"label":"Untitled group"},
 		{"id":"8bb8b49108cbd003","type":"group","x":1220,"y":-500,"width":2020,"height":440,"label":"Untitled group"},
 		{"id":"6e295f5964f72650","type":"group","x":380,"y":1460,"width":839,"height":440,"label":"Untitled group"},
-		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-371,"y":360,"width":177,"height":400},
-		{"id":"a6d443bd02e78473","type":"file","file":"zManagment/Media/Pasted image 20260622123835.png","x":-151,"y":360,"width":176,"height":399},
-		{"id":"d268c516012b35c4","type":"file","file":"zManagment/Media/Pasted image 20260622123924.png","x":80,"y":360,"width":176,"height":399},
+		{"id":"f24be5afc775fc0a","type":"group","x":-380,"y":-140,"width":624,"height":413},
 		{"id":"e8f367d3ec761e07","type":"file","file":"zManagment/Media/Pasted image 20260622124428.png","x":4240,"y":-713,"width":350,"height":400},
 		{"id":"d27ab57d137dec3b","type":"file","file":"zManagment/Media/Pasted image 20260622124455.png","x":4676,"y":-713,"width":177,"height":400},
 		{"id":"f55de2efb26b3874","type":"file","file":"zManagment/Media/Pasted image 20260622124543.png","x":4300,"y":-182,"width":180,"height":409},
@@ -62,26 +61,6 @@
 			"height":750
 		},
 		{
-			"id":"7394cb76d5b179ec",
-			"type":"text",
-			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
-			"styleAttributes":{},
-			"x":197,
-			"y":746,
-			"width":380,
-			"height":680
-		},
-		{
-			"id":"7fb4e7fcb04d04cd",
-			"type":"text",
-			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
-			"styleAttributes":{},
-			"x":623,
-			"y":325,
-			"width":560,
-			"height":1029
-		},
-		{
 			"id":"cc568a1d8d771fb3",
 			"type":"text",
 			"text":"## Large Hero Cards Reduce Comparison Fatigue\n\nVery interesting pattern.\n\nThe designers intentionally show:\n\nONE destination.\n\nBIG.\n\nNot:\n\n20 destinations simultaneously.\n\nWhy?\n\nBecause comparison kills momentum.\n\nWhen users see:\n\n```\nBaliSantoriniIcelandJapanMaldivesSwiss Alps\n```\n\nThe brain starts evaluating.\n\nEvaluation is expensive.\n\nThe hero card forces temporary commitment:\n\n```\nFocus on this.Imagine this.Feel this.\n```\n\nOnly later compare.",
@@ -126,7 +105,6 @@
 			"width":660,
 			"height":500
 		},
-		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":-771,"y":410,"width":400,"height":300},
 		{
 			"id":"7b5a16f5ddb14243",
 			"type":"text",
@@ -246,6 +224,62 @@
 			"y":-2360,
 			"width":660,
 			"height":1200
+		},
+		{
+			"id":"7394cb76d5b179ec",
+			"type":"text",
+			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
+			"styleAttributes":{},
+			"x":280,
+			"y":560,
+			"width":380,
+			"height":680
+		},
+		{
+			"id":"7fb4e7fcb04d04cd",
+			"type":"text",
+			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
+			"styleAttributes":{},
+			"x":693,
+			"y":279,
+			"width":560,
+			"height":1029
+		},
+		{
+			"id":"f13046e278a9f8eb",
+			"type":"text",
+			"text":"### Curated > Comprehensive\n\nNotice how little content is shown.\n\nThe GPT Store especially.\n\nInstead of:\n\n```\n10,000 GPTs\n```\n\nYou see:\n\n```\nFeaturedTrendingEditor's Picks\n```\n\nThis is a trust architecture.\n\nThe product is essentially saying:\n\n> Let us narrow the universe for you.\n\nGood exploration screens reduce effort.\n\nBad exploration screens expose inventory.\n\nThe user doesn't want more options.\n\nThey want fewer good options.",
+			"styleAttributes":{},
+			"x":-10,
+			"y":-869,
+			"width":330,
+			"height":649
+		},
+		{
+			"id":"2b14fec4f81bc9af",
+			"type":"text",
+			"text":"### Every Card Answers \"Why Should I Care?\" Immediately\n\nLook at the card structures.\n\nGPT Store:\n\n```\nLogo\nName\nOne-line value proposition\n```\n\nHeadspace:\n\n```\nCategory\nOutcome\n```\n\nApp Store:\n\n```\nApp\nVisual preview\nUse case\n```\n\nNone require investigation.\n\nWithin 2 seconds users can decide:\n\n```\nRelevant\nNot relevant\n```\n\nThe hidden principle:\n\n**Discovery dies when evaluation becomes expensive.**\n\nThe best explore screens compress value into a glance.\n\nThat's particularly relevant for SideQuestHQ.\n\nInstead of:\n\n```\nMachine Learning Cohort\n42 lessons\n```\n\nThink:\n\n```\nBuild your first AI agent\nUnderstand how LLMs actually work\nGo from AI consumer to AI builder\n```\n\nThe card should communicate the transformation before the structure.",
+			"styleAttributes":{},
+			"x":-620,
+			"y":-1390,
+			"width":430,
+			"height":1260
+		},
+		{"id":"646d68f717c7d7f6","type":"file","file":"zManagment/Media/Pasted image 20260622123832.png","x":-372,"y":360,"width":177,"height":400},
+		{"id":"a6d443bd02e78473","type":"file","file":"zManagment/Media/Pasted image 20260622123835.png","x":-152,"y":360,"width":176,"height":399},
+		{"id":"d268c516012b35c4","type":"file","file":"zManagment/Media/Pasted image 20260622123924.png","x":79,"y":360,"width":176,"height":399},
+		{"id":"d10dde55c78c78c1","type":"file","file":"zManagment/Media/Pasted image 20260623011303.png","x":-352,"y":1108,"width":581,"height":385},
+		{"id":"68635f1cb7496a87","type":"file","file":"zManagment/Media/Pasted image 20260623011235.png","x":-264,"y":820,"width":400,"height":225},
+		{"id":"3c0ea62b18c23bc7","type":"file","file":"zManagment/Media/Pasted image 20260622124248.png","x":-920,"y":-21,"width":400,"height":300},
+		{
+			"id":"d236a6e2421843ba",
+			"type":"text",
+			"text":"# IDEAS",
+			"styleAttributes":{},
+			"x":-840,
+			"y":720,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -475,6 +509,42 @@
 			"fromSide":"top",
 			"toNode":"b92b3ae395a25ffa",
 			"toSide":"bottom"
+		},
+		{
+			"id":"bcfa92fa86275ec1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f24be5afc775fc0a",
+			"fromSide":"top",
+			"toNode":"f13046e278a9f8eb",
+			"toSide":"bottom"
+		},
+		{
+			"id":"48568fc4fe50b11e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f24be5afc775fc0a",
+			"fromSide":"right",
+			"toNode":"7394cb76d5b179ec",
+			"toSide":"top"
+		},
+		{
+			"id":"5c0d6011e4b8ef87",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f24be5afc775fc0a",
+			"fromSide":"top",
+			"toNode":"2b14fec4f81bc9af",
+			"toSide":"bottom"
+		},
+		{
+			"id":"38c222b3678086c5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"646d68f717c7d7f6",
+			"fromSide":"left",
+			"toNode":"d236a6e2421843ba",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
