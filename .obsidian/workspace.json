@@ -11,26 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/Website/Website.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "VISUAL ACCURATE DESCRIPTIONS"
-            }
-          },
-          {
-            "id": "79f35eb524e4b24e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_AI CONTEXT/Hammy_Character_Sheet_With_Metadata.png"
-              },
-              "icon": "lucide-image",
-              "title": "Hammy_Character_Sheet_With_Metadata"
+              "icon": "lucide-layout-dashboard",
+              "title": "Website"
             }
           }
         ]
@@ -217,31 +208,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
+    "MainCanvas/Website/Dashboard.md",
+    "MainCanvas/Website/Untitled/Dashboard.md",
+    "MainCanvas/Website/Untitled/SignUp n Onboarding.canvas",
+    "MainCanvas/Website/Website.canvas",
+    "MainCanvas/Website/Untitled",
+    "MainCanvas/App/App Design.canvas",
+    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
+    "MainCanvas/App/Screens",
+    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Mascots.md",
     "MainCanvas/Website/SignUp n Onboarding.canvas",
     "_AI CONTEXT/Hammy_Character_Sheet_With_Metadata.png",
     "_AI CONTEXT/Kip_Character_Sheet_With_Metadata.png",
-    "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Pando_With_Metadata.png",
     "LOGO Accurate Description.md",
     "zManagment/Media/Pasted image 20260621173547.png",
     "zManagment/Media/Claude Web 2.png",
-    "MainCanvas/Website/Dashboard.md",
     "zManagment/Media/Pasted image 20260621152359.png",
     "zManagment/Media/Pasted image 20260621152348.png",
     "zManagment/Media/Pasted image 20260621152137.png",
     "zManagment/Media/Pasted image 20260621152103.png",
     "zManagment/Media/Pasted image 20260621152038.png",
-    "MainCanvas/Website/Website.canvas",
-    "MainCanvas/App/Onboarding Canvas.canvas",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/Website/Website Technicalities.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/App/Designing Addiction.canvas",
-    "MainCanvas/App/App Design.canvas",
     "MainCanvas/App/Building The App.canvas",
     "MainCanvas/App/App Launch.canvas",
     "MainCanvas/Website",
@@ -261,7 +256,6 @@
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "publish/attachments",
     "publish",
-    "MainCanvas/Marketing.canvas",
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
     "UseForSelf(SideQuestHQ)/Finance.md",
@@ -271,8 +265,6 @@
     "Merch Designs/Sticker Designs.md",
     "Merch Designs",
     "Marketing/Marketing Engine B.md",
-    "Marketing/Marketing Engine A.md",
-    "Marketing",
-    "MainCanvas"
+    "Marketing/Marketing Engine A.md"
   ]
 }

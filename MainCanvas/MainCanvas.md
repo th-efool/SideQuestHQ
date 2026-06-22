@@ -7,14 +7,16 @@ type: folder_brief_live
 %% Begin Waypoint %%
 - **[[MainCanvas]]**
   - **App**
+    - **Screens**
+      - [[Onboarding Canvas.canvas]]
     - [[App Design.canvas]]
     - [[App Launch.canvas]]
     - [[Building The App.canvas]]
     - [[Designing Addiction.canvas]]
-    - [[Onboarding Canvas.canvas]]
   - **Website**
-    - [[Dashboard]]
-    - [[SignUp n Onboarding.canvas]]
+    - **Untitled**
+      - [[Dashboard]]
+      - [[SignUp n Onboarding.canvas]]
     - [[Website Technicalities.canvas]]
     - [[Website.canvas]]
   - [[MainCanvas]]
