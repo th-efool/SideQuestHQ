@@ -37,15 +37,84 @@
 		{
 			"id":"c6b15786160533e1",
 			"type":"text",
-			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n3. ",
+			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5.\n\n",
 			"styleAttributes":{},
 			"x":2160,
 			"y":580,
 			"width":660,
 			"height":500
+		},
+		{
+			"id":"cc568a1d8d771fb3",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":1000,
+			"y":560,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7394cb76d5b179ec",
+			"type":"text",
+			"text":"### Search Is Present But De-Emphasized\n\nVery interesting.\n\nSearch exists.\n\nYet it's tiny.\n\nSometimes just an icon.\n\nSometimes hidden behind a bar.\n\nWhy?\n\nBecause discovery products know:\n\n```\nSearch =Known IntentExplore =Unknown Intent\n```\n\nMost users don't know what they want.\n\nThe screen is designed for:\n\n> Help me find something worth wanting.\n\nNot:\n\n> Retrieve something specific.",
+			"styleAttributes":{},
+			"x":3080,
+			"y":900,
+			"width":380,
+			"height":680
+		},
+		{
+			"id":"18a6db71e36b3792",
+			"type":"text",
+			"text":"# HORIZONTAL  vs VERTICAL SCROLL PLAY",
+			"styleAttributes":{},
+			"x":2080,
+			"y":1549,
+			"width":280,
+			"height":181
+		},
+		{
+			"id":"c1864757b79b0933",
+			"type":"text",
+			"text":"# ==The Real Hero Component Is The Horizontal Rail==\n\nNotice:\n\n- story cards\n- collections\n- categories\n- books\n\nEvery screen contains horizontal scrolling.\n\nWhy?\n\nBecause horizontal scrolling creates:\n\n### Low Commitment Discovery\n\nVertical scroll means:\n\n```\nLeave current thingMove elsewhere\n```\n\nHorizontal means:\n\n```\nPeekWithout leaving context\n```\n\nHuge psychological difference.",
+			"styleAttributes":{},
+			"x":1470,
+			"y":1189,
+			"width":520,
+			"height":720
+		},
+		{
+			"id":"19b3bb1be7bf13d5",
+			"type":"text",
+			"text":"# ==They Separate \"Exploration\" And \"Commitment\"==\n\nNotice the funnel.\n\n### Lightweight\n\nStories\n\nCategories\n\nCollections\n\nTags\n\n↓\n\n### Medium\n\nChallenges\n\nBooks\n\nCourses\n\n↓\n\n### Heavy\n\nLong-form learning\n\nReading streaks\n\nPrograms",
+			"styleAttributes":{},
+			"x":2440,
+			"y":1140,
+			"width":541,
+			"height":880
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"4d7321526511c93d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c1864757b79b0933",
+			"fromSide":"right",
+			"toNode":"18a6db71e36b3792",
+			"toSide":"left"
+		},
+		{
+			"id":"688fa33df0e5e9e4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"19b3bb1be7bf13d5",
+			"fromSide":"left",
+			"toNode":"18a6db71e36b3792",
+			"toSide":"right"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
