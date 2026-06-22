@@ -11,12 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png"
+                "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
+                "viewState": {
+                  "x": -73.234796022089,
+                  "y": 555.2906305572831,
+                  "zoom": 0.3333333333333334
+                }
               },
-              "icon": "lucide-image",
-              "title": "SideQuestHQ_Logo_With_Metadata"
+              "icon": "lucide-layout-dashboard",
+              "title": "Explore Page Canvas"
             }
           },
           {
@@ -218,15 +223,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
+    "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
+    "zManagment/Media/Pasted image 20260623024600.png",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_AI CONTEXT/NovaPaw_With_Metadata.png",
     "MainCanvas/App/Screens/Explore Page Canvas.canvas",
-    "zManagment/Media/Pasted image 20260623024600.png",
-    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "zManagment/Media/Pasted image 20260623024524.png",
     "zManagment/Media/Pasted image 20260623024448.png",
-    "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "_AI CONTEXT/Mascots.md",
     "_AI CONTEXT/Pando_With_Metadata.png",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
