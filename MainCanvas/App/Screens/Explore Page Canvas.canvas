@@ -374,11 +374,11 @@
 		{
 			"id":"5de36b99b51dd0db",
 			"type":"text",
-			"text":"### ==Horizontal Rails Are Actually Context Switchers==\n\nMost people think these are categories.\n\nThey're not.\n\n```\nBasketballFootballF1\n```\n\naren't content.\n\nThey're mental modes.\n\nSwitching tabs changes:\n\n```\nidentitylanguageexpectations\n```\n\nThe user enters a different sports universe.",
+			"text":"### ==Horizontal Rails Are Actually Context Switchers==\n\nMost people think these are categories.\n\nThey're not.\n\n```\nBasketball\nFootball\nF1\n```\n\naren't content.\n\nThey're mental modes.\n\nSwitching tabs changes:\n\n```\nidentitylanguageexpectations\n```\n\nThe user enters a different sports universe.",
 			"styleAttributes":{},
 			"x":5100,
 			"y":460,
-			"width":260,
+			"width":460,
 			"height":580
 		},
 		{
@@ -771,6 +771,7 @@
 			"id":"7dbfbd6c24f668f1",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"ff0206799e92bd9d",
 			"fromSide":"bottom",
 			"toNode":"cf12474b93f0c3f0",
