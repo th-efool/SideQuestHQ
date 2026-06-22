@@ -37,7 +37,7 @@
 		{
 			"id":"c6b15786160533e1",
 			"type":"text",
-			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5.\n\n",
+			"text":"## 1. Hide Infinite Possibility Behind Small Choices\n## 2. Frontload Momentum, Not Discovery\n## 3. The White Space Is Doing More Work Than The Content\n## 4. The Designers Are Fighting \"Choice Paralysis\"\n## 5. The ==Hidden Metric They Probably Optimize For== Not: Views,  Not: Time on screen, ==Probably: Time-to-first-action==\n\n",
 			"styleAttributes":{},
 			"x":2160,
 			"y":580,
@@ -93,6 +93,16 @@
 			"y":1140,
 			"width":541,
 			"height":880
+		},
+		{
+			"id":"7fb4e7fcb04d04cd",
+			"type":"text",
+			"text":"# ==The Feed Is Not Organized Around Content==\n\nThis is the deepest observation.\n\nA novice designer sees:\n\n```\ncontent sections\n```\n\nA senior designer sees:\n\n```\nbehavior sections\n```\n\nExample:\n\n### Continue\n\nResume existing behavior.\n\n### Explore\n\nFind new behavior.\n\n### Challenge\n\nCommit to behavior.\n\n### Collection\n\nOrganize behavior.\n\n### Recommended\n\nExpand behavior.",
+			"styleAttributes":{},
+			"x":3520,
+			"y":900,
+			"width":560,
+			"height":1120
 		}
 	],
 	"edges":[
