@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
+                "file": "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
                 "viewState": {
-                  "x": 1158.6834489669836,
-                  "y": 211.02568817974827,
-                  "zoom": -2.0000000000000004
+                  "x": -1085.3878318084412,
+                  "y": -1746.7733702118671,
+                  "zoom": -0.9618278272929728
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Explore Page Canvas"
+              "title": "SignUp n Onboarding"
             }
           }
         ]
@@ -211,6 +211,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/Website/Screens/Dashboard.md",
+    "MainCanvas/Website/Website.canvas",
+    "MainCanvas/Marketing.canvas",
+    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "zManagment/Media/Pasted image 20260622125350.png",
     "zManagment/Media/Pasted image 20260622125222.png",
@@ -222,14 +226,10 @@
     "zManagment/Media/Pasted image 20260622124543.png",
     "zManagment/Media/Pasted image 20260622124539.png",
     "zManagment/Media/Pasted image 20260622124455.png",
-    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/App/App Design.canvas",
-    "MainCanvas/Website/Website.canvas",
-    "MainCanvas/Marketing.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/Website/Dashboard.md",
-    "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "MainCanvas/Website/Screens",
     "MainCanvas/App/Screens",
