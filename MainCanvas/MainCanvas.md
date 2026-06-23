@@ -19,6 +19,7 @@ type: folder_brief_live
   - **Website**
     - **Screens**
       - [[Dashboard]]
+      - [[My Cohorts.canvas]]
       - [[SignUp n Onboarding.canvas]]
     - [[Website Technicalities.canvas]]
     - [[Website.canvas]]

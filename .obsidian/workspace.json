@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/My Cohorts & Cohort Page.canvas",
+                "file": "MainCanvas/Website/Screens/My Cohorts.canvas",
                 "viewState": {
-                  "x": -59.38316348352477,
-                  "y": -274.24884132036055,
-                  "zoom": 0.6666666666666667
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "My Cohorts & Cohort Page"
+              "title": "My Cohorts"
             }
           },
           {
@@ -223,13 +223,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260623054640.png",
+    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
+    "MainCanvas/Website/Screens/My Cohorts.canvas",
+    "MainCanvas/Website/Screens/Coho.md",
+    "MainCanvas/App/Screens/My Cohorts & Cohort Page.canvas",
     "zManagment/Media/Pasted image 20260623053811.png",
     "zManagment/Media/Pasted image 20260623053803.png",
     "zManagment/Media/Pasted image 20260623053800.png",
     "MainCanvas/App/Screens/Untitled.md",
-    "MainCanvas/App/Screens/My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/Screens/Explore Page Canvas.canvas",
-    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "zManagment/Media/Pasted image 20260623024600.png",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
@@ -242,7 +245,6 @@
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_AI CONTEXT/Color System.md",
     "zManagment/Media/Pasted image 20260623022225.png",
-    "zManagment/Media/Pasted image 20260623022125.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
@@ -256,7 +258,6 @@
     "MainCanvas/Website/SignUp n Onboarding.canvas",
     "LOGO Accurate Description.md",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
-    "MainCanvas/Website/Website Technicalities.canvas",
     "MainCanvas/Website",
     "MainCanvas/Untitled.md",
     "MainCanvas/App",
@@ -277,7 +278,6 @@
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
     "publish/home.md",
     "UseForSelf(SideQuestHQ)",
-    "Merch Designs/Sticker Designs.md",
     "Merch Designs"
   ]
 }
