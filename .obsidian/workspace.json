@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b91b71046bcba404",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MainCanvas/App/Screens/4. Chat.canvas",
-                "viewState": {
-                  "x": -214.85316538767694,
-                  "y": 90.91146814976709,
-                  "zoom": 0.6666666666666667
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "4. Chat"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -209,13 +202,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b91b71046bcba404",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/4. Chat.canvas",
     "zManagment/Media/Pasted image 20260623063738.png",
     "zManagment/Media/Pasted image 20260623062535.png",
     "zManagment/Media/Pasted image 20260623060934.png",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-    "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/App Design.canvas",
     "zManagment/Media/Pasted image 20260623060618.png",
@@ -230,7 +223,6 @@
     "zManagment/Media/Pasted image 20260623053803.png",
     "zManagment/Media/Pasted image 20260623053800.png",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
-    "zManagment/Media/Pasted image 20260623024600.png",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_AI CONTEXT/Mascots.md",
