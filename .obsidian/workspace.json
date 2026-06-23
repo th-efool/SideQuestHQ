@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/Chat.canvas",
+                "file": "MainCanvas/App/Screens/4. Chat.canvas",
                 "viewState": {
-                  "x": -20.182371281178234,
-                  "y": 26.994469598887576,
-                  "zoom": 1
+                  "x": -44.58443876725234,
+                  "y": 126.16946264006873,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Chat"
+              "title": "4. Chat"
             }
           }
         ]
@@ -212,8 +212,8 @@
   "active": "b91b71046bcba404",
   "lastOpenFiles": [
     "zManagment/Media/Pasted image 20260623060934.png",
-    "MainCanvas/App/Screens/Explore Page Canvas.canvas",
-    "MainCanvas/App/Screens/Chat.canvas",
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+    "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/App Design.canvas",
     "zManagment/Media/Pasted image 20260623060618.png",
