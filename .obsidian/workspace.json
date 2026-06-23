@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/App/Screens/4. Chat.canvas",
-                "viewState": {
-                  "x": -208,
-                  "y": 40.2578125,
-                  "zoom": 1
-                }
+                "file": "_AI CONTEXT/App Signing/Keystore information.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "4. Chat"
+              "icon": "lucide-file",
+              "title": "Keystore information"
             }
           }
         ]
@@ -211,9 +208,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_AI CONTEXT/App Signing/@agrim00001__sidequesthq.jks",
+    "_AI CONTEXT/App Signing/Keystore information.md",
+    "_AI CONTEXT/App Signing",
+    "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "_AI CONTEXT/ColorPalletePic.png",
-    "MainCanvas/App/Screens/4. Chat.canvas",
     "zManagment/Media/Pasted image 20260623063738.png",
     "zManagment/Media/Pasted image 20260623062535.png",
     "zManagment/Media/Pasted image 20260623060934.png",
@@ -263,8 +263,6 @@
     "_WTF ARE WE/Reframed Positioning.md",
     "_WTF ARE WE/Selling It.md",
     "UseForSelf(SideQuestHQ)/Finance.md",
-    "UseForSelf(SideQuestHQ)/Jayhoovy.md",
-    "UseForSelf(SideQuestHQ)",
-    "Merch Designs"
+    "UseForSelf(SideQuestHQ)"
   ]
 }
