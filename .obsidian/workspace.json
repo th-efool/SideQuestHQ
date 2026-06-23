@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "MainCanvas/App/Screens/4. Chat.canvas",
+                "viewState": {
+                  "x": -208,
+                  "y": 40.2578125,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "4. Chat"
             }
           }
         ]
@@ -204,13 +211,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "_AI CONTEXT/ColorPalletePic.png",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "zManagment/Media/Pasted image 20260623063738.png",
     "zManagment/Media/Pasted image 20260623062535.png",
     "zManagment/Media/Pasted image 20260623060934.png",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/App Design.canvas",
     "zManagment/Media/Pasted image 20260623060618.png",
     "zManagment/Media/Pasted image 20260623055723.png",
@@ -223,7 +230,6 @@
     "zManagment/Media/Pasted image 20260623053811.png",
     "zManagment/Media/Pasted image 20260623053803.png",
     "zManagment/Media/Pasted image 20260623053800.png",
-    "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_AI CONTEXT/Mascots.md",
