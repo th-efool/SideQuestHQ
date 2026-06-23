@@ -11,7 +11,7 @@ type: folder_brief_live
       - [[Explore Page Canvas.canvas]]
       - [[My Cohorts & Cohort Page.canvas]]
       - [[Onboarding Canvas.canvas]]
-      - [[Untitled]]
+      - [[Untitled.canvas]]
     - [[App Design.canvas]]
     - [[App Launch.canvas]]
     - [[Building The App.canvas]]

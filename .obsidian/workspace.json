@@ -8,32 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b91b71046bcba404",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/Website/Screens/My Cohorts.canvas",
+                "file": "MainCanvas/App/Screens/Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -276.29831723143326,
+                  "y": 69.67127299579417,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "My Cohorts"
-            }
-          },
-          {
-            "id": "b91b71046bcba404",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zManagment/Media/Pasted image 20260623024600.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260623024600"
+              "title": "Untitled"
             }
           }
         ]
@@ -221,17 +209,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b91b71046bcba404",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260623055723.png",
+    "MainCanvas/App/Screens/Untitled.md",
+    "MainCanvas/App/Screens/Untitled.canvas",
+    "MainCanvas/App/Screens/Untitled 1.md",
+    "MainCanvas/Website/Screens/My Cohorts.canvas",
     "zManagment/Media/Pasted image 20260623054640.png",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
-    "MainCanvas/Website/Screens/My Cohorts.canvas",
     "MainCanvas/Website/Screens/Coho.md",
     "MainCanvas/App/Screens/My Cohorts & Cohort Page.canvas",
     "zManagment/Media/Pasted image 20260623053811.png",
     "zManagment/Media/Pasted image 20260623053803.png",
     "zManagment/Media/Pasted image 20260623053800.png",
-    "MainCanvas/App/Screens/Untitled.md",
     "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "zManagment/Media/Pasted image 20260623024600.png",
@@ -244,7 +235,6 @@
     "_AI CONTEXT/Pando_With_Metadata.png",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_AI CONTEXT/Color System.md",
-    "zManagment/Media/Pasted image 20260623022225.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
@@ -255,7 +245,6 @@
     "MainCanvas/Website/Dashboard.md",
     "MainCanvas/Website/Screens",
     "MainCanvas/App/Screens",
-    "MainCanvas/Website/SignUp n Onboarding.canvas",
     "LOGO Accurate Description.md",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Website",
@@ -276,7 +265,6 @@
     "_WTF ARE WE/Selling It.md",
     "UseForSelf(SideQuestHQ)/Finance.md",
     "UseForSelf(SideQuestHQ)/Jayhoovy.md",
-    "publish/home.md",
     "UseForSelf(SideQuestHQ)",
     "Merch Designs"
   ]
