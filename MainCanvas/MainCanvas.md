@@ -9,7 +9,9 @@ type: folder_brief_live
   - **App**
     - **Screens**
       - [[Explore Page Canvas.canvas]]
+      - [[My Cohorts & Cohort Page.canvas]]
       - [[Onboarding Canvas.canvas]]
+      - [[Untitled]]
     - [[App Design.canvas]]
     - [[App Launch.canvas]]
     - [[Building The App.canvas]]

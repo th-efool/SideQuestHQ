@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/Explore Page Canvas.canvas",
+                "file": "MainCanvas/App/Screens/My Cohorts & Cohort Page.canvas",
                 "viewState": {
-                  "x": -73.234796022089,
-                  "y": 555.2906305572831,
-                  "zoom": 0.3333333333333334
+                  "x": -59.38316348352477,
+                  "y": -274.24884132036055,
+                  "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Explore Page Canvas"
+              "title": "My Cohorts & Cohort Page"
             }
           },
           {
@@ -223,13 +223,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260623053811.png",
+    "zManagment/Media/Pasted image 20260623053803.png",
+    "zManagment/Media/Pasted image 20260623053800.png",
+    "MainCanvas/App/Screens/Untitled.md",
+    "MainCanvas/App/Screens/My Cohorts & Cohort Page.canvas",
+    "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "zManagment/Media/Pasted image 20260623024600.png",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_AI CONTEXT/NovaPaw_With_Metadata.png",
-    "MainCanvas/App/Screens/Explore Page Canvas.canvas",
     "zManagment/Media/Pasted image 20260623024524.png",
     "zManagment/Media/Pasted image 20260623024448.png",
     "_AI CONTEXT/Mascots.md",
@@ -240,8 +245,6 @@
     "zManagment/Media/Pasted image 20260623022125.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
-    "zManagment/Media/Pasted image 20260623011303.png",
-    "zManagment/Media/Pasted image 20260623011235.png",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/App/App Design.canvas",
@@ -254,7 +257,6 @@
     "LOGO Accurate Description.md",
     "zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4",
     "MainCanvas/Website/Website Technicalities.canvas",
-    "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/Website",
     "MainCanvas/Untitled.md",
     "MainCanvas/App",
@@ -276,7 +278,6 @@
     "publish/home.md",
     "UseForSelf(SideQuestHQ)",
     "Merch Designs/Sticker Designs.md",
-    "Merch Designs",
-    "Marketing/Marketing Engine B.md"
+    "Merch Designs"
   ]
 }

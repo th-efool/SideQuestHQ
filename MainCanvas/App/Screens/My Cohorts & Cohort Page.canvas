@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2c8c757da192114d","type":"file","file":"zManagment/Media/Pasted image 20260623053800.png","x":-179,"y":-40,"width":170,"height":400},
+		{"id":"85ca1041b3b96036","type":"file","file":"zManagment/Media/Pasted image 20260623053811.png","x":-149,"y":-500,"width":140,"height":425}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
