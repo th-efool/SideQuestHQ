@@ -11,17 +11,50 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_AI CONTEXT/App Signing/Keystore information.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/App/Screens/4. Chat.canvas",
+                "viewState": {
+                  "x": -103.99999999999996,
+                  "y": 38.757812499999986,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Keystore information"
+              "icon": "lucide-layout-dashboard",
+              "title": "4. Chat"
+            }
+          },
+          {
+            "id": "3de640ce3f7d1889",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+                "viewState": {
+                  "x": 7084.231752466325,
+                  "y": -135.64669377053934,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2. Explore Page Canvas"
+            }
+          },
+          {
+            "id": "280efebdb7f199dd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zManagment/Media/Pasted image 20260623022125.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260623022125"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,21 +239,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "280efebdb7f199dd",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
+    "MainCanvas/App/Screens/4. Chat.canvas",
+    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
+    "zManagment/Media/Pasted image 20260623063738.png",
+    "_AI CONTEXT/App Signing/Keystore information.md",
     "policy/index.md",
     "policy",
-    "_AI CONTEXT/App Signing/Keystore information.md",
     "_AI CONTEXT/App Signing/upload_certificate.pem",
     "_AI CONTEXT/App Signing/@agrim00001__sidequesthq.jks",
     "_AI CONTEXT/App Signing",
-    "MainCanvas/App/Screens/4. Chat.canvas",
-    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "_AI CONTEXT/ColorPalletePic.png",
-    "zManagment/Media/Pasted image 20260623063738.png",
     "zManagment/Media/Pasted image 20260623062535.png",
     "zManagment/Media/Pasted image 20260623060934.png",
-    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/App Design.canvas",
     "zManagment/Media/Pasted image 20260623060618.png",
     "zManagment/Media/Pasted image 20260623055723.png",
@@ -238,7 +272,6 @@
     "_AI CONTEXT/Mascots.md",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_AI CONTEXT/Color System.md",
-    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Marketing.canvas",
@@ -262,7 +295,6 @@
     "_AI CONTEXT",
     "_Assets Img Anim/zMerch/Casual Merch Ideas.md",
     "_WTF ARE WE/Reframed Positioning.md",
-    "_WTF ARE WE/Selling It.md",
-    "UseForSelf(SideQuestHQ)/Finance.md"
+    "_WTF ARE WE/Selling It.md"
   ]
 }
