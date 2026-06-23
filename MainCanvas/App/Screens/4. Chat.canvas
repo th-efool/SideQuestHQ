@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"81c6ba618926609c","type":"file","file":"zManagment/Media/Pasted image 20260623062535.png","x":-513,"y":-160,"width":193,"height":400},
-		{"id":"01efe42abaedc60f","type":"file","file":"zManagment/Media/Pasted image 20260623055723.png","x":-40,"y":-180,"width":200,"height":400}
+		{"id":"01efe42abaedc60f","type":"file","file":"zManagment/Media/Pasted image 20260623055723.png","x":-40,"y":-180,"width":200,"height":400},
+		{"id":"8f5d4377e2193e6a","type":"file","file":"zManagment/Media/Pasted image 20260623063738.png","x":-300,"y":-160,"width":194,"height":400}
 	],
 	"edges":[],
 	"metadata":{
