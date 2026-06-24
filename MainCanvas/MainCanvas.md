@@ -6,7 +6,7 @@ type: folder_brief_live
  
 %% Begin Waypoint %%
 - **[[MainCanvas]]**
-  - **App**
+  - **[[App]]**
     - **Screens**
       - [[2. Explore Page Canvas.canvas]]
       - [[3. My Cohorts & Cohort Page.canvas]]
@@ -14,8 +14,11 @@ type: folder_brief_live
       - [[Onboarding Canvas.canvas]]
     - [[App Design.canvas]]
     - [[App Launch.canvas]]
+    - [[App]]
     - [[Building The App.canvas]]
     - [[Designing Addiction.canvas]]
+    - [[NavButtonsBottom]]
+    - [[Untitled]]
   - **Website**
     - **Screens**
       - [[Dashboard]]
