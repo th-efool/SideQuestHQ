@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/Untitled.canvas",
+                "file": "MainCanvas/App/Screens/Screensz.canvas",
                 "viewState": {
                   "x": 991.0000000000002,
                   "y": -86.14843750000004,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Screensz"
             }
           },
           {
@@ -229,7 +229,7 @@
     "zManagment/Media/Pasted image 20260624202317.png",
     "zManagment/Media/Pasted image 20260624202306.png",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-    "MainCanvas/App/Screens/Untitled.canvas",
+    "MainCanvas/App/Screens/Screensz.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Screens/Dashboard.canvas",
     "zManagment/Media/Pasted image 20260624202152.png",
