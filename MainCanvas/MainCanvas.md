@@ -18,7 +18,7 @@ type: folder_brief_live
     - [[Building The App.canvas]]
     - [[Designing Addiction.canvas]]
     - [[NavButtonsBottom]]
-    - [[Untitled]]
+    - [[NavButtonsTop]]
   - **Website**
     - **Screens**
       - [[Dashboard]]

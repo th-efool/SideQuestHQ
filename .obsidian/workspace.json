@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/App/Designing Addiction.canvas",
-                "viewState": {
-                  "x": -800,
-                  "y": 6572,
-                  "zoom": -4
-                }
+                "file": "MainCanvas/App/NavButtonsTop.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Designing Addiction"
+              "icon": "lucide-file",
+              "title": "NavButtonsTop"
             }
           }
         ]
@@ -211,9 +208,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MainCanvas/App/Untitled.md",
     "MainCanvas/App/NavButtonsBottom.md",
+    "MainCanvas/App/Untitled.md",
+    "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/App.md",
+    "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "zManagment/Media/Pasted image 20260623022125.png",
@@ -248,7 +247,6 @@
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Marketing.canvas",
-    "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/Website/Dashboard.md",
     "MainCanvas/Website/Screens",
@@ -265,7 +263,6 @@
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
     "_Assets Img Anim/_Assets Img Anim.md",
-    "_AI CONTEXT",
-    "_Assets Img Anim/zMerch/Casual Merch Ideas.md"
+    "_AI CONTEXT"
   ]
 }
