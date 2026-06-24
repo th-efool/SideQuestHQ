@@ -13,48 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/4. Chat.canvas",
-                "viewState": {
-                  "x": -103.99999999999996,
-                  "y": 38.757812499999986,
-                  "zoom": 1
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "4. Chat"
-            }
-          },
-          {
-            "id": "3de640ce3f7d1889",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
                 "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 7084.231752466325,
-                  "y": -135.64669377053934,
-                  "zoom": 1
+                  "x": 1165.346491867073,
+                  "y": 1624.66646294715,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "2. Explore Page Canvas"
             }
-          },
-          {
-            "id": "280efebdb7f199dd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zManagment/Media/Pasted image 20260623022125.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260623022125"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,10 +209,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "280efebdb7f199dd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
+    "zManagment/Media/Pasted image 20260623022125.png",
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "zManagment/Media/Pasted image 20260623063738.png",
@@ -266,7 +237,6 @@
     "MainCanvas/Website/Screens/Coho.md",
     "zManagment/Media/Pasted image 20260623053811.png",
     "zManagment/Media/Pasted image 20260623053803.png",
-    "zManagment/Media/Pasted image 20260623053800.png",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
     "_AI CONTEXT/Vocabulary Marketing.md",
     "_AI CONTEXT/Mascots.md",
