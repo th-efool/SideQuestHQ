@@ -11,29 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MainCanvas/App/Screens/Screensz.canvas",
-                "viewState": {
-                  "x": 991.0000000000002,
-                  "y": -86.14843750000004,
-                  "zoom": -1.1102230246251565e-16
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Screensz"
-            }
-          },
-          {
-            "id": "387da1acdba9e264",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "zManagment/Media/Pasted image 20260623022225.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260623022225"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -223,13 +204,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/Screensz.canvas",
     "zManagment/Media/Pasted image 20260624202434.png",
     "zManagment/Media/Pasted image 20260624202343.png",
     "zManagment/Media/Pasted image 20260624202331.png",
     "zManagment/Media/Pasted image 20260624202317.png",
     "zManagment/Media/Pasted image 20260624202306.png",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-    "MainCanvas/App/Screens/Screensz.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Screens/Dashboard.canvas",
     "zManagment/Media/Pasted image 20260624202152.png",
@@ -237,7 +218,6 @@
     "zManagment/Media/Pasted image 20260624202127.png",
     "zManagment/Media/Pasted image 20260624202000.png",
     "zManagment/Media/Pasted image 20260624201940.png",
-    "zManagment/Media/Pasted image 20260624201931.png",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/NavButtonsTop.md",
