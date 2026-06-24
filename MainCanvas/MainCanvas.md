@@ -12,6 +12,7 @@ type: folder_brief_live
       - [[3. My Cohorts & Cohort Page.canvas]]
       - [[4. Chat.canvas]]
       - [[Onboarding Canvas.canvas]]
+      - [[Untitled.canvas]]
     - [[App Design.canvas]]
     - [[App Launch.canvas]]
     - [[App]]
@@ -21,6 +22,7 @@ type: folder_brief_live
     - [[NavButtonsTop]]
   - **Website**
     - **Screens**
+      - [[Dashboard.canvas]]
       - [[Dashboard]]
       - [[My Cohorts.canvas]]
       - [[SignUp n Onboarding.canvas]]

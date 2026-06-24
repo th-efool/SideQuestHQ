@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+                "file": "MainCanvas/App/Screens/Untitled.canvas",
                 "viewState": {
-                  "x": 1284.4739410267996,
-                  "y": -1818.9867317113096,
-                  "zoom": -0.6666666666666667
+                  "x": 991.0000000000002,
+                  "y": -86.14843750000004,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "2. Explore Page Canvas"
+              "title": "Untitled"
             }
           },
           {
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "00602f738617e704",
@@ -224,18 +223,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260624202434.png",
+    "zManagment/Media/Pasted image 20260624202343.png",
+    "zManagment/Media/Pasted image 20260624202331.png",
+    "zManagment/Media/Pasted image 20260624202317.png",
+    "zManagment/Media/Pasted image 20260624202306.png",
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+    "MainCanvas/App/Screens/Untitled.canvas",
+    "MainCanvas/Website/Screens/Dashboard.md",
+    "MainCanvas/Website/Screens/Dashboard.canvas",
+    "zManagment/Media/Pasted image 20260624202152.png",
     "zManagment/Media/Pasted image 20260624202137.png",
     "zManagment/Media/Pasted image 20260624202127.png",
     "zManagment/Media/Pasted image 20260624202000.png",
     "zManagment/Media/Pasted image 20260624201940.png",
     "zManagment/Media/Pasted image 20260624201931.png",
-    "zManagment/Media/Pasted image 20260624201839.png",
-    "zManagment/Media/Pasted image 20260624201830.png",
-    "zManagment/Media/Pasted image 20260624201818.png",
-    "zManagment/Media/Pasted image 20260624201809.png",
-    "zManagment/Media/Pasted image 20260624201758.png",
-    "zManagment/Media/Pasted image 20260624201750.png",
-    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/NavButtonsTop.md",
@@ -261,9 +263,6 @@
     "_AI CONTEXT/Mascots.md",
     "_AI CONTEXT/Character Constraints & Non-Negotiable Visual Constraints.md",
     "_AI CONTEXT/Color System.md",
-    "MainCanvas/Website/Screens/Dashboard.md",
-    "MainCanvas/Website/Website.canvas",
-    "MainCanvas/Marketing.canvas",
     "MainCanvas/MainCanvas.md",
     "MainCanvas/Website/Dashboard.md",
     "MainCanvas/Website/Screens",
