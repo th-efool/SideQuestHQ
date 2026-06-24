@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_AI CONTEXT/ANiMATED SHOT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ANiMATED SHOT"
             }
           }
         ]
@@ -204,6 +208,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_AI CONTEXT/ANiMATED SHOT.md",
     "MainCanvas/App/Screens/Screensz.canvas",
     "zManagment/Media/Pasted image 20260624202434.png",
     "zManagment/Media/Pasted image 20260624202343.png",
