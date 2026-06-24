@@ -415,7 +415,19 @@
 		},
 		{"id":"963ac76c90e6d90d","type":"file","file":"zManagment/Media/Pasted image 20260623024600.png","x":6260,"y":-200,"width":260,"height":549},
 		{"id":"149a98f0e3968c11","type":"file","file":"zManagment/Media/Pasted image 20260623022225.png","x":6520,"y":-200,"width":260,"height":549},
-		{"id":"433b1615a9f1f75d","type":"file","file":"zManagment/Media/Pasted image 20260624184955.png","x":5440,"y":91,"width":400,"height":239}
+		{"id":"433b1615a9f1f75d","type":"file","file":"zManagment/Media/Pasted image 20260624184955.png","x":5440,"y":91,"width":400,"height":239},
+		{"id":"34952bab0c30fa32","type":"file","file":"zManagment/Media/Pasted image 20260624201750.png","x":1507,"y":-1439,"width":400,"height":300},
+		{"id":"645ff79dce993d0f","type":"file","file":"zManagment/Media/Pasted image 20260624201758.png","x":1960,"y":-1360,"width":400,"height":300},
+		{"id":"4e6f3d29e4f9e6f4","type":"file","file":"zManagment/Media/Pasted image 20260624201809.png","x":2442,"y":-1360,"width":400,"height":300},
+		{"id":"391d7b0a4c9c43e8","type":"file","file":"zManagment/Media/Pasted image 20260624201818.png","x":1040,"y":-1510,"width":400,"height":300},
+		{"id":"82e4b2829868cb76","type":"file","file":"zManagment/Media/Pasted image 20260624201830.png","x":2743,"y":-1660,"width":400,"height":300},
+		{"id":"3f5b60633126b1ae","type":"file","file":"zManagment/Media/Pasted image 20260624201839.png","x":3020,"y":-1347,"width":400,"height":307},
+		{"id":"895381482ca50ce0","type":"file","file":"zManagment/Media/Pasted image 20260624201931.png","x":3303,"y":-2040,"width":400,"height":300},
+		{"id":"11bce4526a6ac774","type":"file","file":"zManagment/Media/Pasted image 20260624201940.png","x":2743,"y":-2040,"width":400,"height":300},
+		{"id":"fdb296893a801118","type":"file","file":"zManagment/Media/Pasted image 20260624202000.png","x":1840,"y":-1890,"width":400,"height":300},
+		{"id":"9a9d2f013a28cfa9","type":"link","url":"https://cdn.dribbble.com/userupload/17078728/file/original-35fe81f7c7536745af0bc86be6698c4d.png?resize=752x&vertical=center","x":1280,"y":-2280,"width":400,"height":400},
+		{"id":"6ae868d1d7be8242","type":"file","file":"zManagment/Media/Pasted image 20260624202127.png","x":640,"y":-1890,"width":400,"height":300},
+		{"id":"8b917b99d5ed5688","type":"file","file":"zManagment/Media/Pasted image 20260624202137.png","x":2040,"y":-2380,"width":802,"height":602}
 	],
 	"edges":[
 		{
