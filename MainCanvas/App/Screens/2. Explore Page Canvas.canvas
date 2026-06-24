@@ -228,7 +228,6 @@
 			"width":360,
 			"height":580
 		},
-		{"id":"963ac76c90e6d90d","type":"file","file":"zManagment/Media/Pasted image 20260623024600.png","x":6340,"y":-200,"width":260,"height":549},
 		{
 			"id":"08d021592849811d",
 			"type":"text",
@@ -239,7 +238,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"149a98f0e3968c11","type":"file","file":"zManagment/Media/Pasted image 20260623022225.png","x":6640,"y":-160,"width":190,"height":400},
 		{"id":"b3854fb70e192e60","type":"file","file":"zManagment/Media/Pasted image 20260623022125.png","x":6860,"y":-159,"width":185,"height":400},
 		{"id":"7edb261a2bb2d28e","type":"file","file":"zManagment/Media/Pasted image 20260623024448.png","x":7060,"y":-159,"width":185,"height":400},
 		{"id":"a9434668d94de7aa","type":"file","file":"zManagment/Media/Pasted image 20260622123739.png","x":5234,"y":-40,"width":176,"height":400},
@@ -414,7 +412,9 @@
 			"y":36,
 			"width":360,
 			"height":424
-		}
+		},
+		{"id":"963ac76c90e6d90d","type":"file","file":"zManagment/Media/Pasted image 20260623024600.png","x":6260,"y":-200,"width":260,"height":549},
+		{"id":"149a98f0e3968c11","type":"file","file":"zManagment/Media/Pasted image 20260623022225.png","x":6520,"y":-200,"width":260,"height":549}
 	],
 	"edges":[
 		{
