@@ -15,16 +15,29 @@
               "state": {
                 "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 6559.136849546151,
-                  "y": 86.9950282802076,
+                  "x": 6815.730910787717,
+                  "y": 58.94794941317487,
                   "zoom": 0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "2. Explore Page Canvas"
             }
+          },
+          {
+            "id": "387da1acdba9e264",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zManagment/Media/Pasted image 20260623022225.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260623022225"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "00602f738617e704",
@@ -209,8 +223,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "387da1acdba9e264",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/NavButtonsTop.md",
@@ -218,7 +233,6 @@
     "MainCanvas/App/Untitled.md",
     "MainCanvas/App/App.md",
     "MainCanvas/App/Designing Addiction.canvas",
-    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "zManagment/Media/Pasted image 20260623022125.png",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "zManagment/Media/Pasted image 20260623063738.png",
