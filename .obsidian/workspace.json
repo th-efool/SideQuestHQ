@@ -15,9 +15,9 @@
               "state": {
                 "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
                 "viewState": {
-                  "x": 6815.730910787717,
-                  "y": 58.94794941317487,
-                  "zoom": 0.6666666666666667
+                  "x": 4096.983004852572,
+                  "y": 859.5968069910448,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -36,8 +36,7 @@
               "title": "Pasted image 20260623022225"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +222,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "387da1acdba9e264",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260623022225.png",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
