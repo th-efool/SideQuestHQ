@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MainCanvas/App/NavButtonsTop.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+                "viewState": {
+                  "x": 4097.332459206646,
+                  "y": 880.8268109255843,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "NavButtonsTop"
+              "icon": "lucide-layout-dashboard",
+              "title": "2. Explore Page Canvas"
             }
           }
         ]
@@ -208,15 +211,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
+    "MainCanvas/App/Screens/4. Chat.canvas",
+    "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
-    "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/App.md",
     "MainCanvas/App/Designing Addiction.canvas",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "zManagment/Media/Pasted image 20260623022125.png",
-    "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "zManagment/Media/Pasted image 20260623063738.png",
     "_AI CONTEXT/App Signing/Keystore information.md",
@@ -262,7 +265,6 @@
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Kip/Kip.md",
     "_Assets Img Anim/Hammy/Hammy.md",
-    "_Assets Img Anim/_Assets Img Anim.md",
     "_AI CONTEXT"
   ]
 }
