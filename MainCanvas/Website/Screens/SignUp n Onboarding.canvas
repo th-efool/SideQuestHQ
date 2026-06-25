@@ -6,60 +6,6 @@
 		{"id":"5c2d3dc64428563d","type":"group","x":400,"y":-4840,"width":2640,"height":563,"label":"Type 2"},
 		{"id":"4d0146571efefd47","type":"group","x":1720,"y":-3620,"width":2080,"height":700,"color":"3","label":"Type 3"},
 		{"id":"7b5af69a659a05f0","type":"group","x":-1800,"y":-3930,"width":960,"height":620,"color":"1","label":"ANIMATED"},
-		{"id":"3c789c6e2ca806bb","type":"file","file":"zManagment/Media/Claude Web 2.png","x":-1826,"y":-1983,"width":820,"height":512,"color":"3"},
-		{"id":"399c91460d174e9c","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":-1826,"y":-3255,"width":889,"height":555},
-		{"id":"ad34448eba7d4372","type":"file","file":"zManagment/Media/Matter Web 2.png","x":-1826,"y":-2560,"width":793,"height":495},
-		{"id":"d7ec5a71c4533f89","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":-1780,"y":-3900,"width":880,"height":550},
-		{
-			"id":"74e60c9523754cd0",
-			"type":"text",
-			"text":"# The User Is Already Mentally Using The Product\n\nClaude is the strongest example.\n\nThe workspace preview lets me imagine:\n\n```\nmy projectmy documentmy workflow\n```\n\nbefore I've even typed my email.\n\nThat is essentially free product adoption happening before signup.",
-			"styleAttributes":{},
-			"x":-900,
-			"y":-1220,
-			"width":400,
-			"height":420
-		},
-		{
-			"id":"fbf4ab9de7235c47",
-			"type":"text",
-			"text":"## Motion Creates Perceived Product Depth\n\nThis is subtle.\n\nSuppose two products are identical.\n\nProduct A:\n\n```\nstatic screenshot\n```\n\nProduct B:\n\n```\nmoving ecosystem preview\n```\n\nPeople consistently perceive Product B as:\n\n```\nlargermore sophisticatedmore valuable\n```\n\nEven when functionality is identical.\n\nWhy?\n\nBecause movement implies systems.\n\nStatic implies pages.\n\nMotion implies an engine.",
-			"styleAttributes":{},
-			"x":-1520,
-			"y":-5020,
-			"width":520,
-			"height":667
-		},
-		{
-			"id":"5f8c05b87ba59937",
-			"type":"text",
-			"text":"## The User Has No Mental Model Yet\n\nThis is especially important for SideQuestHQ.\n\nFor known products:\n\n```\nSlackDiscordLinkedIn\n```\n\npeople already know what happens after signup.\n\nFor new categories:\n\n```\nMobbinSideQuestHQNovel SaaS\n```\n\nthey don't.\n\nThe biggest anxiety becomes:\n\n> What happens after I create this account?\n\nAnimation answers that before the question fully forms.",
-			"styleAttributes":{},
-			"x":-686,
-			"y":-5180,
-			"width":380,
-			"height":740
-		},
-		{
-			"id":"77bd5c0b0275faec",
-			"type":"text",
-			"text":"## Motion Creates Momentum Before Signup\n\nPeople underestimate this.\n\nA static page feels:\n\n```\nstopped\n```\n\nA moving page feels:\n\n```\nalready in progress\n```\n\nHumans naturally want to join moving things.\n\nThis is why:\n\n```\ncrowds attract crowdsbusy restaurants attract peopleactive communities attract members\n```\n\nMotion creates the feeling:\n\n```\nsomething is happening here\n```",
-			"styleAttributes":{},
-			"x":-120,
-			"y":-5020,
-			"width":260,
-			"height":780
-		},
-		{
-			"id":"c454611c3e604983",
-			"type":"text",
-			"text":"## These Animations Are Not Explaining\n\nThey're Signaling.\n\nBig distinction.\n\nA founder thinks:\n\n> I need users to understand everything.\n\nVeteran designer thinks:\n\n> I need users to believe something valuable exists behind this door.\n\nThe animation isn't teaching.\n\nIt's creating confidence.",
-			"styleAttributes":{},
-			"x":-2000,
-			"y":-5020,
-			"width":440,
-			"height":560
-		},
 		{
 			"id":"27505d17a56f8b42",
 			"type":"text",
@@ -71,20 +17,6 @@
 			"height":620
 		},
 		{
-			"id":"66410c35ee29281b",
-			"type":"text",
-			"text":"# The Background Is Doing Narrative Work\n\nLet's classify them.\n\n### Matter\n\nBackground shows:\n\n```\ncommunity activity\n```\n\nNarrative:\n\n```\njoin the conversation\n```\n\n---\n\n### Claude\n\nBackground shows:\n\n```\nworkspace\nartifacts\ncreation\n```\n\nNarrative:\n\n```\nbuild things\n```",
-			"styleAttributes":{},
-			"x":-2660,
-			"y":-2620,
-			"width":660,
-			"height":787
-		},
-		{"id":"81d0a6dd3c63512f","type":"file","file":"zManagment/Media/Pasted image 20260620115306.png","x":-1429,"y":-416,"width":892,"height":544},
-		{"id":"30cd75e22b825547","type":"file","file":"zManagment/Media/Pasted image 20260621123500.png","x":-700,"y":-2608,"width":785,"height":491},
-		{"id":"0ed0a3262c7fe3a4","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":-700,"y":-3220,"width":785,"height":490},
-		{"id":"79a1e7264bf14afc","type":"file","file":"zManagment/Media/ElevenLabs Web 3.png","x":-700,"y":-1961,"width":786,"height":490},
-		{
 			"id":"2f00469f6c3efde7",
 			"type":"text",
 			"text":"# What A Senior Product Designer Would Notice For SideQuestHQ\n\nThese examples reveal something important:\n\n**SideQuestHQ should not show learning paths on the signup screen.**\n\nThat's the equivalent of showing database tables.\n\nIt's internal structure.\n\nNot desire.\n\nMost founders would showcase:\n\n```\ncohort cardsprogress barslearning graphadaptive scheduler\n```\n\nThose are mechanisms.\n\nNot outcomes.\n\n---\n\nThe real emotional outcome in SideQuestHQ is:\n\n```\nI finally finished something.\n```\n\nEverything in your positioning points toward that.",
@@ -93,37 +25,6 @@
 			"y":-720,
 			"width":680,
 			"height":720
-		},
-		{
-			"id":"c4edcc510d2a51d1",
-			"type":"text",
-			"text":"# ==Labels Above Fields Are Disappearing==\n\n==Many modern forms rely heavily on placeholders.==\n\nThis isn't always better UX.\n\nBut it reveals something:\n\nDesigners are trying to reduce visual density.\n\nThey're trading explicitness for simplicity.\n\nVeterans know:\n\n```\nLow frictionvsHigh clarity\n```\n\nis a constant tradeoff.",
-			"styleAttributes":{},
-			"x":-2740,
-			"y":160,
-			"width":520,
-			"height":472
-		},
-		{
-			"id":"1d141b9562d33bac",
-			"type":"text",
-			"text":"# ==The highest-leverage insight for SideQuestHQ==\n\nA veteran UX designer would likely conclude:\n\n**The first signup screen should not start with account creation.**\n\nIt should start with identity and intent.\n\nNot:\n\n```\nEmailPasswordCreate account\n```\n\nBut:\n\n```\nWhat do you want to finish learning?\n```\n\nBecause your product promise is not:\n\n> Create an account.\n\nYour product promise is:\n\n> Continue the thing you keep postponing.\n\nThe moment a user types:\n\n```\nMachine Learning Playlist\nGerman\nPsychology\nSystem Design\n```",
-			"styleAttributes":{},
-			"x":-2086,
-			"y":180,
-			"width":520,
-			"height":760
-		},
-		{"id":"7bc8b48d27a2b7b3","type":"file","file":"zManagment/Media/Pasted image 20260621144009.png","x":-5780,"y":-2407,"width":843,"height":524},
-		{
-			"id":"47b640cd8abb0ad5",
-			"type":"text",
-			"text":"### Gifting Platform\n\nBackground shows:\n\n```\nbeautiful products\n```\n\nNarrative:\n\n```\ndiscover gifts\n```\n\n---\n\n### ElevenLabs\n\nBackground shows:\n\n```\nvoice cards\ngenerated outputs\n```\n\nNarrative:\n\n```\ncreate voices\n```\n",
-			"styleAttributes":{},
-			"x":400,
-			"y":-2362,
-			"width":400,
-			"height":602
 		},
 		{
 			"id":"f79e09e0077a9331",
@@ -146,6 +47,30 @@
 			"height":100
 		},
 		{
+			"id":"66410c35ee29281b",
+			"type":"text",
+			"text":"# The Background Is Doing Narrative Work\n\nLet's classify them.\n\n### Matter\n\nBackground shows:\n\n```\ncommunity activity\n```\n\nNarrative:\n\n```\njoin the conversation\n```\n\n---\n\n### Claude\n\nBackground shows:\n\n```\nworkspace\nartifacts\ncreation\n```\n\nNarrative:\n\n```\nbuild things\n```",
+			"styleAttributes":{},
+			"x":-2660,
+			"y":-2620,
+			"width":660,
+			"height":787
+		},
+		{"id":"d7ec5a71c4533f89","type":"file","file":"zManagment/Media/Mobbin Web Screen Mobbin UI UX design inspiration for mobile web.mp4","x":-1780,"y":-3900,"width":880,"height":550},
+		{"id":"3c789c6e2ca806bb","type":"file","file":"zManagment/Media/Claude Web 2.png","x":-1826,"y":-1983,"width":820,"height":512,"color":"3"},
+		{"id":"ad34448eba7d4372","type":"file","file":"zManagment/Media/Matter Web 2.png","x":-1826,"y":-2560,"width":793,"height":495},
+		{"id":"81d0a6dd3c63512f","type":"file","file":"zManagment/Media/Pasted image 20260620115306.png","x":-1429,"y":-416,"width":892,"height":544},
+		{
+			"id":"1d141b9562d33bac",
+			"type":"text",
+			"text":"# ==The highest-leverage insight for SideQuestHQ==\n\nA veteran UX designer would likely conclude:\n\n**The first signup screen should not start with account creation.**\n\nIt should start with identity and intent.\n\nNot:\n\n```\nEmailPasswordCreate account\n```\n\nBut:\n\n```\nWhat do you want to finish learning?\n```\n\nBecause your product promise is not:\n\n> Create an account.\n\nYour product promise is:\n\n> Continue the thing you keep postponing.\n\nThe moment a user types:\n\n```\nMachine Learning Playlist\nGerman\nPsychology\nSystem Design\n```",
+			"styleAttributes":{},
+			"x":-2086,
+			"y":180,
+			"width":520,
+			"height":760
+		},
+		{
 			"id":"f9a8caffe0ada60d",
 			"type":"text",
 			"text":"# Most Pages Have One Visual Gravity Center\n\nYour eyes are pulled somewhere.\n\nUsually:\n\n```\nheadlineformillustration\n```\n\nNot all three equally.\n\nOne dominates.\n\nThe others support.\n\nGood pages have hierarchy.\n\nBad pages have competition.",
@@ -155,8 +80,69 @@
 			"width":432,
 			"height":560
 		},
+		{
+			"id":"50bab79fa0cdc2ee",
+			"type":"text",
+			"text":"# The Left Panel Is A Psychological Preview\n\nRemote does this particularly well.\n\nNotice the mini UI mockups.\n\nThose aren't screenshots.\n\nThey're future memories.\n\nThe page is showing:\n\n```\nAfter signup...this is what life looks like.\n```\n\nThe brain loves previews.\n\nUncertainty drops.",
+			"styleAttributes":{},
+			"x":-4281,
+			"y":-4760,
+			"width":549,
+			"height":480
+		},
+		{
+			"id":"c4edcc510d2a51d1",
+			"type":"text",
+			"text":"# ==Labels Above Fields Are Disappearing==\n\n==Many modern forms rely heavily on placeholders.==\n\nThis isn't always better UX.\n\nBut it reveals something:\n\nDesigners are trying to reduce visual density.\n\nThey're trading explicitness for simplicity.\n\nVeterans know:\n\n```\nLow frictionvsHigh clarity\n```\n\nis a constant tradeoff.",
+			"styleAttributes":{},
+			"x":-2740,
+			"y":160,
+			"width":520,
+			"height":472
+		},
+		{
+			"id":"56897bddd0185c3f",
+			"type":"text",
+			"text":"# ==Signup Screens Are Actually Risk Screens==\n\nThe user's hidden questions:\n\n```\nWill this waste my time?Will they spam me?Will I regret this?Will this be useful?Can I leave later?\n```\n\nThe best signup pages answer those questions without explicitly saying them",
+			"styleAttributes":{},
+			"x":-3725,
+			"y":-102,
+			"width":420,
+			"height":460
+		},
+		{
+			"id":"1fa8a9ecc2a48204",
+			"type":"text",
+			"text":"#  ==Selling reduced complexity== \n\"All in one\" approach\n\nEnterprise Signup Has Different Anxiety\n\nConsumer signup anxiety:\n\n```\nWill this be useful?\n```\n\nEnterprise signup anxiety:\n\n```\nWill this create work?\n```\n\nThat's why these pages emphasize:\n\n```\nsimpl\neeasy\nglobal\nfast\nall-in-one\n```\n\nThey're selling reduced complexity.\n\nNot excitement.",
+			"styleAttributes":{},
+			"x":-4440,
+			"y":260,
+			"width":460,
+			"height":600
+		},
+		{
+			"id":"dbcad78aa53aa8fd",
+			"type":"text",
+			"text":"# The Marketing Side Is Not Selling Features\n\nLook closely.\n\nAlmost none of the panels are feature-heavy.\n\nThey're outcome-heavy.\n\nNot:\n\n```\nPayroll\nCompliance\nContracts\n```\n\nBut:\n\n```\nHire internationally\n```\n\n---\n\nNot:\n\n```\nTeam management dashboard\n```\n\nBut:\n\n```\nManage global teams\n```\n\nThe signup screen sells transformation.\n\nNot capability.",
+			"styleAttributes":{},
+			"x":-5560,
+			"y":260,
+			"width":540,
+			"height":880
+		},
 		{"id":"fa416e0690b61b05","type":"file","file":"zManagment/Media/Pasted image 20260621122859.png","x":-3785,"y":-3052,"width":905,"height":564},
 		{"id":"7be272a1be12e350","type":"file","file":"zManagment/Media/Pasted image 20260621143748.png","x":-3792,"y":-3780,"width":860,"height":535},
+		{
+			"id":"3e6e48cdb5d1d543",
+			"type":"text",
+			"text":"# ==The Screen Is Split Into Two Brains==\n\nAll three examples use:\n\n```\nLeft Side  = Emotional Brain\nRight Side = Rational Brain\n```\n\nor vice versa.\n\nThe form exists for the rational brain.\n\nThe marketing panel exists for the emotional brain.\n\n---\n\nTraditional signup:\n\n```\n[ Form ]\n```\n\nSplit-screen signup:\n\n```\n[ Why this matters ] [ Do the thing ]\n```\n\nHuge difference.",
+			"styleAttributes":{},
+			"x":-5171,
+			"y":-4760,
+			"width":500,
+			"height":680
+		},
+		{"id":"7bc8b48d27a2b7b3","type":"file","file":"zManagment/Media/Pasted image 20260621144009.png","x":-5780,"y":-2407,"width":843,"height":524},
 		{"id":"680a95e74c79a60e","type":"file","file":"zManagment/Media/Pasted image 20260621144220.png","x":-3732,"y":-2427,"width":835,"height":519},
 		{
 			"id":"59c17243560f6852",
@@ -179,73 +165,23 @@
 			"height":564
 		},
 		{"id":"b15f69ece05df1ab","type":"file","file":"zManagment/Media/Pasted image 20260621144101.png","x":-5780,"y":-3099,"width":859,"height":593},
-		{
-			"id":"3e6e48cdb5d1d543",
-			"type":"text",
-			"text":"# ==The Screen Is Split Into Two Brains==\n\nAll three examples use:\n\n```\nLeft Side  = Emotional Brain\nRight Side = Rational Brain\n```\n\nor vice versa.\n\nThe form exists for the rational brain.\n\nThe marketing panel exists for the emotional brain.\n\n---\n\nTraditional signup:\n\n```\n[ Form ]\n```\n\nSplit-screen signup:\n\n```\n[ Why this matters ] [ Do the thing ]\n```\n\nHuge difference.",
-			"styleAttributes":{},
-			"x":-5171,
-			"y":-4760,
-			"width":500,
-			"height":680
-		},
-		{"id":"b8160c9fbd5b6a58","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-4774,"y":-3095,"width":942,"height":589},
-		{
-			"id":"50bab79fa0cdc2ee",
-			"type":"text",
-			"text":"# The Left Panel Is A Psychological Preview\n\nRemote does this particularly well.\n\nNotice the mini UI mockups.\n\nThose aren't screenshots.\n\nThey're future memories.\n\nThe page is showing:\n\n```\nAfter signup...this is what life looks like.\n```\n\nThe brain loves previews.\n\nUncertainty drops.",
-			"styleAttributes":{},
-			"x":-4281,
-			"y":-4760,
-			"width":549,
-			"height":480
-		},
-		{"id":"b5a4b66ddc877ff7","type":"file","file":"zManagment/Media/Pasted image 20260621143500.png","x":-4746,"y":-3789,"width":887,"height":549},
-		{
-			"id":"56897bddd0185c3f",
-			"type":"text",
-			"text":"# ==Signup Screens Are Actually Risk Screens==\n\nThe user's hidden questions:\n\n```\nWill this waste my time?Will they spam me?Will I regret this?Will this be useful?Can I leave later?\n```\n\nThe best signup pages answer those questions without explicitly saying them",
-			"styleAttributes":{},
-			"x":-3725,
-			"y":-102,
-			"width":420,
-			"height":460
-		},
 		{"id":"a562fcf197ce72f0","type":"file","file":"zManagment/Media/Pasted image 20260621144309.png","x":-5780,"y":-3790,"width":844,"height":580},
-		{
-			"id":"1fa8a9ecc2a48204",
-			"type":"text",
-			"text":"#  ==Selling reduced complexity== \n\"All in one\" approach\n\nEnterprise Signup Has Different Anxiety\n\nConsumer signup anxiety:\n\n```\nWill this be useful?\n```\n\nEnterprise signup anxiety:\n\n```\nWill this create work?\n```\n\nThat's why these pages emphasize:\n\n```\nsimpl\neeasy\nglobal\nfast\nall-in-one\n```\n\nThey're selling reduced complexity.\n\nNot excitement.",
-			"styleAttributes":{},
-			"x":-4440,
-			"y":260,
-			"width":460,
-			"height":600
-		},
-		{
-			"id":"dbcad78aa53aa8fd",
-			"type":"text",
-			"text":"# The Marketing Side Is Not Selling Features\n\nLook closely.\n\nAlmost none of the panels are feature-heavy.\n\nThey're outcome-heavy.\n\nNot:\n\n```\nPayroll\nCompliance\nContracts\n```\n\nBut:\n\n```\nHire internationally\n```\n\n---\n\nNot:\n\n```\nTeam management dashboard\n```\n\nBut:\n\n```\nManage global teams\n```\n\nThe signup screen sells transformation.\n\nNot capability.",
-			"styleAttributes":{},
-			"x":-5560,
-			"y":260,
-			"width":540,
-			"height":880
-		},
+		{"id":"4bdd82d352b10284","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-4739,"y":-2427,"width":916,"height":575},
 		{"id":"fc62416f002ce760","type":"file","file":"zManagment/Media/Pasted image 20260620115542.png","x":1100,"y":-76,"width":1481,"height":753},
-		{"id":"28f1a61bac47830e","type":"file","file":"zManagment/Media/Pasted image 20260621143425.png","x":3780,"y":-2588,"width":999,"height":625},
-		{
-			"id":"9c2ba4ab5cc0e83f",
-			"type":"text",
-			"text":"# Form Density Signals Company Type\n\nCompare:\n\n### Arcade\n\nTiny form\n\n```\nEmail\nContinue\n```\n\nFeels:\n\n```\nmodern\nstartup\nlow friction\nconsumer-ish\n```\n\n---\n\n### Deel\n\nMassive form\n\n```\nFirst name\nLast name\nCompanyRole\n```\n\nFeels:\n\n```\nserious\nenterprise\nB2B\nhigh-value\n```\n\nInteresting paradox:\n\nSometimes MORE fields increase trust.\n\nBecause the user expects seriousness.",
-			"styleAttributes":{},
-			"x":5005,
-			"y":-3451,
-			"width":660,
-			"height":1198
-		},
+		{"id":"b8160c9fbd5b6a58","type":"file","file":"zManagment/Media/Mindtrip Web 307.png","x":-4774,"y":-3095,"width":942,"height":589},
+		{"id":"b5a4b66ddc877ff7","type":"file","file":"zManagment/Media/Pasted image 20260621143500.png","x":-4746,"y":-3789,"width":887,"height":549},
 		{"id":"b7667c0df10e3c87","type":"file","file":"zManagment/Media/Pasted image 20260621144117.png","x":2776,"y":-1793,"width":903,"height":566},
-		{"id":"42d68b22c3f35e2b","type":"file","file":"zManagment/Media/Pasted image 20260621144431.png","x":3780,"y":-1791,"width":999,"height":622},
+		{
+			"id":"89b88bf4f54971e1",
+			"type":"text",
+			"text":"# Form Width Is Intentionally Small\n\nNotice most forms are narrow.\n\nThis is not aesthetic.\n\nWide forms create:\n\n```\nlong eye travellarge visual footprinthigher perceived complexity\n```\n\nNarrow forms create:\n\n```\nquick scanningshorter eye movementsfaster completion\n```\n\nHuman brains estimate effort visually before reading.\n\nA narrow form literally feels easier.",
+			"styleAttributes":{},
+			"x":2019,
+			"y":-831,
+			"width":660,
+			"height":560
+		},
+		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":2679,"y":-2639,"width":1000,"height":626},
 		{
 			"id":"aba4323ff9e61dd7",
 			"type":"text",
@@ -266,6 +202,29 @@
 			"width":540,
 			"height":600
 		},
+		{"id":"0117b6495998caee","type":"file","file":"zManagment/Media/Linear Web 3.png","x":1600,"y":-2589,"width":1000,"height":623},
+		{
+			"id":"fa841de77acadaa5",
+			"type":"text",
+			"text":"# Pattern 1  Progressive Commitment\n\nNotice how the simplest page is:\n\n- logo\n- email field\n- continue\n\nNo password.  \nNo name.  \nNo phone.\n\nThis isn't laziness.\n\nThis is commitment architecture.\n\nThe brain evaluates:\n\n```\n1 field = easy7 fields = work\n```\n\nEven if both ultimately require the same information.\n\nDesigners call this:\n\n**Perceived Effort Reduction**\n\nThe user mentally says:\n\n> \"Sure, I can enter an email.\"\n\nOnly after commitment begins do you ask for more.\n\n---",
+			"styleAttributes":{},
+			"x":1080,
+			"y":-2671,
+			"width":320,
+			"height":780
+		},
+		{"id":"28f1a61bac47830e","type":"file","file":"zManagment/Media/Pasted image 20260621143425.png","x":3780,"y":-2588,"width":999,"height":625},
+		{
+			"id":"9c2ba4ab5cc0e83f",
+			"type":"text",
+			"text":"# Form Density Signals Company Type\n\nCompare:\n\n### Arcade\n\nTiny form\n\n```\nEmail\nContinue\n```\n\nFeels:\n\n```\nmodern\nstartup\nlow friction\nconsumer-ish\n```\n\n---\n\n### Deel\n\nMassive form\n\n```\nFirst name\nLast name\nCompanyRole\n```\n\nFeels:\n\n```\nserious\nenterprise\nB2B\nhigh-value\n```\n\nInteresting paradox:\n\nSometimes MORE fields increase trust.\n\nBecause the user expects seriousness.",
+			"styleAttributes":{},
+			"x":5005,
+			"y":-3451,
+			"width":660,
+			"height":1198
+		},
+		{"id":"42d68b22c3f35e2b","type":"file","file":"zManagment/Media/Pasted image 20260621144431.png","x":3780,"y":-1791,"width":999,"height":622},
 		{
 			"id":"e1c8eda1297ed98b",
 			"type":"text",
@@ -276,18 +235,40 @@
 			"width":560,
 			"height":720
 		},
+		{"id":"23ea5071d764f1be","type":"file","file":"zManagment/Media/Pasted image 20260621123411.png","x":2820,"y":-3608,"width":960,"height":600},
+		{"id":"a4c3eecff8d7d3a2","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":1739,"y":-3584,"width":1000,"height":623},
+		{"id":"f240f94886363322","type":"file","file":"zManagment/Media/Pasted image 20260621121906.png","x":420,"y":-4820,"width":828,"height":516},
+		{"id":"7621ef40055a8b18","type":"file","file":"zManagment/Media/Pasted image 20260621123122.png","x":1600,"y":-1793,"width":999,"height":624},
 		{
-			"id":"89b88bf4f54971e1",
+			"id":"74e60c9523754cd0",
 			"type":"text",
-			"text":"# Form Width Is Intentionally Small\n\nNotice most forms are narrow.\n\nThis is not aesthetic.\n\nWide forms create:\n\n```\nlong eye travellarge visual footprinthigher perceived complexity\n```\n\nNarrow forms create:\n\n```\nquick scanningshorter eye movementsfaster completion\n```\n\nHuman brains estimate effort visually before reading.\n\nA narrow form literally feels easier.",
+			"text":"# The User Is Already Mentally Using The Product\n\nClaude is the strongest example.\n\nThe workspace preview lets me imagine:\n\n```\nmy projectmy documentmy workflow\n```\n\nbefore I've even typed my email.\n\nThat is essentially free product adoption happening before signup.",
 			"styleAttributes":{},
-			"x":2019,
-			"y":-831,
-			"width":660,
+			"x":-900,
+			"y":-1220,
+			"width":400,
+			"height":420
+		},
+		{
+			"id":"c454611c3e604983",
+			"type":"text",
+			"text":"## These Animations Are Not Explaining\n\nThey're Signaling.\n\nBig distinction.\n\nA founder thinks:\n\n> I need users to understand everything.\n\nVeteran designer thinks:\n\n> I need users to believe something valuable exists behind this door.\n\nThe animation isn't teaching.\n\nIt's creating confidence.",
+			"styleAttributes":{},
+			"x":-2000,
+			"y":-5020,
+			"width":440,
 			"height":560
 		},
-		{"id":"4bdd82d352b10284","type":"file","file":"zManagment/Media/Runway Web 2.png","x":-4739,"y":-2427,"width":916,"height":575},
-		{"id":"f240f94886363322","type":"file","file":"zManagment/Media/Pasted image 20260621121906.png","x":420,"y":-4820,"width":828,"height":516},
+		{
+			"id":"5f8c05b87ba59937",
+			"type":"text",
+			"text":"## The User Has No Mental Model Yet\n\nThis is especially important for SideQuestHQ.\n\nFor known products:\n\n```\nSlackDiscordLinkedIn\n```\n\npeople already know what happens after signup.\n\nFor new categories:\n\n```\nMobbinSideQuestHQNovel SaaS\n```\n\nthey don't.\n\nThe biggest anxiety becomes:\n\n> What happens after I create this account?\n\nAnimation answers that before the question fully forms.",
+			"styleAttributes":{},
+			"x":-686,
+			"y":-5180,
+			"width":380,
+			"height":740
+		},
 		{"id":"7c1d0663f3699f7f","type":"file","file":"zManagment/Media/Pasted image 20260621123734.png","x":1400,"y":-4810,"width":820,"height":513},
 		{"id":"a54ad37740f18547","type":"file","file":"zManagment/Media/Pasted image 20260621124307.png","x":2280,"y":-4810,"width":720,"height":450},
 		{
@@ -300,21 +281,18 @@
 			"width":530,
 			"height":500
 		},
-		{"id":"b0f9528d586c83e2","type":"file","file":"zManagment/Media/Pasted image 20260621124417.png","x":2679,"y":-2639,"width":1000,"height":626},
-		{"id":"0117b6495998caee","type":"file","file":"zManagment/Media/Linear Web 3.png","x":1600,"y":-2589,"width":1000,"height":623},
+		{"id":"30cd75e22b825547","type":"file","file":"zManagment/Media/Pasted image 20260621123500.png","x":-700,"y":-2608,"width":785,"height":491},
+		{"id":"79a1e7264bf14afc","type":"file","file":"zManagment/Media/ElevenLabs Web 3.png","x":-700,"y":-1961,"width":786,"height":490},
 		{
-			"id":"fa841de77acadaa5",
+			"id":"47b640cd8abb0ad5",
 			"type":"text",
-			"text":"# Pattern 1  Progressive Commitment\n\nNotice how the simplest page is:\n\n- logo\n- email field\n- continue\n\nNo password.  \nNo name.  \nNo phone.\n\nThis isn't laziness.\n\nThis is commitment architecture.\n\nThe brain evaluates:\n\n```\n1 field = easy7 fields = work\n```\n\nEven if both ultimately require the same information.\n\nDesigners call this:\n\n**Perceived Effort Reduction**\n\nThe user mentally says:\n\n> \"Sure, I can enter an email.\"\n\nOnly after commitment begins do you ask for more.\n\n---",
+			"text":"### Gifting Platform\n\nBackground shows:\n\n```\nbeautiful products\n```\n\nNarrative:\n\n```\ndiscover gifts\n```\n\n---\n\n### ElevenLabs\n\nBackground shows:\n\n```\nvoice cards\ngenerated outputs\n```\n\nNarrative:\n\n```\ncreate voices\n```\n",
 			"styleAttributes":{},
-			"x":1080,
-			"y":-2671,
-			"width":320,
-			"height":780
+			"x":400,
+			"y":-2362,
+			"width":400,
+			"height":602
 		},
-		{"id":"7621ef40055a8b18","type":"file","file":"zManagment/Media/Pasted image 20260621123122.png","x":1600,"y":-1793,"width":999,"height":624},
-		{"id":"a45ea6a0b36d8424","type":"file","file":"zManagment/Media/Pasted image 20260621143915.png","x":-800,"y":-3880,"width":927,"height":580},
-		{"id":"23ea5071d764f1be","type":"file","file":"zManagment/Media/Pasted image 20260621123411.png","x":2820,"y":-3608,"width":960,"height":600},
 		{
 			"id":"88e133fe4aa27013",
 			"type":"text",
@@ -325,7 +303,29 @@
 			"width":414,
 			"height":737
 		},
-		{"id":"a4c3eecff8d7d3a2","type":"file","file":"zManagment/Media/Cosmos Web 8.png","x":1739,"y":-3584,"width":1000,"height":623}
+		{
+			"id":"fbf4ab9de7235c47",
+			"type":"text",
+			"text":"## Motion Creates Perceived Product Depth\n\nThis is subtle.\n\nSuppose two products are identical.\n\nProduct A:\n\n```\nstatic screenshot\n```\n\nProduct B:\n\n```\nmoving ecosystem preview\n```\n\nPeople consistently perceive Product B as:\n\n```\nlargermore sophisticatedmore valuable\n```\n\nEven when functionality is identical.\n\nWhy?\n\nBecause movement implies systems.\n\nStatic implies pages.\n\nMotion implies an engine.",
+			"styleAttributes":{},
+			"x":-1520,
+			"y":-5020,
+			"width":520,
+			"height":667
+		},
+		{
+			"id":"77bd5c0b0275faec",
+			"type":"text",
+			"text":"## Motion Creates Momentum Before Signup\n\nPeople underestimate this.\n\nA static page feels:\n\n```\nstopped\n```\n\nA moving page feels:\n\n```\nalready in progress\n```\n\nHumans naturally want to join moving things.\n\nThis is why:\n\n```\ncrowds attract crowdsbusy restaurants attract peopleactive communities attract members\n```\n\nMotion creates the feeling:\n\n```\nsomething is happening here\n```",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-5020,
+			"width":260,
+			"height":780
+		},
+		{"id":"399c91460d174e9c","type":"file","file":"zManagment/Media/Pasted image 20260621124526.png","x":-1826,"y":-3255,"width":889,"height":555},
+		{"id":"0ed0a3262c7fe3a4","type":"file","file":"zManagment/Media/Pasted image 20260621124519.png","x":-700,"y":-3220,"width":785,"height":490},
+		{"id":"a45ea6a0b36d8424","type":"file","file":"zManagment/Media/Pasted image 20260621143915.png","x":-800,"y":-3880,"width":927,"height":580}
 	],
 	"edges":[
 		{
