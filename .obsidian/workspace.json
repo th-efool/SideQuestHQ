@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+                "viewState": {
+                  "x": 6575.681389244095,
+                  "y": 68.34969536115221,
+                  "zoom": 1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2. Explore Page Canvas"
             }
           }
         ]
@@ -204,6 +211,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/4. Chat.canvas",
+    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
@@ -212,9 +221,7 @@
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
-    "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
-    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "_AI CONTEXT/ANiMATED SHOT.md",
     "MainCanvas/App/Screens/Screensz.canvas",
     "zManagment/Media/Pasted image 20260624202434.png",
