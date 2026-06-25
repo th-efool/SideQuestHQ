@@ -11,14 +11,12 @@
             "id": "fd198734434144ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MainCanvas/App/App.md",
-                "mode": "source",
-                "source": false
+                "file": "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png"
               },
-              "icon": "lucide-file",
-              "title": "App"
+              "icon": "lucide-image",
+              "title": "SideQuestHQ_Logo_With_Metadata"
             }
           }
         ]
@@ -208,6 +206,9 @@
   },
   "active": "fd198734434144ea",
   "lastOpenFiles": [
+    "_AI CONTEXT/Pando_With_Metadata.png",
+    "_AI CONTEXT/NovaPaw_With_Metadata.png",
+    "MainCanvas/App/App.md",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
@@ -220,7 +221,6 @@
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "_AI CONTEXT/ANiMATED SHOT.md",
-    "MainCanvas/App/Screens/Screensz.canvas",
     "zManagment/Media/Pasted image 20260624202434.png",
     "zManagment/Media/Pasted image 20260624202343.png",
     "zManagment/Media/Pasted image 20260624202331.png",
@@ -230,11 +230,9 @@
     "zManagment/Media/Pasted image 20260624202137.png",
     "zManagment/Media/Pasted image 20260624202127.png",
     "zManagment/Media/Pasted image 20260624202000.png",
-    "zManagment/Media/Pasted image 20260624201940.png",
     "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
-    "MainCanvas/App/App.md",
     "_AI CONTEXT/App Signing/Keystore information.md",
     "policy/index.md",
     "policy",
