@@ -11,17 +11,14 @@
             "id": "f533b5ba37cc746b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/Website/Screens/My Cohorts.canvas",
-                "viewState": {
-                  "x": 47,
-                  "y": 2.7578125,
-                  "zoom": 1
-                }
+                "file": "MainCanvas/Website/Screens/Dashboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "My Cohorts"
+              "icon": "lucide-file",
+              "title": "Dashboard"
             }
           }
         ]
@@ -209,15 +206,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f533b5ba37cc746b",
+  "active": "59c461e2609c7fcd",
   "lastOpenFiles": [
-    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
+    "MainCanvas/Website/Website.canvas",
     "MainCanvas/Website/Screens/Dashboard.canvas",
+    "MainCanvas/Website/Screens/My Cohorts.canvas",
+    "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
-    "MainCanvas/Website/Screens/My Cohorts.canvas",
     "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
     "_AI CONTEXT/ANiMATED SHOT.md",
