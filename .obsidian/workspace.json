@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6e3f7f2779e51ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fd198734434144ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-                "viewState": {
-                  "x": 6575.681389244095,
-                  "y": 68.34969536115221,
-                  "zoom": 1
-                }
+                "file": "MainCanvas/App/App.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2. Explore Page Canvas"
+              "icon": "lucide-file",
+              "title": "App"
             }
           }
         ]
@@ -209,11 +206,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fd198734434144ea",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
-    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Website/Screens/Dashboard.canvas",
