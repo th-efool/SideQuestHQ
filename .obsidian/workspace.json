@@ -11,14 +11,17 @@
             "id": "f533b5ba37cc746b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MainCanvas/Website/Screens/Dashboard.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
+                "viewState": {
+                  "x": 6394.163520541263,
+                  "y": 133.74416120775658,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dashboard"
+              "icon": "lucide-layout-dashboard",
+              "title": "2. Explore Page Canvas"
             }
           }
         ]
@@ -206,13 +209,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "59c461e2609c7fcd",
+  "active": "f533b5ba37cc746b",
   "lastOpenFiles": [
+    "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Website/Screens/Dashboard.canvas",
     "MainCanvas/Website/Screens/My Cohorts.canvas",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
-    "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Marketing.canvas",
     "MainCanvas/Use SideQuestHQ yourself.canvas",
     "MainCanvas/App/Screens/4. Chat.canvas",
@@ -225,7 +228,6 @@
     "zManagment/Media/Pasted image 20260624202331.png",
     "zManagment/Media/Pasted image 20260624202317.png",
     "zManagment/Media/Pasted image 20260624202306.png",
-    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "zManagment/Media/Pasted image 20260624202152.png",
     "zManagment/Media/Pasted image 20260624202137.png",
     "zManagment/Media/Pasted image 20260624202127.png",
