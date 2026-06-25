@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2519a4fa673e89a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f533b5ba37cc746b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "_AI CONTEXT/ANiMATED SHOT.md",
-                "mode": "source",
-                "source": false
+                "file": "MainCanvas/App/Screens/4. Chat.canvas",
+                "viewState": {
+                  "x": -176.5,
+                  "y": 30,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ANiMATED SHOT"
+              "icon": "lucide-layout-dashboard",
+              "title": "4. Chat"
             }
           }
         ]
@@ -206,8 +209,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f533b5ba37cc746b",
   "lastOpenFiles": [
+    "MainCanvas/Website/Screens/Dashboard.md",
+    "MainCanvas/Website/Screens/My Cohorts.canvas",
+    "MainCanvas/Website/Screens/Dashboard.canvas",
+    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
+    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
+    "MainCanvas/App/Screens/4. Chat.canvas",
     "_AI CONTEXT/ANiMATED SHOT.md",
     "MainCanvas/App/Screens/Screensz.canvas",
     "zManagment/Media/Pasted image 20260624202434.png",
@@ -216,21 +225,16 @@
     "zManagment/Media/Pasted image 20260624202317.png",
     "zManagment/Media/Pasted image 20260624202306.png",
     "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-    "MainCanvas/Website/Screens/Dashboard.md",
-    "MainCanvas/Website/Screens/Dashboard.canvas",
     "zManagment/Media/Pasted image 20260624202152.png",
     "zManagment/Media/Pasted image 20260624202137.png",
     "zManagment/Media/Pasted image 20260624202127.png",
     "zManagment/Media/Pasted image 20260624202000.png",
     "zManagment/Media/Pasted image 20260624201940.png",
-    "MainCanvas/App/Screens/3. My Cohorts & Cohort Page.canvas",
-    "MainCanvas/App/Screens/4. Chat.canvas",
     "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
     "MainCanvas/App/App.md",
     "MainCanvas/App/Designing Addiction.canvas",
-    "MainCanvas/App/Screens/Onboarding Canvas.canvas",
     "_AI CONTEXT/App Signing/Keystore information.md",
     "policy/index.md",
     "policy",
@@ -240,7 +244,6 @@
     "MainCanvas/App/App Design.canvas",
     "MainCanvas/App/Screens/Untitled.md",
     "MainCanvas/App/Screens/Untitled 1.md",
-    "MainCanvas/Website/Screens/My Cohorts.canvas",
     "MainCanvas/Website/Screens/SignUp n Onboarding.canvas",
     "MainCanvas/Website/Screens/Coho.md",
     "_AI CONTEXT/VISUAL ACCURATE DESCRIPTIONS.md",
@@ -262,7 +265,6 @@
     "_Assets Img Anim/Pando/Pando.md",
     "_Assets Img Anim/Novapaw/Novapaw.md",
     "_Assets Img Anim/Kip/Kip.md",
-    "_Assets Img Anim/Hammy/Hammy.md",
     "_AI CONTEXT"
   ]
 }
