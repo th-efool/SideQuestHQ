@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3f7f2779e51ce5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fd198734434144ea",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png"
-              },
-              "icon": "lucide-image",
-              "title": "SideQuestHQ_Logo_With_Metadata"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -204,8 +202,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fd198734434144ea",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "_AI CONTEXT/Pando_With_Metadata.png",
     "_AI CONTEXT/NovaPaw_With_Metadata.png",
     "MainCanvas/App/App.md",
@@ -229,7 +228,6 @@
     "zManagment/Media/Pasted image 20260624202152.png",
     "zManagment/Media/Pasted image 20260624202137.png",
     "zManagment/Media/Pasted image 20260624202127.png",
-    "zManagment/Media/Pasted image 20260624202000.png",
     "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
