@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2519a4fa673e89a5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f533b5ba37cc746b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
-                "viewState": {
-                  "x": 4256.608733695036,
-                  "y": 197.26343020164393,
-                  "zoom": 0.3333333333333334
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2. Explore Page Canvas"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -209,8 +202,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f533b5ba37cc746b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MainCanvas/App/Screens/2. Explore Page Canvas.canvas",
     "MainCanvas/Website/Screens/Dashboard.md",
     "MainCanvas/Website/Website.canvas",
     "MainCanvas/Website/Screens/Dashboard.canvas",
