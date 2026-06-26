@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "00602f738617e704",
@@ -208,8 +205,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_AI CONTEXT/Color System.md",
+    "Lemme Fix You/APP Architecture.md",
+    "Lemme Fix You/Social Seli.md",
     "Untitled.md",
+    "_AI CONTEXT/Color System.md",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "_AI CONTEXT/Pando_With_Metadata.png",
     "_AI CONTEXT/NovaPaw_With_Metadata.png",
@@ -261,8 +260,6 @@
     "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
     "_Assets Img Anim/Group Pics/Group Pics.md",
     "_Assets Img Anim/Pando/Pando.md",
-    "_Assets Img Anim/Novapaw/Novapaw.md",
-    "_Assets Img Anim/Kip/Kip.md",
     "_AI CONTEXT"
   ]
 }
