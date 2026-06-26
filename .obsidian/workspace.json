@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e5563cb5907341a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "97bd4978f1deb725",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "00602f738617e704",
@@ -203,8 +202,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "97bd4978f1deb725",
   "lastOpenFiles": [
+    "_AI CONTEXT/App Signing/Keystore information.md",
     "Lemme Fix You/APP Architecture.md",
     "Lemme Fix You/Social Seli.md",
     "Untitled.md",
@@ -235,7 +235,6 @@
     "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
-    "_AI CONTEXT/App Signing/Keystore information.md",
     "policy/index.md",
     "policy",
     "_AI CONTEXT/App Signing/upload_certificate.pem",
