@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "_Assets Img Anim/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,8 +31,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,9 +217,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8783eb160e12d303",
+  "active": "6174ccfdde726825",
   "lastOpenFiles": [
-    "Untitled.md",
+    "_Assets Img Anim/Untitled.md",
     "_AI CONTEXT/App Signing/Keystore information.md",
     "Lemme Fix You/APP Architecture.md",
     "Lemme Fix You/Social Seli.md",
