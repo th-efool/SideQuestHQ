@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Assets Img Anim/Untitled.md",
+                "file": "_AI CONTEXT/Manga Project/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Untitled"
+            }
+          },
+          {
+            "id": "a3d978b70fbbff4e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "zManagment/Media/Pasted image 20260627155009.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260627155009"
             }
           },
           {
@@ -219,7 +231,10 @@
   },
   "active": "6174ccfdde726825",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260627155009.png",
+    "_AI CONTEXT/Manga Project/Untitled.md",
     "_Assets Img Anim/Untitled.md",
+    "_AI CONTEXT/Manga Project",
     "_AI CONTEXT/App Signing/Keystore information.md",
     "Lemme Fix You/APP Architecture.md",
     "Lemme Fix You/Social Seli.md",
@@ -246,7 +261,6 @@
     "zManagment/Media/Pasted image 20260624202317.png",
     "zManagment/Media/Pasted image 20260624202306.png",
     "zManagment/Media/Pasted image 20260624202152.png",
-    "zManagment/Media/Pasted image 20260624202137.png",
     "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
@@ -271,9 +285,6 @@
     "MainCanvas/Website",
     "MainCanvas/Untitled.md",
     "MainCanvas/App",
-    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md",
-    "_Assets Img Anim/Group Pics/Group Pics.md",
-    "_Assets Img Anim/Pando/Pando.md",
-    "_AI CONTEXT"
+    "_WTF ARE WE/QNA, Tagline, WHO,What ARE WE.md"
   ]
 }
