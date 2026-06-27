@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "8783eb160e12d303",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +218,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6174ccfdde726825",
+  "active": "8783eb160e12d303",
   "lastOpenFiles": [
     "Untitled.md",
     "_AI CONTEXT/App Signing/Keystore information.md",
