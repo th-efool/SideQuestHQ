@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "00602f738617e704",
@@ -208,6 +209,7 @@
   },
   "active": "23b1d1fe2d9ea795",
   "lastOpenFiles": [
+    "zManagment/Media/Pasted image 20260627161459.png",
     "zManagment/Media/Pasted image 20260627160524.png",
     "_Assets Img Anim/_Assets Img Anim.md",
     "zManagment/Media/Pasted image 20260627155009.png",
@@ -239,7 +241,6 @@
     "zManagment/Media/Pasted image 20260624202331.png",
     "zManagment/Media/Pasted image 20260624202317.png",
     "zManagment/Media/Pasted image 20260624202306.png",
-    "zManagment/Media/Pasted image 20260624202152.png",
     "MainCanvas/App/NavButtonsTop.md",
     "MainCanvas/App/NavButtonsBottom.md",
     "MainCanvas/App/Untitled.md",
