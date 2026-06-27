@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "6174ccfdde726825",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,12 +217,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6174ccfdde726825",
   "lastOpenFiles": [
+    "Untitled.md",
     "_AI CONTEXT/App Signing/Keystore information.md",
     "Lemme Fix You/APP Architecture.md",
     "Lemme Fix You/Social Seli.md",
-    "Untitled.md",
     "_AI CONTEXT/Color System.md",
     "_AI CONTEXT/SideQuestHQ_Logo_With_Metadata.png",
     "_AI CONTEXT/Pando_With_Metadata.png",
