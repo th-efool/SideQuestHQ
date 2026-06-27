@@ -29,7 +29,7 @@ They simply watch.
 # Overall Build
 
 Height:  
-Around **181–184 cm (5'11"–6'0")**
+Around *5'10**
 
 Build:
 
